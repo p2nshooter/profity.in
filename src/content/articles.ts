@@ -521,6 +521,306 @@ export const ARTICLES: Article[] = [
       },
     ],
   },
+  {
+    slug: 'health-insurance-family-guide',
+    category: 'bima',
+    titleHi: 'हेल्थ इंश्योरेंस: एक अस्पताल-बिल से पूरी बचत बह जाने से पहले पढ़िए',
+    titleEn: 'Health Insurance: Read This Before One Hospital Bill Washes Away Your Savings',
+    excerptHi: 'भारत में मध्यम वर्ग के कर्ज़ में डूबने का सबसे बड़ा अकेला कारण मेडिकल ख़र्च है। कितना कवर लें, फ़ैमिली फ्लोटर कैसे चुनें, और क्लेम के समय कौन-सी शर्तें काटती हैं।',
+    excerptEn: 'Medical bills are the single biggest reason middle-class Indian families fall into debt. How much cover to take, how to choose a family floater, and the clauses that bite at claim time.',
+    date: '2026-07-19',
+    minutes: 9,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'भारतीय परिवारों की बचत का सबसे बड़ा दुश्मन बाज़ार की गिरावट नहीं, अस्पताल का बिल है। एक बड़ी बीमारी या दुर्घटना — और बरसों की जमा-पूँजी, कभी-कभी क़र्ज़ समेत, कुछ हफ़्तों में निकल जाती है। हेल्थ इंश्योरेंस इसी एक झटके के विरुद्ध ढाल है, और टर्म प्लान के बाद यह हर परिवार की दूसरी अनिवार्य पॉलिसी है।',
+          'फिर भी करोड़ों परिवार या तो बिना कवर के हैं, या इतने छोटे कवर के साथ कि वह आज के मेडिकल ख़र्च के सामने काग़ज़ी साबित होता है। इस लेख में हम कवर की सही रक़म, पॉलिसी चुनने की कसौटियाँ और क्लेम के समय काम आने वाली बारीकियाँ समझेंगे।',
+        ],
+        pEn: [
+          'The greatest enemy of an Indian family’s savings is not a market crash but a hospital bill. One serious illness or accident — and years of accumulation, sometimes with fresh debt on top, drain away in weeks. Health insurance is the shield against exactly this blow, and after a term plan it is every family’s second non-negotiable policy.',
+          'Yet crores of families are either uncovered or carry covers so small they turn out to be paper against today’s medical costs. In this article we work out the right cover amount, the tests for choosing a policy, and the fine print that matters when a claim actually happens.',
+        ],
+      },
+      {
+        hHi: 'कितना कवर, किस ढाँचे में',
+        hEn: 'How much cover, in what structure',
+        pHi: [
+          'महानगर के निजी अस्पतालों के भाव देखते हुए चार सदस्यों के परिवार के लिए ₹10–15 लाख का फ़ैमिली फ्लोटर आज एक व्यावहारिक न्यूनतम है; छोटे शहरों में ₹5–10 लाख से शुरुआत हो सकती है। फ्लोटर का गणित समझ लीजिए: पूरी रक़म परिवार में साझा रहती है — एक सदस्य की बड़ी बीमारी बाक़ियों का कवर भी खा सकती है।',
+          'लागत घटाने और कवर बढ़ाने की सबसे कारगर तरकीब है बेस + सुपर टॉप-अप का जोड़: मध्यम बेस पॉलिसी के ऊपर ऊँची डिडक्टिबल वाला सुपर टॉप-अप बहुत कम प्रीमियम में कुल कवर को ₹50 लाख–1 करोड़ तक ले जाता है। नौकरी वाला ग्रुप-कवर अच्छा बोनस है, पर उस पर अकेले टिकना ग़लती है — नौकरी छूटते ही वह भी छूट जाता है।',
+        ],
+        pEn: [
+          'At metro private-hospital rates, a ₹10–15 lakh family floater is today’s practical minimum for a family of four; in smaller towns ₹5–10 lakh can be a start. Understand the floater’s arithmetic: the sum is shared across the family — one member’s major illness can consume everyone’s cover.',
+          'The most effective trick for more cover at less cost is the base + super top-up pairing: over a moderate base policy, a high-deductible super top-up lifts total cover to ₹50 lakh–1 crore for a surprisingly small premium. The employer’s group cover is a fine bonus, but relying on it alone is a mistake — it ends the day the job does.',
+        ],
+      },
+      {
+        hHi: 'पॉलिसी परखने की छह कसौटियाँ',
+        hEn: 'Six tests of a good policy',
+        pHi: [
+          'एक: रूम-रेंट की सीमा — “₹5,000 प्रतिदिन” जैसी सीमा वाले प्लान में महँगा कमरा लेते ही पूरा बिल आनुपातिक कटौती से कटता है; “नो रूम-रेंट कैप” वाले प्लान को प्राथमिकता दीजिए। दो: को-पेमेंट — हर क्लेम का 10–20% अपनी जेब से देने की शर्त सस्ते प्रीमियम का छिपा दाम है। तीन: पहले से मौजूद बीमारियों की प्रतीक्षा-अवधि — जितनी छोटी, उतना अच्छा।',
+          'चार: डे-केयर और आधुनिक इलाज (कीमो, डायलिसिस, रोबोटिक सर्जरी) साफ़ शब्दों में शामिल हों। पाँच: रीस्टोरेशन — कवर ख़त्म होने पर उसी साल दोबारा भरने की सुविधा फ्लोटर में बड़ी राहत है। छह: बीमा कंपनी का क्लेम-रिकॉर्ड और कैशलेस अस्पताल-नेटवर्क आपके शहर में — काग़ज़ पर सबसे सस्ता प्लान क्लेम के दिन सबसे महँगा साबित हो सकता है।',
+        ],
+        pEn: [
+          'One: the room-rent limit — with a “₹5,000 per day” cap, choosing a costlier room triggers proportionate deduction across the whole bill; prefer plans with no room-rent cap. Two: co-payment — paying 10–20% of every claim yourself is the hidden price of a cheap premium. Three: the waiting period for pre-existing diseases — the shorter, the better.',
+          'Four: day-care and modern treatments (chemo, dialysis, robotic surgery) explicitly covered. Five: restoration — refilling of the cover within the same year is a real relief on floaters. Six: the insurer’s claim record and its cashless hospital network in your city — the cheapest plan on paper can prove the costliest on claim day.',
+        ],
+      },
+      {
+        hHi: 'क्लेम के दिन काम आने वाली आदतें',
+        hEn: 'Habits that pay off on claim day',
+        pHi: [
+          'प्रस्ताव फ़ॉर्म में स्वास्थ्य-इतिहास पूरी ईमानदारी से लिखिए — छिपाई गई बीमारी क्लेम-अस्वीकृति का सबसे बड़ा कारण है। पॉलिसी हर साल बिना चूक नवीनीकृत कीजिए; टूटी पॉलिसी प्रतीक्षा-अवधि फिर से शुरू कर देती है। परिवार को बताइए कि पॉलिसी कहाँ है और कैशलेस के लिए किस नंबर पर बात करनी है।',
+          'नियोजित भर्ती से पहले बीमा कंपनी से पूर्व-अनुमोदन लीजिए और अस्पताल के बीमा-डेस्क पर पॉलिसी की प्रति साथ रखिए। हर दस्तावेज़ — जाँच रिपोर्ट, बिल, डिस्चार्ज समरी — की प्रति सँभालिए। बीमा एक वादा है, और वादे उन्हीं के पूरे मिलते हैं जो काग़ज़ पूरे रखते हैं।',
+        ],
+        pEn: [
+          'Fill the proposal form’s health history with complete honesty — concealed illness is the biggest cause of rejected claims. Renew every year without a gap; a lapsed policy restarts the waiting periods. Tell the family where the policy lives and which number to call for cashless approval.',
+          'Before a planned admission, obtain pre-authorisation and carry the policy copy to the hospital’s insurance desk. Preserve every document — test reports, bills, discharge summary. Insurance is a promise, and promises are honoured for those whose paperwork is whole.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'fd-vs-debt-funds',
+    category: 'bachat',
+    titleHi: 'FD बनाम डेट फंड: सुरक्षित पैसे की दो सवारियाँ, फ़र्क़ समझकर चुनिए',
+    titleEn: 'Fixed Deposits vs Debt Funds: Two Vehicles for Safe Money, Chosen with Understanding',
+    excerptHi: 'दोनों “सुरक्षित” कहलाते हैं, पर गारंटी, टैक्स, तरलता और जोखिम में ज़मीन-आसमान का अंतर है। किस पैसे के लिए FD सही है और किसके लिए डेट फंड — साफ़-साफ़।',
+    excerptEn: 'Both are called “safe”, yet they differ sharply in guarantees, tax, liquidity and risk. Which money belongs in an FD and which in a debt fund — plainly told.',
+    date: '2026-07-21',
+    minutes: 8,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'भारतीय बचतकर्ता का पहला प्यार फिक्स्ड डिपॉज़िट है — दर पहले से तय, बैंक की दीवार जितना भरोसा, और ₹5 लाख तक DICGC बीमा। डेट म्यूचुअल फंड उसी “सुरक्षित पैसे” की दूसरी सवारी हैं: वे सरकारी प्रतिभूतियों, कॉरपोरेट बॉन्ड और मनी-मार्केट साधनों में लगाते हैं, और सही श्रेणी में जोखिम काफ़ी कम रहता है।',
+          'ग़लती तब होती है जब दोनों को एक ही चीज़ समझ लिया जाता है। FD में रिटर्न की गारंटी है पर लचीलापन कम; डेट फंड में गारंटी नहीं पर तरलता, विविधीकरण और कुछ स्थितियों में बेहतर कर-कुशलता है। चुनाव उत्पाद से नहीं, पैसे के मक़सद से शुरू होना चाहिए।',
+        ],
+        pEn: [
+          'The Indian saver’s first love is the fixed deposit — a rate known in advance, trust as solid as the bank’s wall, and DICGC insurance up to ₹5 lakh. Debt mutual funds are the second vehicle for the same “safe money”: they invest in government securities, corporate bonds and money-market instruments, and in the right category the risk stays modest.',
+          'The mistake is treating the two as the same thing. An FD guarantees its return but bends little; a debt fund guarantees nothing but offers liquidity, diversification and, in some situations, better tax efficiency. The choice should start from the money’s purpose, not the product.',
+        ],
+      },
+      {
+        hHi: 'गारंटी, जोखिम और तरलता का असली नक़्शा',
+        hEn: 'The real map of guarantee, risk and liquidity',
+        pHi: [
+          'FD का जोखिम-नक़्शा सीधा है: बैंक डूबे बिना पैसा नहीं डूबता, और ₹5 लाख तक बीमा भी है; क़ीमत यह कि समय-पूर्व तोड़ने पर ब्याज-दंड लगता है और तय अवधि में दरें बढ़ जाएँ तो आप पुरानी दर में बंद रहते हैं। डेट फंड का जोखिम दो धाराओं में बहता है — ब्याज-दर जोखिम (दरें बढ़ें तो लंबी अवधि के बॉन्ड की क़ीमत गिरती है) और क्रेडिट जोखिम (कर्ज़दार कंपनी चूक जाए)।',
+          'इसीलिए श्रेणी ही सब कुछ है: ओवरनाइट और लिक्विड फंड सबसे शांत हैं; मनी-मार्केट/अल्ट्रा-शॉर्ट थोड़ा आगे; लंबी अवधि और क्रेडिट-रिस्क श्रेणियाँ “सुरक्षित पैसे” के लिए नहीं हैं। डेट फंड में पैसा प्रायः एक कार्यदिवस में लौट आता है — बिना दंड के — यही तरलता उन्हें इमरजेंसी-परत के लिए आकर्षक बनाती है।',
+        ],
+        pEn: [
+          'The FD’s risk map is simple: the money fails only if the bank does, with insurance up to ₹5 lakh; the price is an interest penalty for early exit, and being locked at the old rate if rates rise mid-term. A debt fund’s risk flows in two streams — interest-rate risk (long bonds fall in price when rates rise) and credit risk (a borrower defaults).',
+          'Category is therefore everything: overnight and liquid funds are the calmest; money-market and ultra-short sit a step further; long-duration and credit-risk categories are not for “safe money” at all. Debt-fund money typically returns within one working day — without penalty — and that liquidity is what makes them attractive as the emergency layer.',
+        ],
+      },
+      {
+        hHi: 'टैक्स का हिसाब और व्यावहारिक बँटवारा',
+        hEn: 'The tax arithmetic, and a practical split',
+        pHi: [
+          'FD का ब्याज हर साल आपकी स्लैब-दर से कटता है — ऊँची स्लैब वालों के लिए यही सबसे बड़ा घाव है, और स्रोत पर TDS भी लगता है। डेट फंड के मौजूदा नियमों में भी लाभ स्लैब-दर से ही कटता है, पर एक व्यावहारिक अंतर बचता है: कर तभी लगता है जब आप बेचें — यानी चक्रवृद्धि बिना सालाना कटौती के चलती रहती है, और निकासी के साल को आप चुन सकते हैं। नियम बदलते रहते हैं, इसलिए बड़े फ़ैसले से पहले चालू वर्ष के प्रावधान देख लें।',
+          'व्यावहारिक बँटवारा ऐसा हो सकता है: इमरजेंसी फंड की पहली परत बचत-खाते/स्वीप-FD में, बाक़ी लिक्विड फंड में; एक-दो साल के लक्ष्यों का पैसा FD या शॉर्ट-ड्यूरेशन फंड में; और वरिष्ठ नागरिकों की नियमित-आय ज़रूरतें FD की तिमाही-ब्याज सुविधा में। सुरक्षित पैसे की दौड़ रिटर्न की नहीं, ठीक समय पर ठीक जगह मौजूद रहने की है।',
+        ],
+        pEn: [
+          'FD interest is taxed every year at your slab rate — the deepest cut for higher slabs, with TDS at source too. Under current rules debt-fund gains are also taxed at slab rate, but one practical difference remains: tax falls only when you sell — compounding runs without an annual haircut, and you choose the year of exit. Rules keep changing, so check the current year’s provisions before large decisions.',
+          'A practical split: the first layer of the emergency fund in the savings account or sweep-FD, the rest in a liquid fund; money for one-to-two-year goals in FDs or short-duration funds; and a senior citizen’s regular-income needs in the FD’s quarterly-interest facility. The race for safe money is not about returns — it is about being in the right place at the right time.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'nps-retirement-guide',
+    category: 'nivesh',
+    titleHi: 'NPS: सबसे सस्ती रिटायरमेंट मशीन — ख़ूबियाँ, शर्तें और सही उपयोग',
+    titleEn: 'The NPS: India’s Cheapest Retirement Machine — Strengths, Strings and Right Use',
+    excerptHi: 'दुनिया के सबसे कम लागत वाले पेंशन ढाँचों में गिना जाने वाला NPS टैक्स-लाभ भी देता है और अनुशासन भी। पर लॉक-इन और एन्युइटी की शर्तें समझे बिना उतरना ग़लती है।',
+    excerptEn: 'Counted among the world’s lowest-cost pension structures, the NPS offers tax breaks and discipline alike. But entering without understanding the lock-in and annuity strings is a mistake.',
+    date: '2026-07-23',
+    minutes: 8,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'रिटायरमेंट के लिए बने भारतीय उत्पादों में नेशनल पेंशन सिस्टम (NPS) की बनावट सबसे ईमानदार है: फंड-प्रबंधन शुल्क नाममात्र, ढाँचा PFRDA के नियमन में पारदर्शी, और इक्विटी-डेट का मिश्रण आपकी पसंद या उम्र के साथ अपने-आप बदलने वाला। दशकों की अवधि में कम लागत का यह अंतर ही लाखों का फ़र्क़ बना देता है।',
+          'साथ में कर-लाभ: नियोक्ता के माध्यम से किया अंशदान एक सीमा तक दोनों टैक्स-रिजीम में कर-मुक्त है, और पुरानी रिजीम में 80CCD(1B) की अतिरिक्त ₹50,000 की कटौती अलग से। पर NPS को समझे बिना अपनाने वाले अक्सर इसकी सबसे बड़ी शर्त से टकराते हैं — यह पैसा सच में रिटायरमेंट तक बंद है।',
+        ],
+        pEn: [
+          'Among Indian retirement products, the National Pension System has the most honest construction: fund-management fees are minimal, the structure is transparent under PFRDA regulation, and the equity-debt mix shifts by your choice or automatically with age. Over decades, that cost gap alone compounds into lakhs.',
+          'Add the tax breaks: employer-routed contributions are exempt within limits under both regimes, and the old regime adds a separate ₹50,000 deduction under 80CCD(1B). But those who adopt the NPS without understanding it collide with its biggest string — this money truly stays locked until retirement.',
+        ],
+      },
+      {
+        hHi: 'ढाँचा: टियर, विकल्प और ऑटो-चॉइस',
+        hEn: 'The structure: tiers, choices and auto-choice',
+        pHi: [
+          'टियर-1 असली पेंशन खाता है — कर-लाभ इसी पर, लॉक-इन भी इसी पर; टियर-2 एक खुला निवेश-खाता भर है। भीतर चार परिसंपत्ति वर्ग हैं: इक्विटी (E), कॉरपोरेट बॉन्ड (C), सरकारी प्रतिभूतियाँ (G) और वैकल्पिक (A)। आप “एक्टिव चॉइस” में अनुपात ख़ुद तय कर सकते हैं (इक्विटी की ऊपरी सीमा नियमानुसार) या “ऑटो चॉइस” चुन सकते हैं, जिसमें उम्र बढ़ने के साथ इक्विटी अपने-आप घटती जाती है।',
+          'ज़्यादातर लोगों के लिए ऑटो-चॉइस का आक्रामक ढाँचा “सेट करो और भूल जाओ” का व्यावहारिक रास्ता है। फंड-मैनेजर का चुनाव भी सरल रखिए — लंबे रिकॉर्ड वाले बड़े प्रबंधकों में अंतर मामूली रहा है, और NPS में मैनेजर बदलना आसान है।',
+        ],
+        pEn: [
+          'Tier 1 is the real pension account — the tax benefits and the lock-in both live here; Tier 2 is merely an open investment account. Inside sit four asset classes: equity (E), corporate bonds (C), government securities (G) and alternatives (A). Under Active Choice you set the mix yourself (equity capped by the rules), or Auto Choice tapers equity automatically as you age.',
+          'For most people the aggressive auto-choice ladder is the practical set-and-forget road. Keep the fund-manager decision simple too — differences among the large, long-tenured managers have been modest, and switching managers inside the NPS is easy.',
+        ],
+      },
+      {
+        hHi: 'शर्तें: निकासी और एन्युइटी का सच',
+        hEn: 'The strings: exit rules and the annuity truth',
+        pHi: [
+          'साठ की उम्र पर संचित राशि का 60% तक एकमुश्त कर-मुक्त निकाला जा सकता है; कम से कम 40% से एन्युइटी (आजीवन पेंशन) ख़रीदना अनिवार्य है, और वह पेंशन आपकी स्लैब-दर से कर-योग्य होती है। बीच में निकासी केवल सीमित कारणों से, सीमित मात्रा में संभव है। यही कठोरता NPS की आत्मा है — यह पैसा बच्चों की शादी या घर की मरम्मत के लिए नहीं है।',
+          'सही उपयोग का सूत्र: NPS को रिटायरमेंट-स्तंभ का हिस्सा बनाइए, पूरा स्तंभ नहीं — साथ में EPF/PPF की स्थिरता और इक्विटी फंड की तरल बढ़त रखिए। नियोक्ता-अंशदान की सुविधा हो तो उसे ज़रूर लीजिए — वही इसका सबसे मीठा हिस्सा है। और शर्तें समय-समय पर बदलती हैं, इसलिए बड़े निर्णय से पहले PFRDA के ताज़ा नियम देखना समझदारी है।',
+        ],
+        pEn: [
+          'At sixty, up to 60% of the corpus can be withdrawn lump-sum tax-free; at least 40% must buy an annuity (a lifelong pension), and that pension is taxed at your slab rate. Mid-way exits are possible only for limited reasons in limited amounts. This sternness is the NPS’s soul — this money is not for a wedding or a house repair.',
+          'The formula for right use: make the NPS a pillar of retirement, not the whole roof — pair it with the steadiness of EPF/PPF and the liquid growth of equity funds. If employer contribution is available, take it — that is the sweetest part. And since the strings change from time to time, check PFRDA’s current rules before big decisions.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'elss-tax-saving-funds',
+    category: 'nivesh',
+    titleHi: 'ELSS: तीन साल के लॉक-इन वाला टैक्स-सेवर जो इक्विटी की रफ़्तार से बढ़ता है',
+    titleEn: 'ELSS: The Three-Year Tax Saver That Grows at Equity’s Pace',
+    excerptHi: '80C के सारे विकल्पों में सबसे छोटा लॉक-इन और सबसे ऊँची बढ़त की संभावना — पर बाज़ार के जोखिम के साथ। ELSS किसके लिए है, कैसे चुनें, और कब नहीं चुनना चाहिए।',
+    excerptEn: 'Of all Section 80C options, the shortest lock-in and the highest growth potential — with market risk attached. Who ELSS is for, how to choose one, and when not to.',
+    date: '2026-07-25',
+    minutes: 7,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'पुरानी टैक्स-रिजीम की 80C सूची में ज़्यादातर नाम धीमे और लंबे हैं — PPF पंद्रह साल, NSC पाँच, टैक्स-सेवर FD पाँच। इसी सूची का सबसे फुर्तीला नाम है ELSS — इक्विटी लिंक्ड सेविंग्स स्कीम: एक इक्विटी म्यूचुअल फंड जिसमें ₹1.5 लाख तक की जमा 80C में गिनी जाती है और लॉक-इन केवल तीन साल का है।',
+          'सिक्के का दूसरा पहलू भी उतना ही साफ़ है: यह बाज़ार से जुड़ा उत्पाद है — न रिटर्न की गारंटी, न पूँजी की। ELSS उनके लिए है जो टैक्स-बचत के बहाने इक्विटी की लंबी सवारी शुरू करना चाहते हैं; उनके लिए नहीं जिन्हें तीन साल बाद वही पैसा किसी तय ख़र्च के लिए चाहिए।',
+        ],
+        pEn: [
+          'Most names on the old regime’s 80C list are slow and long — PPF at fifteen years, NSC at five, tax-saver FDs at five. The nimblest name on that list is the ELSS — Equity Linked Savings Scheme: an equity mutual fund whose deposits count toward the ₹1.5 lakh 80C limit, with a lock-in of only three years.',
+          'The other side of the coin is equally plain: this is a market-linked product — neither returns nor capital are guaranteed. ELSS is for those who want the tax break to be their doorway into a long equity journey; not for those who will need that exact money for a fixed expense in year three.',
+        ],
+      },
+      {
+        hHi: 'लॉक-इन को सही नज़र से देखिए',
+        hEn: 'Seeing the lock-in rightly',
+        pHi: [
+          'तीन साल क़ानूनी न्यूनतम है, निवेश-क्षितिज नहीं। इक्विटी में तीन साल छोटी अवधि है — गिरावट से उबरने के लिए अक्सर नाकाफ़ी। ELSS में पैसा पाँच-सात साल या ज़्यादा की नीयत से लगाइए; लॉक-इन को “बेचने की तारीख़” नहीं, घबराहट में बेचने से रोकने वाली बेड़ी समझिए — यही बेड़ी कई निवेशकों का असली मुनाफ़ा बचाती आई है।',
+          'SIP करने वालों के लिए एक बारीकी: हर किस्त का अपना तीन-साल लॉक-इन होता है। जनवरी की किस्त जनवरी में तीन साल बाद खुलती है, फ़रवरी की फ़रवरी में — पूरी रक़म एक साथ नहीं। योजना बनाते समय यह “सीढ़ीदार” खुलना ध्यान में रखिए।',
+        ],
+        pEn: [
+          'Three years is the legal minimum, not the investment horizon. In equity, three years is short — often not enough to recover from a fall. Commit ELSS money with a five-to-seven-year intent or longer; treat the lock-in not as a sell date but as the shackle that prevents panic selling — a shackle that has saved many an investor’s real profit.',
+          'A detail for SIP investors: every instalment carries its own three-year lock. January’s instalment unlocks three Januaries later, February’s in February — never the whole amount at once. Keep that staircase in mind when planning.',
+        ],
+      },
+      {
+        hHi: 'कैसे चुनें, और कब न चुनें',
+        hEn: 'How to choose — and when not to',
+        pHi: [
+          'चुनाव की कसौटियाँ वही हैं जो किसी भी इक्विटी फंड की: लंबा और स्थिर रिकॉर्ड, वाजिब एक्सपेंस रेशियो, भरोसेमंद फंड-हाउस — और हमेशा ग्रोथ विकल्प। पिछले साल का चार्ट-टॉपर चुनने की जगह दस साल की निरंतरता देखिए। एक या दो ELSS पर्याप्त हैं; हर साल नया फंड जोड़ना पोर्टफोलियो को कबाड़ बनाता है।',
+          'और कब न चुनें: यदि आप नई टैक्स-रिजीम में हैं तो 80C की कटौती ही नहीं मिलती — तब ELSS का कर-लाभ शून्य है, और सामान्य इंडेक्स/फ्लेक्सी-कैप फंड बिना लॉक-इन के वही काम करते हैं। यानी ELSS का निर्णय हर साल आपकी रिजीम के निर्णय के साथ जुड़ा है — यह छोटा-सा जोड़ बहुतों की नज़र से छूट जाता है।',
+        ],
+        pEn: [
+          'The selection tests are those of any equity fund: a long and steady record, a fair expense ratio, a trustworthy fund house — and always the growth option. Look at ten-year consistency rather than last year’s chart-topper. One or two ELSS funds are enough; adding a new one every year turns a portfolio into a junk drawer.',
+          'And when not to choose it: under the new tax regime there is no 80C deduction at all — the ELSS tax benefit is zero, and ordinary index or flexi-cap funds do the same job without a lock-in. The ELSS decision is therefore chained to your yearly regime decision — a small link that escapes many eyes.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'home-loan-prepay-or-invest',
+    category: 'credit',
+    titleHi: 'होम लोन जल्दी चुकाएँ या निवेश करें? भावना नहीं, गणित से फ़ैसला',
+    titleEn: 'Prepay the Home Loan or Invest? Decide by Arithmetic, Not Emotion',
+    excerptHi: 'हर EMI-दाता के मन का सवाल: बोनस आया है — लोन घटाऊँ या SIP बढ़ाऊँ? ब्याज-दर बनाम अपेक्षित रिटर्न, टैक्स का कोण, और वह मनोवैज्ञानिक पहलू जिसे गणित नहीं पकड़ता।',
+    excerptEn: 'Every EMI-payer’s question: the bonus has arrived — shrink the loan or grow the SIP? Interest rate versus expected return, the tax angle, and the psychology arithmetic cannot capture.',
+    date: '2026-07-27',
+    minutes: 8,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'होम लोन भारतीय मध्यवर्ग की सबसे बड़ी देनदारी है, और “जल्दी छूट जाए” की चाह सबसे गहरी भावनाओं में से एक। दूसरी ओर हर वित्तीय सलाह कहती है कि जवानी के साल चक्रवृद्धि के सबसे क़ीमती साल हैं। जब हाथ में अतिरिक्त पैसा आता है — बोनस, इंक्रीमेंट, कोई पुरानी FD — तो यही दुविधा खड़ी होती है: कर्ज़ घटाएँ या निवेश बढ़ाएँ?',
+          'अच्छी ख़बर यह है कि इस सवाल का एक ईमानदार ढाँचा है। बुनियादी तुलना सीधी है: लोन की ब्याज-दर बनाम निवेश का यथार्थवादी अपेक्षित रिटर्न — पर उस पर टैक्स, जोखिम और नींद की गुणवत्ता की परतें चढ़ती हैं। तीनों को क्रम से देखते हैं।',
+        ],
+        pEn: [
+          'The home loan is the Indian middle class’s largest liability, and the longing to be free of it early runs deep. On the other side, every financial text says the young years are compounding’s most precious. When extra money lands — a bonus, an increment, an old FD maturing — the dilemma stands up: shrink the debt or grow the investments?',
+          'The good news: the question has an honest framework. The base comparison is simple — the loan’s interest rate versus a realistic expected investment return — with layers of tax, risk and sleep quality on top. Let us take the three in order.',
+        ],
+      },
+      {
+        hHi: 'बुनियादी गणित और टैक्स का कोण',
+        hEn: 'The base arithmetic and the tax angle',
+        pHi: [
+          'हर प्री-पेमेंट का “रिटर्न” निश्चित होता है — ठीक आपकी लोन-दर जितना, बिना किसी जोखिम के। 9% के लोन का प्री-पेमेंट 9% का गारंटीड, कर-मुक्त रिटर्न है। उससे जीतने के लिए निवेश को कर-पश्चात 9% से ऊपर देना होगा — इक्विटी से दीर्घावधि में संभव, पर गारंटीड कभी नहीं। इसीलिए नियम का पहला हिस्सा: FD जैसे किसी विकल्प से तुलना ही बेमानी है — प्री-पेमेंट लगभग हमेशा FD को हराता है।',
+          'टैक्स की परत: पुरानी रिजीम में होम-लोन ब्याज पर 24(b) की कटौती (स्व-अधिकृत घर पर ₹2 लाख तक) लोन की प्रभावी दर घटा देती है — 30% स्लैब में 9% का लोन क़रीब 6.3% का पड़ता है, और तब दीर्घकालीन इक्विटी का पलड़ा भारी होता है। नई रिजीम में यह कटौती नहीं है (किराए पर दिए घर के नियम अलग हैं) — वहाँ लोन अपनी पूरी दर पर खड़ा है और प्री-पेमेंट का तर्क मज़बूत। अपनी रिजीम के हिसाब से प्रभावी दर निकालिए — यही तुलना की असली संख्या है।',
+        ],
+        pEn: [
+          'Every prepayment carries a certain “return” — exactly your loan rate, with zero risk. Prepaying a 9% loan is a guaranteed, tax-free 9%. To beat it, an investment must deliver more than 9% post-tax — possible for equity over long horizons, but never guaranteed. Hence rule one: comparisons with FD-like options are pointless — prepayment nearly always beats an FD.',
+          'The tax layer: in the old regime, the 24(b) deduction on home-loan interest (up to ₹2 lakh for a self-occupied house) lowers the loan’s effective rate — at the 30% slab, a 9% loan costs about 6.3%, and long-horizon equity gains the upper hand. The new regime offers no such deduction for self-occupied homes (let-out rules differ) — the loan stands at its full rate and the case for prepayment strengthens. Compute your effective rate by your regime — that is the real number in the comparison.',
+        ],
+      },
+      {
+        hHi: 'तीन नियम और एक मनोवैज्ञानिक सच',
+        hEn: 'Three rules and one psychological truth',
+        pHi: [
+          'नियम एक: प्री-पेमेंट से पहले इमरजेंसी फंड और बीमा (टर्म + हेल्थ) पूरे हों — कर्ज़ चुकाने के जोश में तरलता ख़त्म कर देना अगली इमरजेंसी में महँगे कर्ज़ का न्योता है। नियम दो: प्री-पेमेंट करें तो EMI घटाने के बजाय अवधि घटवाइए — ब्याज की असली बचत वहीं है। नियम तीन: फ्लोटिंग-रेट होम लोन पर बैंक प्री-पेमेंट दंड नहीं ले सकते, इसलिए छोटे-छोटे नियमित प्री-पेमेंट भी वर्षों की EMI काट देते हैं।',
+          'और वह सच जो गणित नहीं पकड़ता: कर्ज़-मुक्त घर की नींद। यदि EMI का बोझ आपके फ़ैसलों को डराता है — नौकरी बदलने से, जोखिम लेने से — तो 50-50 का बीच का रास्ता अपनाइए: आधा प्री-पेमेंट, आधा निवेश। संतुलित रास्ता स्प्रेडशीट में कभी “सर्वश्रेष्ठ” नहीं दिखता, पर ज़िंदगी स्प्रेडशीट में नहीं चलती।',
+        ],
+        pEn: [
+          'Rule one: before any prepayment, complete the emergency fund and insurance (term + health) — burning liquidity in the zeal to repay invites costlier debt at the next emergency. Rule two: when prepaying, reduce the tenure rather than the EMI — that is where the real interest saving lives. Rule three: banks cannot charge prepayment penalties on floating-rate home loans, so even small regular prepayments cut years off the schedule.',
+          'And the truth arithmetic cannot hold: the sleep of a debt-free home. If the EMI’s weight is shaping your decisions — keeping you from changing jobs, from taking risks — take the 50-50 middle road: half prepayment, half investment. The balanced road never looks “optimal” in a spreadsheet, but life is not lived in one.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'budget-50-30-20-rule',
+    category: 'digital',
+    titleHi: '50-30-20 का बजट: सैलरी आते ही कहाँ जाए, इसका सबसे सरल नक़्शा',
+    titleEn: 'The 50-30-20 Budget: The Simplest Map for Where Salary Should Go',
+    excerptHi: 'न ऐप की ज़रूरत, न हिसाब-किताब की डायरी — तीन डिब्बों वाला यह नियम आधी सदी से दुनिया भर में काम कर रहा है। भारतीय आमदनी और ख़र्च के हिसाब से इसे कैसे ढालें।',
+    excerptEn: 'No app needed, no ledger diary — this three-bucket rule has worked worldwide for half a century. How to mould it to Indian incomes and expenses.',
+    date: '2026-07-29',
+    minutes: 7,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'बजट के नाम से ज़्यादातर लोगों को हिसाब की डायरी और कटौती की तपस्या याद आती है — इसीलिए ज़्यादातर बजट दूसरे महीने दम तोड़ देते हैं। 50-30-20 नियम इस समस्या का सबसे टिकाऊ इलाज है, क्योंकि यह ख़र्च गिनने से नहीं, बाँटने से शुरू होता है: कर-पश्चात आमदनी के तीन डिब्बे — 50% ज़रूरतें, 30% इच्छाएँ, 20% बचत-निवेश।',
+          'ज़रूरतों में वह सब है जिनके बिना जीवन नहीं चलता: किराया/EMI, राशन, बिजली-गैस, स्कूल फीस, बीमा प्रीमियम, आने-जाने का ख़र्च। इच्छाओं में वह सब जो जीवन को रंग देता है: बाहर खाना, OTT, यात्रा, नया फ़ोन। और 20% वाला डिब्बा आपके भविष्य का वेतन है — इमरजेंसी फंड, SIP, PPF, NPS।',
+        ],
+        pEn: [
+          'For most people the word “budget” conjures ledger diaries and the penance of cutting back — which is why most budgets die in the second month. The 50-30-20 rule is the most durable cure because it begins not with counting expenses but with dividing income: three buckets of post-tax pay — 50% needs, 30% wants, 20% saving and investing.',
+          'Needs are what life cannot run without: rent or EMI, groceries, power and gas, school fees, insurance premiums, commuting. Wants are what gives life its colour: eating out, OTT, travel, the new phone. And the 20% bucket is your future self’s salary — emergency fund, SIPs, PPF, NPS.',
+        ],
+      },
+      {
+        hHi: 'भारतीय हालात में ढालना',
+        hEn: 'Moulding it to Indian realities',
+        pHi: [
+          'महानगर के किराए और EMI अक्सर 50% के डिब्बे को छलका देते हैं — तब ईमानदार समायोजन कीजिए: कुछ समय 60-25-15 चलाइए, पर बचत का डिब्बा कभी शून्य न हो। उल्टी स्थिति भी उतनी ही सच है: घर का अपना हो और ज़रूरतें 35% में निपटती हों, तो बचत को 20 पर रोकना आलस है — 30-35% तक ले जाइए; भारत में जल्दी रिटायरमेंट का यही एकमात्र वैध शॉर्टकट है।',
+          'संयुक्त परिवार, माता-पिता को भेजा जाने वाला पैसा और त्योहार-शादियों के मौसमी ख़र्च — इन्हें “इच्छा” कहना ग़लत होगा; इन्हें ज़रूरतों में गिनकर प्रतिशत ठीक कीजिए। नियम की ख़ूबी उसकी पवित्रता नहीं, उसका ढाँचा है: तीन डिब्बे साफ़ हों तो घर की आर्थिक बहस “तूने कितना उड़ाया” से हटकर “डिब्बों का अनुपात क्या हो” पर आ जाती है — और यह कहीं स्वस्थ बहस है।',
+        ],
+        pEn: [
+          'Metro rents and EMIs often overflow the 50% bucket — then adjust honestly: run 60-25-15 for a season, but never let the savings bucket touch zero. The reverse is equally true: if the house is your own and needs fit in 35%, stopping savings at 20 is laziness — push to 30-35%; in India that is the only legitimate shortcut to early retirement.',
+          'Joint families, money sent to parents, and the seasonal spikes of festivals and weddings — calling these “wants” would be wrong; count them as needs and rebalance the percentages. The rule’s virtue is not its sanctity but its structure: with three clear buckets, the household money argument shifts from “how much did you blow” to “what should the ratios be” — a far healthier debate.',
+        ],
+      },
+      {
+        hHi: 'चलाने की तरकीब: तनख़्वाह के दिन तीन रास्ते',
+        hEn: 'Making it run: three routes on payday',
+        pHi: [
+          'नियम को इच्छाशक्ति पर मत छोड़िए — ऑटोमेशन पर छोड़िए। वेतन आने के अगले दिन के लिए तीन स्थायी निर्देश लगाइए: 20% सीधे SIP/RD/PPF की ओर, ज़रूरतों का हिस्सा उसी खाते में जहाँ से बिल कटते हैं, और इच्छाओं का हिस्सा अलग खाते या UPI-वॉलेट में। महीने के आख़िर में इच्छा-खाता ख़ाली हो जाए तो रुक जाइए — यही पूरा अनुशासन है।',
+          'हर छह महीने में दस मिनट की समीक्षा कीजिए: इंक्रीमेंट आया हो तो उसका आधा सीधे 20% वाले डिब्बे में बढ़ाइए — जीवन-स्तर धीरे बढ़ेगा, संपत्ति तेज़। बजट का मक़सद ख़र्च का हिसाब रखना नहीं, ख़र्च की चिंता से आज़ादी है — तीन डिब्बे सही भरे हों, तो इच्छा-डिब्बे का हर रुपया बिना अपराध-बोध के ख़र्च करने के लिए ही है।',
+        ],
+        pEn: [
+          'Do not leave the rule to willpower — leave it to automation. Set three standing instructions for the day after payday: 20% straight to SIPs/RD/PPF, the needs share to the account the bills draw from, and the wants share to a separate account or UPI wallet. When the wants account runs dry before month-end, stop — that is the entire discipline.',
+          'Review for ten minutes every six months: when the increment arrives, move half of it straight into the 20% bucket — lifestyle rises slowly, wealth rises fast. A budget’s purpose is not to account for spending but to free you from worrying about it — with three buckets rightly filled, every rupee in the wants bucket exists precisely to be spent without guilt.',
+        ],
+      },
+    ],
+  },
 ];
 
 export function getArticle(slug: string): Article | undefined {
