@@ -1,0 +1,532 @@
+/**
+ * Profity.in — original bilingual personal-finance library for India.
+ * Hindi (Devanagari) is the native language of the site; every article also
+ * carries its full English translation, switched instantly on the client.
+ *
+ * Editorial rules (what keeps this AdSense-healthy):
+ *  - 100% original writing — no scraping, no spinning, no copied text.
+ *  - Educational only: no "guaranteed returns", no stock tips, no schemes.
+ *  - Every money article ends under the site-wide disclaimer (see layout).
+ *  - Quality core first, then steady growth — never a mass dump.
+ */
+
+export type CatSlug = 'nivesh' | 'bachat' | 'tax' | 'bima' | 'credit' | 'digital';
+
+export const CATEGORIES: Array<{ slug: CatSlug; nameHi: string; nameEn: string; taglineHi: string; taglineEn: string; icon: string }> = [
+  { slug: 'nivesh', nameHi: 'निवेश', nameEn: 'Investing', taglineHi: 'म्यूचुअल फंड, SIP, गोल्ड और लंबी अवधि की संपत्ति', taglineEn: 'Mutual funds, SIPs, gold and long-term wealth', icon: '📈' },
+  { slug: 'bachat', nameHi: 'बचत और बैंकिंग', nameEn: 'Saving & Banking', taglineHi: 'PPF, FD, इमरजेंसी फंड और स्मार्ट बचत', taglineEn: 'PPF, FDs, emergency funds and smart saving', icon: '🏦' },
+  { slug: 'tax', nameHi: 'टैक्स', nameEn: 'Tax', taglineHi: 'इनकम टैक्स, रिजीम की तुलना और वैध बचत', taglineEn: 'Income tax, regime comparisons and legal savings', icon: '🧾' },
+  { slug: 'bima', nameHi: 'बीमा', nameEn: 'Insurance', taglineHi: 'टर्म, हेल्थ और परिवार की सुरक्षा', taglineEn: 'Term, health and protecting your family', icon: '🛡️' },
+  { slug: 'credit', nameHi: 'क्रेडिट और लोन', nameEn: 'Credit & Loans', taglineHi: 'क्रेडिट स्कोर, कार्ड और समझदारी से कर्ज', taglineEn: 'Credit scores, cards and borrowing wisely', icon: '💳' },
+  { slug: 'digital', nameHi: 'डिजिटल पैसा', nameEn: 'Digital Money', taglineHi: 'UPI, ऑनलाइन सुरक्षा और नए जमाने का पैसा', taglineEn: 'UPI, online safety and new-age money', icon: '📱' },
+];
+
+export interface Section {
+  hHi: string;
+  hEn: string;
+  pHi: string[];
+  pEn: string[];
+}
+
+export interface Article {
+  slug: string;
+  category: CatSlug;
+  titleHi: string;
+  titleEn: string;
+  excerptHi: string;
+  excerptEn: string;
+  date: string;
+  minutes: number;
+  sections: Section[];
+}
+
+export const ARTICLES: Article[] = [
+  {
+    slug: 'sip-mutual-fund-guide',
+    category: 'nivesh',
+    titleHi: 'SIP से म्यूचुअल फंड निवेश: शुरुआत से समझें, ग़लतियों से बचें',
+    titleEn: 'Investing in Mutual Funds Through SIPs: A Beginner-to-Confident Guide',
+    excerptHi: 'हर महीने ₹500 से भी शुरू हो सकने वाला SIP भारत में संपत्ति बनाने का सबसे लोकप्रिय रास्ता क्यों बन गया है — और इसमें की जाने वाली पाँच आम ग़लतियाँ कौन-सी हैं।',
+    excerptEn: 'Why the humble SIP — starting from as little as ₹500 a month — became India’s favourite wealth-building route, and the five mistakes that quietly ruin it.',
+    date: '2026-07-01',
+    minutes: 9,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'हर महीने एक तय तारीख़ को, आपके बैंक खाते से एक तय रक़म निकलकर एक म्यूचुअल फंड में लग जाती है — बस इतना ही है SIP यानी सिस्टमैटिक इन्वेस्टमेंट प्लान। न बाज़ार का समय देखना, न रोज़ भाव देखना, न किसी टिप का इंतज़ार। यही सादगी इसे भारत का सबसे लोकप्रिय निवेश तरीक़ा बना चुकी है — AMFI के आँकड़ों के अनुसार देश में हर महीने करोड़ों SIP किस्तें जमा होती हैं।',
+          'लेकिन लोकप्रियता और समझ दो अलग चीज़ें हैं। बहुत से लोग SIP शुरू तो कर देते हैं, पर पहली बड़ी गिरावट में घबराकर बंद कर देते हैं — और यहीं इस तरीक़े का पूरा फ़ायदा हाथ से निकल जाता है। इस लेख में हम SIP का गणित, सही फंड चुनने का तरीक़ा और वे ग़लतियाँ समझेंगे जो अच्छे-भले निवेश को बर्बाद कर देती हैं।',
+        ],
+        pEn: [
+          'On a fixed date every month, a fixed amount leaves your bank account and goes into a mutual fund — that is all a SIP, or Systematic Investment Plan, is. No timing the market, no watching prices daily, no waiting for tips. That simplicity has made it India’s most popular way to invest: crores of SIP instalments are deposited every month across the country.',
+          'But popularity and understanding are different things. Many people start a SIP and then panic-stop it during the first big market fall — which is precisely where the method’s entire advantage is lost. In this article we will walk through the mathematics of SIPs, how to choose a fund, and the mistakes that quietly ruin a perfectly good investment.',
+        ],
+      },
+      {
+        hHi: 'SIP काम कैसे करता है: रुपये की औसत लागत',
+        hEn: 'How a SIP works: rupee-cost averaging',
+        pHi: [
+          'SIP का असली जादू “रुपी-कॉस्ट एवरेजिंग” में है। जब बाज़ार महँगा होता है, आपकी तय रक़म से कम यूनिटें ख़रीदी जाती हैं; जब बाज़ार सस्ता होता है, उसी रक़म से ज़्यादा यूनिटें मिल जाती हैं। नतीजा — आपकी औसत ख़रीद लागत अपने आप संतुलित होती रहती है, बिना यह अनुमान लगाए कि बाज़ार कल ऊपर जाएगा या नीचे।',
+          'इसीलिए गिरता बाज़ार SIP निवेशक का दुश्मन नहीं, दोस्त है: वही महीने सबसे सस्ती यूनिटें दिलाते हैं। जो निवेशक 2008, 2013 या 2020 की गिरावटों में भी किस्तें जारी रखे रहे, उन्हीं की दीर्घकालिक वापसी सबसे अच्छी रही। SIP रोकने का सबसे बुरा समय ठीक वही होता है जब उसे रोकने का मन सबसे ज़्यादा करता है।',
+        ],
+        pEn: [
+          'The real magic of a SIP is “rupee-cost averaging”. When the market is expensive, your fixed amount buys fewer units; when the market is cheap, the same amount buys more. The result: your average purchase cost balances itself automatically, without you ever guessing whether the market will rise or fall tomorrow.',
+          'This is why a falling market is a SIP investor’s friend, not enemy: those are the months that buy the cheapest units. Investors who kept their instalments running through the crashes of 2008, 2013 and 2020 are the ones with the best long-term results. The worst time to stop a SIP is exactly when you most feel like stopping it.',
+        ],
+      },
+      {
+        hHi: 'फंड कैसे चुनें: तीन सवाल',
+        hEn: 'Choosing a fund: three questions',
+        pHi: [
+          'पहला सवाल — पैसा कितने साल के लिए है? पाँच साल से कम के लक्ष्य के लिए इक्विटी फंड उपयुक्त नहीं; वहाँ डेट या हाइब्रिड विकल्प देखें। दूसरा — क्या आप श्रेणी समझते हैं? शुरुआत के लिए ब्रॉड-मार्केट इंडेक्स फंड (जैसे निफ्टी 50 या सेंसेक्स पर आधारित) सबसे सरल और कम लागत वाले होते हैं। तीसरा — ख़र्च कितना है? एक्सपेंस रेशियो जितना कम, उतना ही ज़्यादा हिस्सा आपकी जेब में।',
+          'पिछले एक-दो साल का “टॉप परफ़ॉर्मर” चुनना सबसे आम ग़लती है — श्रेणियाँ चक्र में चलती हैं और कल का विजेता अक्सर परसों का पिछड़ा होता है। फंड का दस साल का व्यवहार, फंड हाउस की साख और लागत देखना, पिछले साल की रैंकिंग देखने से कहीं बेहतर है।',
+        ],
+        pEn: [
+          'First question — how many years is this money for? Equity funds are unsuitable for goals under five years; look at debt or hybrid options there. Second — do you understand the category? For beginners, broad-market index funds (based on the Nifty 50 or Sensex) are the simplest and cheapest. Third — what does it cost? The lower the expense ratio, the more of the return stays in your pocket.',
+          'Picking last year’s “top performer” is the single most common mistake — categories move in cycles, and yesterday’s winner is often tomorrow’s laggard. A fund’s ten-year behaviour, the fund house’s reputation and the cost matter far more than last year’s ranking.',
+        ],
+      },
+      {
+        hHi: 'पाँच ग़लतियाँ जो SIP को बर्बाद करती हैं',
+        hEn: 'Five mistakes that ruin SIPs',
+        pHi: [
+          'एक: गिरावट में SIP रोक देना — यही औसत लागत का पूरा फ़ायदा मिटा देता है। दो: हर तेज़ी में नया फंड जोड़ते जाना, जब तक पोर्टफोलियो में पंद्रह ओवरलैपिंग फंड न हो जाएँ। तीन: लक्ष्य के बिना निवेश — रक़म और अवधि लक्ष्य से तय होती है, पड़ोसी की सलाह से नहीं। चार: डिविडेंड (IDCW) विकल्प चुन लेना जबकि संपत्ति बनानी है — ग्रोथ विकल्प ही चक्रवृद्धि का पूरा लाभ देता है। पाँच: नॉमिनी और KYC अधूरा छोड़ना — परिवार के लिए बाद में यह सबसे बड़ा सिरदर्द बनता है।',
+          'इन पाँचों का इलाज एक ही है: शुरू करने से पहले दस मिनट की लिखित योजना — कितना, कितने साल, किस लक्ष्य के लिए, और गिरावट आने पर क्या करना है (जवाब: कुछ नहीं, जारी रखना है)। योजना बोरिंग होती है, इसीलिए काम करती है।',
+        ],
+        pEn: [
+          'One: stopping the SIP in a downturn — this erases the whole benefit of averaging. Two: adding a new fund in every rally until the portfolio holds fifteen overlapping schemes. Three: investing without a goal — the amount and duration should come from a goal, not a neighbour’s advice. Four: choosing the dividend (IDCW) option while trying to build wealth — the growth option is what delivers full compounding. Five: leaving nominee details and KYC incomplete — the single biggest headache for a family later.',
+          'The cure for all five is the same: a ten-minute written plan before you start — how much, for how many years, for which goal, and what to do when a crash comes (answer: nothing, keep going). A plan is boring. That is exactly why it works.',
+        ],
+      },
+      {
+        hHi: 'शुरुआत आज, रक़म छोटी ही सही',
+        hEn: 'Start today, however small',
+        pHi: [
+          'चक्रवृद्धि का सबसे बड़ा घटक रक़म नहीं, समय है। पच्चीस की उम्र में शुरू किया गया ₹2,000 का SIP, पैंतीस की उम्र के ₹5,000 के SIP से अक्सर आगे निकल जाता है — सिर्फ़ दस अतिरिक्त वर्षों के कारण। इसलिए “जब सैलरी बढ़ेगी तब शुरू करूँगा” सबसे महँगा वाक्य है।',
+          'छोटी शुरुआत कीजिए, हर साल वेतन-वृद्धि के साथ SIP बढ़ाइए (इसे स्टेप-अप SIP कहते हैं), और फिर बाज़ार को अपना काम करने दीजिए। निवेश में रोमांच जितना कम, नतीजा उतना अच्छा।',
+        ],
+        pEn: [
+          'The biggest ingredient of compounding is not the amount — it is time. A ₹2,000 SIP started at twenty-five often ends up ahead of a ₹5,000 SIP started at thirty-five, purely because of ten extra years. “I’ll start when my salary grows” is the most expensive sentence in personal finance.',
+          'Start small, raise the SIP with every yearly increment (a step-up SIP), and let the market do its work. The less exciting your investing feels, the better it usually performs.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'ppf-account-complete-guide',
+    category: 'bachat',
+    titleHi: 'PPF खाता: 15 साल की सबसे भरोसेमंद टैक्स-फ्री बचत, पूरी गाइड',
+    titleEn: 'The PPF Account: India’s Most Trusted Tax-Free Savings, Explained Fully',
+    excerptHi: 'सरकारी गारंटी, टैक्स-फ्री ब्याज और अनुशासन — पब्लिक प्रोविडेंट फंड आज भी हर भारतीय पोर्टफोलियो की नींव क्यों है, नियम-दर-नियम समझिए।',
+    excerptEn: 'Sovereign guarantee, tax-free interest and enforced discipline — why the Public Provident Fund still anchors Indian portfolios, rule by rule.',
+    date: '2026-07-03',
+    minutes: 8,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'भारत में शायद ही कोई बचत साधन हो जिस पर तीन पीढ़ियों का इतना भरोसा हो जितना पब्लिक प्रोविडेंट फंड यानी PPF पर। कारण सीधा है: पैसा भारत सरकार की गारंटी में रहता है, ब्याज पूरी तरह टैक्स-फ्री है, और 15 साल का लॉक-इन जबरदस्ती वह अनुशासन सिखा देता है जो हममें से अधिकांश में अपने-आप नहीं आता।',
+          'यह लेख PPF के हर व्यावहारिक पहलू को समेटता है — खाता कहाँ और कैसे खोलें, कितना जमा करें, ब्याज की गणना की बारीकी, बीच में पैसा निकालने के नियम, और 15 साल पूरे होने पर आपके पास कौन-कौन से विकल्प होते हैं।',
+        ],
+        pEn: [
+          'Few savings instruments in India carry three generations of trust the way the Public Provident Fund does. The reasons are simple: the money sits under a sovereign guarantee of the Government of India, the interest is entirely tax-free, and the 15-year lock-in forcibly teaches the discipline most of us never develop on our own.',
+          'This article covers every practical aspect of the PPF — where and how to open an account, how much to deposit, the fine print of interest calculation, the rules for taking money out early, and the options you have when the 15 years are up.',
+        ],
+      },
+      {
+        hHi: 'मूल नियम: जमा, ब्याज और EEE',
+        hEn: 'The basics: deposits, interest and EEE',
+        pHi: [
+          'PPF खाता कोई भी निवासी भारतीय — नौकरीपेशा, स्व-रोज़गार या गृहिणी — बैंक या डाकघर में खोल सकता है। न्यूनतम जमा ₹500 प्रति वर्ष है और अधिकतम ₹1.5 लाख; इससे ऊपर की रक़म पर न ब्याज मिलता है न टैक्स लाभ। ब्याज दर सरकार हर तिमाही घोषित करती है और यह हमेशा बाज़ार की तुलना में सम्मानजनक रही है।',
+          'PPF की असली ताक़त उसका “EEE” दर्जा है — जमा पर धारा 80C की छूट (पुरानी टैक्स रिजीम में), ब्याज टैक्स-फ्री, और परिपक्वता की पूरी रक़म भी टैक्स-फ्री। भारत में यह तिहरा लाभ बहुत कम साधनों को मिला है। एक बारीकी याद रखिए: ब्याज हर महीने की 5 तारीख़ से महीने के अंत तक के न्यूनतम शेष पर गिना जाता है — इसलिए किस्त 5 तारीख़ से पहले जमा करने पर पूरा महीना ब्याज में जुड़ता है।',
+        ],
+        pEn: [
+          'Any resident Indian — salaried, self-employed or homemaker — can open a PPF account at a bank or post office. The minimum deposit is ₹500 a year and the maximum ₹1.5 lakh; amounts above that earn neither interest nor tax benefit. The interest rate is declared by the government every quarter and has always stayed respectable relative to the market.',
+          'The PPF’s real strength is its “EEE” status — deduction on deposit under Section 80C (in the old tax regime), tax-free interest, and a fully tax-free maturity amount. Very few Indian instruments enjoy this triple benefit. One detail worth remembering: interest is calculated on the lowest balance between the 5th and the end of each month — deposit before the 5th and the whole month counts.',
+        ],
+      },
+      {
+        hHi: 'बीच में पैसा चाहिए तो?',
+        hEn: 'What if you need money midway?',
+        pHi: [
+          '15 साल लंबे ज़रूर हैं, पर PPF पूरी तरह बंद तिजोरी नहीं है। सातवें वित्त वर्ष से आंशिक निकासी की अनुमति है (सीमा नियमानुसार), तीसरे से छठे वर्ष के बीच खाते पर सस्ता लोन लिया जा सकता है, और गंभीर बीमारी या बच्चों की उच्च शिक्षा जैसी स्थितियों में पाँच साल बाद समय-पूर्व बंदी के नियम भी हैं (कुछ ब्याज कटौती के साथ)।',
+          'व्यावहारिक सलाह: PPF को इमरजेंसी फंड मत बनाइए — उसके लिए अलग तरल बचत रखिए। PPF का काम है वह पैसा सँभालना जिसे आपको दस-पंद्रह साल छूना ही नहीं है: बच्चों की शिक्षा, रिटायरमेंट की नींव, बेटी की शादी। लॉक-इन बाधा नहीं, सुविधा है।',
+        ],
+        pEn: [
+          'Fifteen years is long, but the PPF is not a sealed vault. Partial withdrawals are allowed from the seventh financial year (within limits), a cheap loan against the balance is available between the third and sixth years, and premature closure rules exist after five years for serious illness or children’s higher education (with a small interest penalty).',
+          'Practical advice: do not treat the PPF as your emergency fund — keep separate liquid savings for that. The PPF’s job is to hold the money you must not touch for ten to fifteen years: children’s education, the foundation of retirement, a daughter’s wedding. The lock-in is a feature, not a flaw.',
+        ],
+      },
+      {
+        hHi: '15 साल बाद के तीन रास्ते',
+        hEn: 'Three roads after year fifteen',
+        pHi: [
+          'परिपक्वता पर आपके पास तीन विकल्प होते हैं। पहला — पूरी रक़म टैक्स-फ्री निकाल लें। दूसरा — बिना नई जमा के खाता 5-5 साल बढ़ाते रहें; शेष राशि पर टैक्स-फ्री ब्याज मिलता रहता है और साल में एक निकासी की सुविधा रहती है। तीसरा — नई जमा के साथ विस्तार चुनें (परिपक्वता से एक वर्ष के भीतर फॉर्म देना ज़रूरी) और 80C का लाभ भी जारी रखें।',
+          'कई समझदार निवेशक PPF को 25-30 साल तक बढ़ाते हैं और इसे अपने पोर्टफोलियो का “सरकारी-गारंटी वाला डेट हिस्सा” मानते हैं — इक्विटी की उठा-पटक के सामने यह चट्टान की तरह खड़ा रहता है।',
+        ],
+        pEn: [
+          'At maturity you have three options. One — withdraw the entire amount, tax-free. Two — extend the account in five-year blocks without fresh deposits; the balance keeps earning tax-free interest and one withdrawal a year is allowed. Three — extend with fresh deposits (a form must be filed within one year of maturity), keeping the 80C benefit alive too.',
+          'Many thoughtful investors run their PPF for 25–30 years and treat it as the “sovereign-guaranteed debt portion” of their portfolio — a rock that stands firm against equity’s turbulence.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'emergency-fund-kaise-banaye',
+    category: 'bachat',
+    titleHi: 'इमरजेंसी फंड: छह महीने की ढाल जो हर योजना से पहले बननी चाहिए',
+    titleEn: 'The Emergency Fund: The Six-Month Shield That Comes Before Every Other Plan',
+    excerptHi: 'नौकरी छूटना, अस्पताल का बिल, अचानक की मरम्मत — इमरजेंसी फंड वह अंतर है जो संकट को असुविधा बनाकर रख देता है। कितना, कहाँ और कैसे बनाएं, पूरा तरीक़ा।',
+    excerptEn: 'A lost job, a hospital bill, a sudden repair — an emergency fund is the difference between a crisis and an inconvenience. How much, where, and how to build it.',
+    date: '2026-07-05',
+    minutes: 7,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'निवेश की दुनिया की सबसे कम रोमांचक और सबसे ज़्यादा ज़रूरी चीज़ का नाम है इमरजेंसी फंड। यह वह पैसा है जो न शेयर में लगता है, न प्रॉपर्टी में — बस चुपचाप खड़ा रहता है, इस एक काम के लिए कि जब ज़िंदगी बिना बताए बिल भेजे, तो आपको कर्ज़ या निवेश तोड़ने की नौबत न आए।',
+          'भारत में यह ढाल और भी ज़रूरी है: नौकरी की अनिश्चितता, परिवार की ज़िम्मेदारियाँ और मेडिकल ख़र्च — तीनों एक साथ चलते हैं। बिना इमरजेंसी फंड के हर वित्तीय योजना ताश के महल जैसी है: एक झोंका, और SIP बंद, PPF अधूरा, क्रेडिट कार्ड का कर्ज़ चालू।',
+        ],
+        pEn: [
+          'The least exciting and most essential thing in finance is the emergency fund. It is money that goes into no stock and no property — it simply stands guard, for the single purpose of making sure that when life sends a bill without warning, you are not forced into debt or into breaking your investments.',
+          'In India this shield matters even more: job uncertainty, family responsibilities and medical costs all run together. Without an emergency fund, every financial plan is a house of cards — one gust, and the SIP stops, the PPF sits incomplete, and the credit-card debt begins.',
+        ],
+      },
+      {
+        hHi: 'कितना बड़ा हो फंड?',
+        hEn: 'How big should it be?',
+        pHi: [
+          'सामान्य नियम: छह महीने का अनिवार्य ख़र्च — किराया/EMI, राशन, स्कूल फीस, बीमा प्रीमियम, बिजली-पानी — सब जोड़कर। स्थिर सरकारी नौकरी हो तो तीन-चार महीने चल सकते हैं; फ्रीलांसर, व्यवसायी या एकमात्र कमाने वाले हों तो नौ से बारह महीने तक रखना समझदारी है।',
+          'ध्यान दें — गिनती “ख़र्च” की है, “आमदनी” की नहीं। मान लीजिए महीने का अनिवार्य ख़र्च ₹40,000 है, तो लक्ष्य हुआ ₹2.4 लाख। बड़ी रक़म लगे तो घबराइए नहीं: यह एक दिन में नहीं, किस्तों में बनता है — और आधा बना फंड भी शून्य से हज़ार गुना बेहतर है।',
+        ],
+        pEn: [
+          'The standard rule: six months of essential expenses — rent/EMI, groceries, school fees, insurance premiums, utilities — added up. With a stable government job, three to four months can suffice; freelancers, business owners and sole earners are wiser at nine to twelve months.',
+          'Note that we count expenses, not income. If your essential monthly spend is ₹40,000, the target is ₹2.4 lakh. If that sounds large, do not be discouraged: it is built in instalments, not in a day — and a half-built fund is a thousand times better than none.',
+        ],
+      },
+      {
+        hHi: 'कहाँ रखें: पहुँच बनाम लालच',
+        hEn: 'Where to keep it: access versus temptation',
+        pHi: [
+          'इमरजेंसी फंड की तीन शर्तें हैं — सुरक्षित रहे, तुरंत मिले, और आपकी नज़रों से थोड़ा दूर रहे ताकि “सेल में फोन सस्ता है” जैसी इमरजेंसी में ख़र्च न हो जाए। सबसे व्यावहारिक ढाँचा: एक महीने का ख़र्च बचत खाते में, बाक़ी स्वीप-इन FD या लिक्विड फंड में, जहाँ से पैसा एक दिन में लौट आता है।',
+          'जो जगहें इमरजेंसी फंड के लिए ग़लत हैं: शेयर और इक्विटी फंड (संकट के दिन ही गिरे मिलेंगे), PPF/NPS जैसे लॉक-इन साधन, सोने के गहने (बेचना भावनात्मक और महँगा), और नक़दी की मोटी गड्डी (न ब्याज, न सुरक्षा)। इमरजेंसी फंड से “रिटर्न” माँगना ही ग़लत सवाल है — इसका रिटर्न वह क़र्ज़ है जो आपको कभी लेना नहीं पड़ा।',
+        ],
+        pEn: [
+          'An emergency fund has three requirements — it must be safe, instantly accessible, and slightly out of sight so it does not get spent on “emergencies” like a phone on sale. The most practical structure: one month’s expenses in the savings account, the rest in a sweep-in FD or liquid fund, from which money returns within a day.',
+          'The wrong places for an emergency fund: stocks and equity funds (they will be down on exactly the day you need them), lock-in instruments like PPF/NPS, gold jewellery (selling is emotional and costly), and thick wads of cash (no interest, no safety). Asking an emergency fund for “returns” is the wrong question — its return is the loan you never had to take.',
+        ],
+      },
+      {
+        hHi: 'बनाने का तरीक़ा और इस्तेमाल के नियम',
+        hEn: 'How to build it, and the rules of use',
+        pHi: [
+          'तरीक़ा वही जो हर बड़ी बचत का है: ऑटोमेशन। वेतन आते ही एक तय रक़म अपने-आप अलग खाते में चली जाए — पहले फंड, फिर ख़र्च। तेज़ी लानी हो तो बोनस, टैक्स रिफंड और वेतन-वृद्धि का पहला महीना सीधे इसी में डालिए। छह से बारह महीनों में ढाल तैयार हो जाती है।',
+          'इस्तेमाल के दो नियम: पहला, सिर्फ़ असली आपात स्थिति में हाथ लगाइए — नौकरी जाना, मेडिकल ख़र्च, अनिवार्य मरम्मत; छुट्टियाँ और त्योहार की ख़रीदारी नहीं। दूसरा, जितना निकाला, संकट टलते ही सबसे पहली प्राथमिकता पर वापस भरिए। ढाल में छेद रह जाए तो अगला तीर सीधा लगता है।',
+        ],
+        pEn: [
+          'The method is the same as for all serious saving: automation. The moment salary arrives, a fixed amount should move to a separate account by itself — fund first, spending after. To speed it up, route bonuses, tax refunds and the first month of every increment straight into it. The shield is ready within six to twelve months.',
+          'Two rules of use: first, touch it only for true emergencies — job loss, medical costs, unavoidable repairs; not holidays or festival shopping. Second, whatever you withdraw, refill it as the first priority once the crisis passes. A shield with a hole lets the next arrow straight through.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'credit-score-improve-guide',
+    category: 'credit',
+    titleHi: 'क्रेडिट स्कोर 750 पार कैसे ले जाएँ: वह संख्या जो आपके लोन की क़ीमत तय करती है',
+    titleEn: 'Taking Your Credit Score Past 750: The Number That Prices Every Loan You’ll Take',
+    excerptHi: 'CIBIL स्कोर सिर्फ़ लोन मिलने-न-मिलने का सवाल नहीं — यह तय करता है कि वही लोन आपको कितना महँगा पड़ेगा। स्कोर की गणित और उसे सुधारने के सिद्ध तरीक़े।',
+    excerptEn: 'Your CIBIL score doesn’t just decide whether you get a loan — it decides how expensive that loan will be. The mathematics of the score, and the proven ways to raise it.',
+    date: '2026-07-08',
+    minutes: 8,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'भारत में 300 से 900 के बीच की एक संख्या चुपचाप तय करती है कि बैंक आपसे कैसा व्यवहार करेगा — यही है क्रेडिट स्कोर, जिसे आम बोलचाल में CIBIL स्कोर कहा जाता है। 750 से ऊपर का स्कोर दरवाज़े खोलता है: होम लोन पर बेहतर ब्याज दर, तुरंत मंज़ूरी, ऊँची कार्ड लिमिट। 650 से नीचे का स्कोर या तो “ना” सुनवाता है या वही लोन महँगा कर देता है।',
+          'अच्छी ख़बर यह है कि क्रेडिट स्कोर कोई जन्मपत्री नहीं — यह पूरी तरह आपके व्यवहार का हिसाब है, और व्यवहार बदलते ही छह से बारह महीनों में स्कोर बदलने लगता है। समझते हैं कि यह बनता कैसे है और सुधरता कैसे है।',
+        ],
+        pEn: [
+          'A number between 300 and 900 quietly decides how banks treat you in India — the credit score, colloquially the CIBIL score. Above 750, doors open: better home-loan rates, quick approvals, higher card limits. Below 650, you either hear “no” or pay noticeably more for the same loan.',
+          'The good news: a credit score is not a horoscope — it is purely an account of your behaviour, and when the behaviour changes, the score starts moving within six to twelve months. Let us see how it is built and how it is repaired.',
+        ],
+      },
+      {
+        hHi: 'स्कोर किस चीज़ से बनता है',
+        hEn: 'What the score is made of',
+        pHi: [
+          'सबसे बड़ा हिस्सा — लगभग एक-तिहाई से ज़्यादा — भुगतान इतिहास का है: EMI और कार्ड बिल समय पर गए या नहीं। एक भी 30+ दिन की चूक रिपोर्ट में वर्षों दिखती रहती है। दूसरा बड़ा हिस्सा “क्रेडिट यूटिलाइज़ेशन” है — कार्ड लिमिट का कितना प्रतिशत आप औसतन इस्तेमाल करते हैं; 30% से नीचे रहना आदर्श माना जाता है।',
+          'बाक़ी हिस्सा बनता है क्रेडिट इतिहास की लंबाई (पुराना कार्ड बंद करने से यह घटती है), क्रेडिट मिश्रण (सिर्फ़ अनसिक्योर्ड लोन का ढेर अच्छा संकेत नहीं) और नई पूछताछ की संख्या से — थोड़े समय में कई लोन आवेदन “क्रेडिट की भूख” जैसे दिखते हैं और स्कोर को दबाते हैं।',
+        ],
+        pEn: [
+          'The largest share — over a third — is payment history: whether EMIs and card bills went on time. A single 30-plus-day default stays visible on the report for years. The second big component is credit utilisation — what percentage of your card limit you use on average; staying under 30% is considered ideal.',
+          'The rest comes from the length of your credit history (closing an old card shortens it), your credit mix (a pile of only unsecured loans is not a good signal), and the number of recent enquiries — several loan applications in a short window look like “credit hunger” and depress the score.',
+        ],
+      },
+      {
+        hHi: 'स्कोर सुधारने के छह सिद्ध क़दम',
+        hEn: 'Six proven steps to raise it',
+        pHi: [
+          'एक: हर EMI और कार्ड बिल का ऑटो-डेबिट लगाइए — देर से भुगतान ही स्कोर का सबसे बड़ा हत्यारा है। दो: कार्ड का इस्तेमाल लिमिट के 30% से नीचे रखिए; बिल जनरेट होने से पहले आंशिक भुगतान भी यूटिलाइज़ेशन घटा देता है। तीन: सबसे पुराना कार्ड बंद मत कीजिए, भले इस्तेमाल कम हो। चार: साल में एक बार अपनी क्रेडिट रिपोर्ट मुफ़्त निकालकर ग़लतियाँ जाँचिए — बंद हो चुका लोन “चालू” दिखना आम त्रुटि है, और विवाद (dispute) दर्ज करना आपका अधिकार।',
+          'पाँच: कम समय में कई लोन आवेदनों से बचिए; ज़रूरत हो तो पहले एक जगह पात्रता जाँचिए। छह: अगर इतिहास बहुत बिगड़ा है, तो FD पर सिक्योर्ड क्रेडिट कार्ड लेकर छोटा ख़र्च और पूरा भुगतान दोहराइए — यह टूटे स्कोर को फिर से खड़ा करने का सबसे भरोसेमंद रास्ता है। धैर्य रखिए: स्कोर लिफ़्ट नहीं, सीढ़ी है।',
+        ],
+        pEn: [
+          'One: put every EMI and card bill on auto-debit — late payment is the score’s biggest killer. Two: keep card usage under 30% of the limit; even a part-payment before the bill generates lowers utilisation. Three: never close your oldest card, however little you use it. Four: pull your free credit report once a year and hunt for errors — a closed loan still showing “active” is a common one, and filing a dispute is your right.',
+          'Five: avoid multiple loan applications in a short window; check eligibility in one place first if needed. Six: if your history is badly damaged, take a secured credit card against an FD and repeat small spends with full payments — the most reliable road back for a broken score. Be patient: a score is a staircase, not a lift.',
+        ],
+      },
+      {
+        hHi: 'जो बातें स्कोर पर असर नहीं डालतीं',
+        hEn: 'What does not affect the score',
+        pHi: [
+          'कुछ मिथक साफ़ कर दें: अपना स्कोर ख़ुद जाँचना “सॉफ्ट एंक्वायरी” है — इससे स्कोर नहीं गिरता, चाहे रोज़ देखें। आपकी सैलरी, बैंक बैलेंस, निवेश या UPI लेन-देन सीधे स्कोर में नहीं गिने जाते। डेबिट कार्ड का इस्तेमाल क्रेडिट इतिहास नहीं बनाता।',
+          'और आख़िरी बात — स्कोर का मक़सद कर्ज़ के लायक़ दिखना नहीं, कर्ज़ को सस्ता करना है। सबसे अच्छा रिश्ता वही है जिसमें क्रेडिट आपके अनुशासन का सबूत हो, ज़रूरत का नहीं।',
+        ],
+        pEn: [
+          'Let us clear some myths: checking your own score is a “soft enquiry” — it does not lower the score even if you look daily. Your salary, bank balance, investments and UPI transactions are not directly counted in the score. Debit-card usage builds no credit history.',
+          'And finally — the purpose of a score is not to look creditworthy, but to make credit cheap. The best relationship with credit is the one where it is evidence of your discipline, not of your need.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'term-insurance-guide',
+    category: 'bima',
+    titleHi: 'टर्म इंश्योरेंस: सबसे सस्ता वादा जो आपके परिवार की पूरी दुनिया सँभाल सकता है',
+    titleEn: 'Term Insurance: The Cheapest Promise That Can Hold Up Your Family’s Whole World',
+    excerptHi: 'न निवेश, न रिटर्न, न मैच्योरिटी — सिर्फ़ शुद्ध सुरक्षा। इसीलिए टर्म प्लान हर कमाने वाले की पहली पॉलिसी होनी चाहिए। कितना कवर, कब तक, और किन बातों का ध्यान रखें।',
+    excerptEn: 'No investment, no returns, no maturity — pure protection only. That is exactly why a term plan should be every earner’s first policy. How much cover, till when, and what to watch.',
+    date: '2026-07-10',
+    minutes: 8,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'बीमा की दुनिया में एक ही उत्पाद है जो अपने नाम के साथ पूरा न्याय करता है — टर्म इंश्योरेंस। आप एक छोटा-सा वार्षिक प्रीमियम देते हैं; बदले में कंपनी वादा करती है कि पॉलिसी अवधि में आपके न रहने पर परिवार को एक बड़ी तयशुदा रक़म मिलेगी। अवधि पूरी होने पर कुछ वापस नहीं मिलता — और यही इसकी ख़ूबी है, कमी नहीं।',
+          'क्योंकि कंपनी को “रिटर्न” नहीं देना, इसलिए ३०-३५ साल के स्वस्थ व्यक्ति को ₹1 करोड़ का कवर अक्सर रोज़ की एक चाय से कम क़ीमत में मिल जाता है। समस्या सिर्फ़ एक है: यह उत्पाद बिकता कम है, क्योंकि इसमें एजेंट का कमीशन और ग्राहक का लालच — दोनों को कुछ ख़ास नहीं मिलता। इसीलिए इसे ख़ुद समझकर ख़रीदना पड़ता है।',
+        ],
+        pEn: [
+          'One product in the insurance world does full justice to its name — term insurance. You pay a small annual premium; in return, the company promises that if you are not there during the policy term, your family receives a large fixed sum. If you outlive the term, nothing comes back — and that is its virtue, not its flaw.',
+          'Because the company owes no “returns”, a healthy 30–35-year-old often gets ₹1 crore of cover for less than the price of a daily cup of tea. There is only one problem: the product is under-sold, because neither the agent’s commission nor the customer’s greed finds much in it. Which is why it must be understood and bought by you, deliberately.',
+        ],
+      },
+      {
+        hHi: 'कितना कवर: आय का 15-20 गुना',
+        hEn: 'How much cover: 15–20 times income',
+        pHi: [
+          'अँगूठे का नियम: वार्षिक आय का 15 से 20 गुना, जिसमें बक़ाया लोन (होम लोन विशेषकर) और बच्चों की शिक्षा जैसे बड़े भविष्य के ख़र्च जोड़ लें। ₹12 लाख सालाना कमाने वाले के लिए ₹1.5–2 करोड़ का कवर अटपटा नहीं, गणितीय रूप से सही है — यही रक़म निवेश होकर परिवार की मासिक आमदनी की जगह ले सकती है।',
+          'अवधि उतनी रखें जितने साल परिवार आप पर आर्थिक रूप से निर्भर रहेगा — आमतौर पर रिटायरमेंट की उम्र यानी 60-65 तक। 85 साल तक का महँगा कवर अक्सर बेकार है: तब तक ज़िम्मेदारियाँ ख़त्म और संपत्ति तैयार होनी चाहिए। बीमा ज़िम्मेदारियों का पुल है, अमरता की योजना नहीं।',
+        ],
+        pEn: [
+          'The rule of thumb: 15 to 20 times annual income, plus outstanding loans (especially the home loan) and large future costs like children’s education. For someone earning ₹12 lakh a year, ₹1.5–2 crore of cover is not excessive — it is the amount that, invested, can replace the family’s monthly income.',
+          'Set the term for as long as the family will depend on your income — usually up to retirement at 60–65. Expensive cover running to age 85 is mostly wasted: by then responsibilities should be over and assets built. Insurance is a bridge across your responsibilities, not a plan for immortality.',
+        ],
+      },
+      {
+        hHi: 'ख़रीदते समय पाँच बातें',
+        hEn: 'Five things at purchase time',
+        pHi: [
+          'पहली और सबसे बड़ी: प्रस्ताव फ़ॉर्म में हर सवाल का सच जवाब — धूम्रपान, बीमारी, पुरानी पॉलिसियाँ, ख़तरनाक शौक़ सब कुछ। दावे ख़ारिज होने का सबसे बड़ा कारण छिपाई गई जानकारी है, प्रीमियम बचाने की यह सबसे महँगी तरकीब है। दूसरी: कंपनी का क्लेम सेटलमेंट रिकॉर्ड देखिए — IRDAI हर साल यह आँकड़ा प्रकाशित करता है।',
+          'तीसरी: राइडर सोच-समझकर — एक्सीडेंटल डिसेबिलिटी और क्रिटिकल इलनेस राइडर उपयोगी हो सकते हैं, पर “प्रीमियम वापसी” (TROP) वाला विकल्प लगभग हमेशा घाटे का सौदा है; वही अतिरिक्त प्रीमियम SIP में ज़्यादा बनाता है। चौथी: पॉलिसी की जानकारी परिवार को दीजिए — जिस काग़ज़ के बारे में परिवार जानता ही नहीं, वह किसी काम का नहीं। पाँचवीं: नॉमिनी अपडेट रखिए, और शादी/बच्चों जैसे मोड़ों पर कवर की समीक्षा कीजिए।',
+        ],
+        pEn: [
+          'First and biggest: answer every question on the proposal form truthfully — smoking, illnesses, existing policies, risky hobbies, all of it. Concealed information is the top reason claims get rejected; hiding facts to save premium is the most expensive trick in insurance. Second: check the insurer’s claim-settlement record — IRDAI publishes it every year.',
+          'Third: choose riders thoughtfully — accidental disability and critical illness riders can be useful, but the “return of premium” (TROP) option is almost always a poor deal; the same extra premium builds more in a SIP. Fourth: tell your family the policy exists — a paper the family doesn’t know about protects no one. Fifth: keep the nominee updated, and review the cover at life’s turns — marriage, children, a big loan.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'old-vs-new-tax-regime',
+    category: 'tax',
+    titleHi: 'पुरानी बनाम नई टैक्स रिजीम: आपके लिए कौन-सी सही है, गणित के साथ',
+    titleEn: 'Old vs New Tax Regime: Which One Is Right for You, With the Arithmetic',
+    excerptHi: 'नई रिजीम की कम दरें बनाम पुरानी रिजीम की कटौतियाँ — फ़ैसला नारे से नहीं, आपके अपने आँकड़ों से होना चाहिए। तुलना का तरीक़ा, उदाहरण सहित।',
+    excerptEn: 'The new regime’s lower rates versus the old regime’s deductions — the decision should come from your own numbers, not slogans. A method for the comparison, with examples.',
+    date: '2026-07-12',
+    minutes: 8,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'हर वित्त वर्ष की शुरुआत में लाखों वेतनभोगी एक ही सवाल से जूझते हैं: पुरानी टैक्स रिजीम चुनें या नई? दोनों के पैरोकार नारों से लड़ते हैं, जबकि सच्चाई सीधी है — यह व्यक्तिगत गणित का सवाल है। जिनकी कटौतियाँ बड़ी हैं, उन्हें पुरानी रिजीम अब भी बचत दे सकती है; जिनकी कटौतियाँ कम हैं, उनके लिए नई रिजीम की घटी दरें और सरलता प्रायः बेहतर हैं।',
+          'यह लेख नियमों का ढाँचा और तुलना करने की विधि देता है। दरें और सीमाएँ बजट के साथ बदलती रहती हैं, इसलिए अंतिम निर्णय से पहले चालू वर्ष के आधिकारिक स्लैब अवश्य देख लें — तरीक़ा वही रहता है, संख्याएँ बदलती हैं।',
+        ],
+        pEn: [
+          'At the start of every financial year, lakhs of salaried Indians wrestle with one question: old tax regime or new? Partisans of each fight with slogans, while the truth is plain — it is a question of personal arithmetic. Those with large deductions may still save under the old regime; those with few deductions are usually better off with the new regime’s lower rates and simplicity.',
+          'This article gives you the structure of the rules and a method for the comparison. Rates and limits change with budgets, so always check the current year’s official slabs before the final call — the method stays the same, the numbers move.',
+        ],
+      },
+      {
+        hHi: 'दो रिजीम, दो दर्शन',
+        hEn: 'Two regimes, two philosophies',
+        pHi: [
+          'पुरानी रिजीम का दर्शन है: “सरकार जिन कामों को प्रोत्साहित करती है, उन पर ख़र्च/निवेश करो और टैक्स घटाओ” — 80C (PPF, ELSS, जीवन बीमा, बच्चों की ट्यूशन फीस), 80D (स्वास्थ्य बीमा), HRA, होम लोन का ब्याज, NPS आदि मिलाकर अच्छी-ख़ासी आय कर-मुक्त हो सकती है। क़ीमत: काग़ज़ी अनुशासन और साल भर की योजना।',
+          'नई रिजीम का दर्शन है: “कटौतियों का जंगल हटाओ, दरें घटाओ” — गिनी-चुनी छूटों (जैसे वेतनभोगियों की स्टैंडर्ड डिडक्शन और नियोक्ता का NPS अंशदान) के अलावा कुछ नहीं, बदले में हर स्लैब पर हल्की दरें और ऊँची कर-मुक्त सीमा। अब यही डिफ़ॉल्ट रिजीम भी है — यानी कुछ न चुनने पर यही लागू होती है।',
+        ],
+        pEn: [
+          'The old regime’s philosophy: “spend/invest in what the state encourages, and reduce your tax” — 80C (PPF, ELSS, life insurance, children’s tuition), 80D (health insurance), HRA, home-loan interest, NPS and more can shelter a sizeable slice of income. The price: paperwork discipline and year-round planning.',
+          'The new regime’s philosophy: “clear the jungle of deductions, lower the rates” — almost nothing survives beyond a few items (like the salaried standard deduction and the employer’s NPS contribution), in exchange for lighter rates on every slab and a higher tax-free threshold. It is now also the default — choose nothing, and this is what applies.',
+        ],
+      },
+      {
+        hHi: 'तुलना कैसे करें: तीस मिनट की विधि',
+        hEn: 'How to compare: the thirty-minute method',
+        pHi: [
+          'क़दम एक: अपनी कुल कर-योग्य आय लिखिए। क़दम दो: अपनी वास्तविक कटौतियाँ जोड़िए — वही जो आप सचमुच करते/कर सकते हैं: 80C में कितना जाता है, स्वास्थ्य बीमा प्रीमियम, HRA मिलता है या नहीं, होम लोन का ब्याज। क़दम तीन: आयकर विभाग का आधिकारिक कैलकुलेटर खोलिए और दोनों रिजीम में टैक्स निकालिए। जो कम, वही आपकी रिजीम — इस साल के लिए।',
+          'मोटा पैटर्न (हर साल सत्यापित करें): कुल कटौतियाँ जितनी बड़ी — ख़ासकर HRA + 80C + होम लोन ब्याज का मेल — पुरानी रिजीम उतनी आकर्षक। कटौतियाँ सीमित हों (किराया नहीं, लोन नहीं, निवेश PPF/ELSS से बाहर), तो नई रिजीम प्रायः जीतती है। वेतनभोगी हर साल रिजीम बदल सकते हैं; व्यवसाय-आय वालों के लिए अदला-बदली के नियम सख़्त हैं, इसलिए वे सोच-समझकर चुनें।',
+        ],
+        pEn: [
+          'Step one: write down your total taxable income. Step two: add up your real deductions — the ones you actually make or can make: what goes into 80C, health-insurance premium, whether you receive HRA, home-loan interest. Step three: open the Income Tax Department’s official calculator and compute tax under both regimes. Whichever is lower is your regime — for this year.',
+          'The rough pattern (verify each year): the larger your total deductions — especially the combination of HRA + 80C + home-loan interest — the more attractive the old regime. With limited deductions (no rent, no loan, investments outside PPF/ELSS), the new regime usually wins. Salaried taxpayers may switch every year; the rules are stricter for business income, so choose carefully there.',
+        ],
+      },
+      {
+        hHi: 'एक चेतावनी: पूँछ से कुत्ता मत हिलाइए',
+        hEn: 'One warning: don’t let the tail wag the dog',
+        pHi: [
+          'सबसे आम ग़लती टैक्स बचाने के लिए ख़राब उत्पाद ख़रीदना है — मार्च के आख़िरी हफ़्ते में जल्दबाज़ी में लिया गया महँगा एंडाउमेंट प्लान इसका क्लासिक उदाहरण है। कर-बचत निवेश भी पहले “अच्छा निवेश” होना चाहिए: PPF, ELSS, NPS, टर्म बीमा — ये अपने दम पर खड़े उत्पाद हैं, टैक्स लाभ इन पर ऊपर से मिलता है।',
+          'रिजीम कोई भी चुनें, सिद्धांत एक ही है: टैक्स योजना वित्तीय योजना का हिस्सा है, उसका विकल्प नहीं। पहले लक्ष्य, फिर उत्पाद, और उसके बाद यह देखना कि कौन-सी रिजीम उस तस्वीर पर कम टैक्स लगाती है।',
+        ],
+        pEn: [
+          'The commonest mistake is buying bad products to save tax — the expensive endowment plan bought in a rush in the last week of March is the classic example. A tax-saving investment must first be a good investment: PPF, ELSS, NPS, term insurance — these stand on their own, with the tax benefit as a bonus on top.',
+          'Whichever regime you choose, the principle is the same: tax planning is a part of financial planning, not a substitute for it. Goals first, products second — and only then check which regime taxes that picture more lightly.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'upi-fraud-se-bachav',
+    category: 'digital',
+    titleHi: 'UPI धोखाधड़ी से बचाव: नौ चालें जो हर भारतीय को पहचाननी चाहिए',
+    titleEn: 'Staying Safe from UPI Fraud: Nine Tricks Every Indian Should Recognise',
+    excerptHi: 'पैसा “पाने” के लिए PIN कभी नहीं डलता — यह एक वाक्य आधे फ्रॉड रोक देता है। बाक़ी आधे रोकने के लिए ठगों की नौ सबसे चालू तरकीबें और हर एक का तोड़।',
+    excerptEn: 'You never enter a PIN to RECEIVE money — that one sentence stops half of all UPI fraud. Here are the nine most common tricks for the other half, and the counter to each.',
+    date: '2026-07-15',
+    minutes: 8,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'UPI ने भारत में पैसा भेजना जितना आसान बनाया, ठगों ने उसे उतनी ही तेज़ी से अपना कार्यक्षेत्र बना लिया। तकनीक शायद ही कभी टूटती है — टूटता है भरोसा। लगभग हर UPI फ्रॉड की जड़ में एक ही चीज़ है: जल्दबाज़ी या लालच की हालत में इंसान से करवाया गया एक ग़लत क्लिक।',
+          'इसलिए बचाव का पहला नियम तकनीकी नहीं, मानसिक है: जो भी संदेश आपको “अभी, तुरंत” कुछ करने को कहे — भुगतान, PIN, OTP, ऐप इंस्टॉल — वहीं रुक जाइए। असली बैंक, असली कंपनी, असली सरकारी विभाग कभी भी इतनी हड़बड़ी नहीं मचाते।',
+        ],
+        pEn: [
+          'UPI made sending money in India effortless — and fraudsters just as quickly made it their workplace. The technology itself is rarely broken; what breaks is trust. At the root of nearly every UPI fraud is the same thing: one wrong tap, extracted from a person in a state of hurry or greed.',
+          'So the first rule of safety is mental, not technical: whenever a message demands you do something “right now, immediately” — a payment, a PIN, an OTP, an app install — stop right there. Real banks, real companies and real government departments never manufacture that kind of panic.',
+        ],
+      },
+      {
+        hHi: 'चाल 1–3: PIN, “ग़लती से पैसा” और QR',
+        hEn: 'Tricks 1–3: the PIN, the “accidental transfer”, and QR codes',
+        pHi: [
+          'पहली और सबसे बड़ी चाल: “आपको पैसा भेजा है, स्वीकारने के लिए PIN डालें।” याद रखिए — पैसा पाने के लिए PIN कभी नहीं लगता; PIN केवल भेजने के लिए है। “कलेक्ट रिक्वेस्ट” पर PIN डालते ही पैसा आपके खाते से जाता है, आता नहीं। दूसरी चाल: “ग़लती से आपके खाते में पैसा चला गया, लौटा दीजिए” — पहले अपने बैंक स्टेटमेंट में देखिए कि पैसा सच में आया भी है या सिर्फ़ नक़ली SMS आया है; लौटाना हो तो बैंक के माध्यम से लौटाइए।',
+          'तीसरी: QR कोड सिर्फ़ भुगतान करने के लिए स्कैन होता है, पाने के लिए नहीं। “इनाम पाने के लिए यह QR स्कैन करें” सुनते ही समझ जाइए कि सामने ठग है। OLX-प्रकार की साइटों पर सामान बेचते समय यह चाल सबसे ज़्यादा चलती है।',
+        ],
+        pEn: [
+          'The first and biggest trick: “Money has been sent to you — enter your PIN to accept it.” Remember — receiving money never requires a PIN; the PIN exists only for sending. Enter your PIN on a collect request and money leaves your account, it does not arrive. Second trick: “money was transferred to your account by mistake, please return it” — first check your actual bank statement to see whether anything arrived at all, or only a fake SMS did; if a genuine return is needed, do it through the bank.',
+          'Third: a QR code is scanned to PAY, never to receive. The moment you hear “scan this QR to claim your prize”, you are talking to a fraudster. This trick runs hardest against people selling items on classifieds platforms.',
+        ],
+      },
+      {
+        hHi: 'चाल 4–6: स्क्रीन-शेयर, नक़ली हेल्पलाइन, KYC नाटक',
+        hEn: 'Tricks 4–6: screen-sharing, fake helplines, the KYC drama',
+        pHi: [
+          'चौथी चाल: “समस्या ठीक करने के लिए यह ऐप डाउनलोड करें” — स्क्रीन-शेयरिंग ऐप (AnyDesk/TeamViewer जैसे) इंस्टॉल करते ही ठग आपकी स्क्रीन, OTP और UPI ऐप सब देख सकता है। बैंक कभी ऐसा ऐप नहीं डलवाते। पाँचवीं: गूगल पर मिला “कस्टमर केयर नंबर” — ठग नक़ली नंबर सर्च में ऊपर चढ़ा देते हैं; नंबर हमेशा आधिकारिक ऐप या कार्ड के पीछे से लीजिए।',
+          'छठी: “आपका KYC/सिम/खाता आज रात बंद हो जाएगा” — डर बेचने वाला यह नाटक बुज़ुर्गों पर सबसे ज़्यादा आज़माया जाता है। कोई बैंक SMS-लिंक से KYC नहीं करवाता। ऐसे संदेश का एक ही जवाब है: डिलीट, और शक हो तो शाखा में जाकर पूछ लेना।',
+        ],
+        pEn: [
+          'Fourth trick: “download this app so we can fix your problem” — install a screen-sharing app (AnyDesk/TeamViewer types) and the fraudster sees your screen, OTPs and UPI app in real time. Banks never ask for such apps. Fifth: the “customer-care number” found on Google — fraudsters push fake numbers up the search results; always take the number from the official app or the back of your card.',
+          'Sixth: “your KYC/SIM/account will be blocked tonight” — this fear-selling drama is tried most on the elderly. No bank does KYC over an SMS link. The only response to such messages: delete, and if in doubt, walk into the branch and ask.',
+        ],
+      },
+      {
+        hHi: 'चाल 7–9 और ठगे जाने पर पहला घंटा',
+        hEn: 'Tricks 7–9, and the first hour after being defrauded',
+        pHi: [
+          'सातवीं: नौकरी/टास्क फ्रॉड — पहले छोटे “कमीशन” देकर भरोसा जीतते हैं, फिर बड़ी रक़म जमा करवाकर ग़ायब। आठवीं: सोशल मीडिया पर दोस्त/रिश्तेदार बनकर “इमरजेंसी में पैसे भेजो” — कॉल करके आवाज़ से पुष्टि किए बिना कभी न भेजें। नौवीं: निवेश ग्रुप जो रोज़ “गारंटीड रिटर्न” के स्क्रीनशॉट दिखाते हैं — जहाँ गारंटी शब्द है, वहीं धोखा है।',
+          'अगर ठगी हो जाए तो पहला घंटा सोने जैसा है: तुरंत 1930 (राष्ट्रीय साइबर क्राइम हेल्पलाइन) पर कॉल कीजिए और cybercrime.gov.in पर शिकायत दर्ज कीजिए; साथ ही अपने बैंक/UPI ऐप को सूचित कर लेन-देन विवाद में डालिए। जितनी जल्दी रिपोर्ट, पैसा रुकने-लौटने की संभावना उतनी ज़्यादा। शर्म से चुप रहना ठग की सबसे बड़ी ताक़त है — रिपोर्ट कीजिए, हर बार।',
+        ],
+        pEn: [
+          'Seventh: job/task fraud — small “commissions” are paid first to win trust, then a large deposit is taken and the operation vanishes. Eighth: impersonation of a friend or relative on social media asking for “emergency money” — never send without confirming by voice on a call. Ninth: investment groups posting daily screenshots of “guaranteed returns” — wherever the word guarantee appears, the fraud is already present.',
+          'If you are defrauded, the first hour is golden: call 1930 (the national cybercrime helpline) immediately and file a complaint at cybercrime.gov.in; inform your bank/UPI app and dispute the transaction in parallel. The faster the report, the higher the chance the money is frozen or recovered. Staying silent out of embarrassment is the fraudster’s greatest asset — report it, every time.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'gold-investment-options-india',
+    category: 'nivesh',
+    titleHi: 'सोने में निवेश: गहना, सिक्का, गोल्ड ETF या SGB — सही तरीक़ा कौन-सा है?',
+    titleEn: 'Investing in Gold: Jewellery, Coins, Gold ETFs or SGBs — Which Way Is Right?',
+    excerptHi: 'भारतीयों का सोने से रिश्ता पुराना है, पर निवेश की नज़र से हर पीला विकल्प बराबर नहीं। मेकिंग चार्ज से लेकर टैक्स तक — चारों रास्तों की ईमानदार तुलना।',
+    excerptEn: 'India’s bond with gold is ancient, but not every yellow option is equal as an investment. From making charges to tax — an honest comparison of all four routes.',
+    date: '2026-07-17',
+    minutes: 8,
+    sections: [
+      {
+        hHi: '',
+        hEn: '',
+        pHi: [
+          'शादी के गहनों से लेकर धनतेरस के सिक्के तक, सोना भारतीय घरों में सदियों से बचत का पर्याय रहा है। भावना अपनी जगह है, पर निवेश की मेज़ पर बैठें तो सवाल बदल जाता है: यदि मक़सद संपत्ति बढ़ाना है, तो सोना किस रूप में ख़रीदना चाहिए — और कितना?',
+          'आधुनिक निवेशक के पास चार मुख्य रास्ते हैं: भौतिक सोना (गहने/सिक्के), गोल्ड ETF, गोल्ड म्यूचुअल फंड, और (जब सरकार जारी करे) सॉवरेन गोल्ड बॉन्ड। चारों की लागत, सुरक्षा, तरलता और टैक्स-व्यवहार अलग-अलग हैं — और यही अंतर लंबी अवधि में लाखों का फ़र्क़ पैदा करता है।',
+        ],
+        pEn: [
+          'From wedding jewellery to Dhanteras coins, gold has been a synonym for saving in Indian homes for centuries. Sentiment has its place, but at the investment table the question changes: if the goal is growing wealth, in what form should gold be bought — and how much of it?',
+          'The modern investor has four main routes: physical gold (jewellery/coins), gold ETFs, gold mutual funds, and — whenever the government issues them — Sovereign Gold Bonds. Their costs, safety, liquidity and tax treatment differ, and over the long term those differences add up to lakhs.',
+        ],
+      },
+      {
+        hHi: 'भौतिक सोना: भावना महँगी पड़ती है',
+        hEn: 'Physical gold: sentiment is expensive',
+        pHi: [
+          'गहनों की पहली सच्चाई मेकिंग चार्ज है — 8% से 25% तक, जो बेचते समय लगभग कभी वापस नहीं मिलता; साथ में 3% GST अलग। यानी ख़रीदते ही निवेश दो अंकों के घाटे से शुरू होता है। ऊपर से लॉकर का किराया, चोरी का जोखिम और शुद्धता की चिंता (हॉलमार्क अनिवार्य रूप से देखें — अब छह अंकों का HUID आधार है)।',
+          'इसका मतलब यह नहीं कि गहने मत ख़रीदिए — पहनने की चीज़ का अपना आनंद है। मतलब सिर्फ़ इतना है कि गहनों को “निवेश” के खाते में मत लिखिए। निवेश वाला सोना काग़ज़ी/डिजिटल रूप में सस्ता, सुरक्षित और शुद्ध मिलता है।',
+        ],
+        pEn: [
+          'The first truth about jewellery is the making charge — 8% to 25%, almost never recovered at resale — plus 3% GST on top. Your investment starts with a double-digit loss on day one. Add locker rent, theft risk and purity worries (always insist on hallmarking — the six-digit HUID is now the standard).',
+          'This does not mean don’t buy jewellery — a thing worn has its own joy. It only means don’t write jewellery into the “investment” column. Investment gold is cheaper, safer and purer in paper or digital form.',
+        ],
+      },
+      {
+        hHi: 'ETF, गोल्ड फंड और SGB',
+        hEn: 'ETFs, gold funds and SGBs',
+        pHi: [
+          'गोल्ड ETF शेयर की तरह एक्सचेंज पर ख़रीदा-बेचा जाता है, हर यूनिट के पीछे शुद्ध सोना, न मेकिंग चार्ज न शुद्धता की चिंता; चाहिए बस डीमैट खाता। गोल्ड म्यूचुअल फंड वही काम बिना डीमैट के SIP-सुविधा के साथ करते हैं, थोड़ी अतिरिक्त लागत पर। छोटे-छोटे मासिक निवेश के लिए यह सबसे व्यावहारिक रास्ता है।',
+          'सॉवरेन गोल्ड बॉन्ड (SGB) — जब उपलब्ध हों — निवेश-सोने का सबसे समृद्ध रूप रहे हैं: सोने के भाव के साथ-साथ सालाना ब्याज, और परिपक्वता तक रखने पर पूँजीगत लाभ की छूट। सीमा यह कि इनकी उपलब्धता सरकारी निर्गम पर निर्भर है और बीच में बेचना ETF जितना आसान नहीं। जो निर्गम खुले, उसकी शर्तें उसी समय पढ़कर तय करें।',
+        ],
+        pEn: [
+          'A gold ETF trades on the exchange like a share, with pure gold behind every unit — no making charge, no purity doubt; all you need is a demat account. Gold mutual funds do the same job without demat and with SIP convenience, at slightly higher cost. For small monthly amounts they are the most practical route.',
+          'Sovereign Gold Bonds — whenever issues are open — have been the richest form of investment gold: the gold price plus annual interest, and capital-gains exemption if held to maturity. The limits: availability depends on government issuance, and mid-way exits are less liquid than ETFs. Read the terms of whichever tranche opens at the time.',
+        ],
+      },
+      {
+        hHi: 'पोर्टफोलियो में कितना सोना?',
+        hEn: 'How much gold in a portfolio?',
+        pHi: [
+          'सोना आमदनी नहीं देता — न ब्याज, न लाभांश (SGB के ब्याज को छोड़कर); इसका काम पोर्टफोलियो का “बीमा” होना है, इंजन नहीं। संकट और मुद्रास्फीति के दौर में यह चमकता है, इसलिए ज़्यादातर सलाहकार कुल निवेश का 5–10% सोने में रखने की बात करते हैं — इतना कि गिरते बाज़ार में सहारा दे, इतना नहीं कि बढ़ते बाज़ार की कमाई खा जाए।',
+          'सार यह: पहनने के लिए गहना, निवेश के लिए ETF/गोल्ड फंड (और SGB जब मिलें), मात्रा सीमित, और ख़रीद नियमित। पीली धातु को पोर्टफोलियो का मसाला रहने दीजिए — पूरी थाली मत बनाइए।',
+        ],
+        pEn: [
+          'Gold produces no income — no interest, no dividend (barring SGB coupons); its job is to be the portfolio’s insurance, not its engine. It shines in crises and inflationary spells, which is why most advisers suggest 5–10% of total investments — enough to cushion a falling market, not so much that it eats the gains of a rising one.',
+          'The summary: jewellery for wearing, ETFs/gold funds for investing (and SGBs when available), the quantity modest, the buying regular. Let the yellow metal be the seasoning of the portfolio — not the whole plate.',
+        ],
+      },
+    ],
+  },
+];
+
+export function getArticle(slug: string): Article | undefined {
+  return ARTICLES.find((a) => a.slug === slug);
+}
+
+export function getArticlesByCategory(cat: CatSlug): Article[] {
+  return ARTICLES.filter((a) => a.category === cat).sort((a, b) => (a.date < b.date ? 1 : -1));
+}
