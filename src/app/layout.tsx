@@ -22,6 +22,9 @@ export const metadata: Metadata = {
   description:
     'निवेश, बचत, टैक्स, बीमा और डिजिटल पैसे पर गहरे और ईमानदार लेख — हिन्दी और अंग्रेज़ी में, मुफ़्त, बिना रजिस्ट्रेशन। Honest personal-finance guides for India, in Hindi and English.',
   alternates: { canonical: '/' },
+  // Own brand favicon — overrides the leftover Sedo parking favicon that a
+  // browser may still show for a freshly-migrated domain.
+  icons: { icon: '/icon.svg', shortcut: '/icon.svg', apple: '/icon.svg' },
   robots: { index: true, follow: true },
   openGraph: {
     siteName: 'Profity.in',
