@@ -1,3 +1,4 @@
+import { ARTICLES_BATCH2 } from './articles-batch2';
 /**
  * Profity.in — original bilingual personal-finance library for India.
  * Hindi (Devanagari) is the native language of the site; every article also
@@ -830,3 +831,6 @@ export function getArticle(slug: string): Article | undefined {
 export function getArticlesByCategory(cat: CatSlug): Article[] {
   return ARTICLES.filter((a) => a.category === cat).sort((a, b) => (a.date < b.date ? 1 : -1));
 }
+
+// Batch 2 merges into the same library; all lists sort by date.
+ARTICLES.push(...ARTICLES_BATCH2);
