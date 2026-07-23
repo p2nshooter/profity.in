@@ -230,5 +230,65 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-security-tips",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग सुरक्षा के लिए सुझाव",
+    "titleEn": "Digital Banking Security Tips",
+    "excerptHi": "डिजिटल बैंकिंग में सुरक्षा के लिए कुछ महत्वपूर्ण सुझाव",
+    "excerptEn": "Some important tips for digital banking security",
+    "date": "2026-07-23",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "डिजिटल बैंकिंग का उपयोग करना एक सुविधाजनक और समय-भरपूर तरीका है जिससे हम अपने बैंकिंग कार्यों को आसानी से पूरा कर सकते हैं। लेकिन इसके साथ ही हमें सुरक्षा का ध्यान रखना भी होता है।",
+          "डिजिटल बैंकिंग सुरक्षा के लिए हमें अपने पासवर्ड को मजबूत और अनोखा रखना होता है, साथ ही हमें अपने डिवाइस को सुरक्षित रखना होता है।"
+        ],
+        "pEn": [
+          "Digital banking is a convenient and time-saving way to manage our banking activities. However, it also requires us to be cautious about security.",
+          "For digital banking security, we need to have a strong and unique password, and also keep our device secure."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग में सुरक्षा के लिए क्या करें?",
+        "hEn": "What to do for digital banking security?",
+        "pHi": [
+          "डिजिटल बैंकिंग में सुरक्षा के लिए हमें अपने बैंकिंग ऐप को हमेशा अपडेट रखना होता है, साथ ही हमें अपने पासवर्ड को नियमित रूप से बदलना होता है।",
+          "हमें अपने डिवाइस को सुरक्षित रखने के लिए एंटीवायरस सॉफ्टवेयर का उपयोग करना होता है, और अपने इंटरनेट कनेक्शन को सुरक्षित करने के लिए वाई-फाई प्रोटेक्शन का उपयोग करना होता है।"
+        ],
+        "pEn": [
+          "For digital banking security, we need to keep our banking app updated, and change our password regularly.",
+          "We need to use antivirus software to keep our device secure, and use Wi-Fi protection to secure our internet connection."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग सुरक्षा के लिए क्या नहीं करना चाहिए?",
+        "hEn": "What not to do for digital banking security?",
+        "pHi": [
+          "डिजिटल बैंकिंग सुरक्षा के लिए हमें अपने पासवर्ड को किसी के साथ साझा नहीं करना चाहिए, साथ ही हमें अपने डिवाइस को अनजान व्यक्ति के सामने नहीं रखना चाहिए।",
+          "हमें अपने बैंकिंग ऐप को अनजान स्रोत से डाउनलोड नहीं करना चाहिए, और अपने पासवर्ड को किसी के साथ साझा नहीं करना चाहिए।"
+        ],
+        "pEn": [
+          "For digital banking security, we should not share our password with anyone, and not keep our device in front of an unknown person.",
+          "We should not download our banking app from an unknown source, and not share our password with anyone."
+        ]
+      },
+      {
+        "hHi": "निष्कर्ष",
+        "hEn": "Conclusion",
+        "pHi": [
+          "डिजिटल बैंकिंग सुरक्षा के लिए हमें अपने पासवर्ड को मजबूत और अनोखा रखना होता है, साथ ही हमें अपने डिवाइस को सुरक्षित रखना होता है।",
+          "हमें अपने बैंकिंग ऐप को अपडेट रखना होता है, और अपने पासवर्ड को नियमित रूप से बदलना होता है।"
+        ],
+        "pEn": [
+          "For digital banking security, we need to have a strong and unique password, and keep our device secure.",
+          "We need to keep our banking app updated, and change our password regularly."
+        ]
+      }
+    ]
   }
 ]
