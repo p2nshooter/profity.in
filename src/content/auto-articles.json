@@ -178,5 +178,57 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-security",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग सुरक्षा",
+    "titleEn": "Digital Banking Security",
+    "excerptHi": "डिजिटल बैंकिंग सुरक्षा के बारे में जानें",
+    "excerptEn": "Learn about digital banking security",
+    "date": "2026-07-23",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "डिजिटल बैंकिंग ने भारत में वित्तीय सेवाओं को सुविधाजनक और तेज बना दिया है। लेकिन साथ ही साथ यह वित्तीय सुरक्षा के मुद्दे को भी बढ़ावा दे रहा है।"
+        ],
+        "pEn": [
+          "Digital banking has made financial services convenient and fast in India. However, it has also raised the issue of financial security."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग सुरक्षा के मुख्य खतरे",
+        "hEn": "Main Threats to Digital Banking Security",
+        "pHi": [
+          "डिजिटल बैंकिंग सुरक्षा में मुख्य खतरे हैं हैकिंग, फ़िशिंग और मैलवेयर। इन खतरों को सामने आने से पहले ही बैंकों को सुरक्षा उपाय करने होंगे।"
+        ],
+        "pEn": [
+          "The main threats to digital banking security are hacking, phishing, and malware. Banks need to take security measures before these threats come to the fore."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग सुरक्षा के लिए क्या करना होगा",
+        "hEn": "What Needs to be Done for Digital Banking Security",
+        "pHi": [
+          "डिजिटल बैंकिंग सुरक्षा के लिए बैंकों को मजबूत पासवर्ड, टू-फैक्टर ऑथेंटिकेशन और डेटा एन्क्रिप्शन जैसी सुरक्षा उपायों को अपनाना होगा।"
+        ],
+        "pEn": [
+          "For digital banking security, banks need to adopt strong passwords, two-factor authentication, and data encryption."
+        ]
+      },
+      {
+        "hHi": "नागरिकों की भूमिका",
+        "hEn": "The Role of Citizens",
+        "pHi": [
+          "डिजिटल बैंकिंग सुरक्षा के लिए नागरिकों को भी अपनी भूमिका निभानी होगी। उन्हें मजबूत पासवर्ड का उपयोग करना होगा, अपने डेटा की सुरक्षा के लिए सावधानी बरतनी होगी।"
+        ],
+        "pEn": [
+          "Citizens also need to play their role in digital banking security. They need to use strong passwords, be cautious about their data security."
+        ]
+      }
+    ]
   }
 ]
