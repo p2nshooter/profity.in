@@ -118,5 +118,65 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "investing-in-mutual-funds",
+    "category": "nivesh",
+    "titleHi": "सहभागिता फंडों में निवेश करना",
+    "titleEn": "Investing in Mutual Funds",
+    "excerptHi": "सहभागिता फंडों में निवेश करने के फायदे और नुकसान जानें",
+    "excerptEn": "Learn the benefits and drawbacks of investing in mutual funds",
+    "date": "2026-07-23",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "सहभागिता फंड एक प्रकार का सामूहिक निवेश है जिसमें कई निवेशक एक साथ मिलकर एक सामान्य कोष में निवेश करते हैं। यह निवेश विभिन्न प्रकार के स्टॉक, बॉन्ड और अन्य संपत्तियों में किया जा सकता है। सहभागिता फंडों में निवेश करने से निवेशकों को विविधीकरण का लाभ मिलता है, जिससे उनका निवेश जोखिम को कम करने में मदद मिलती है।",
+          "सहभागिता फंडों में निवेश करने के लिए निवेशकों को कुछ बुनियादी जानकारी की आवश्यकता होती है, जैसे कि फंड का प्रकार, उसका प्रदर्शन इतिहास, और उसके शुल्क। निवेशकों को सहभागिता फंडों के बारे में जानकारी प्राप्त करने के लिए विभिन्न स्रोतों का उपयोग करना चाहिए, जैसे कि वेबसाइटें, पत्रिकाएं, और वित्तीय सलाहकार।"
+        ],
+        "pEn": [
+          "A mutual fund is a type of collective investment where multiple investors pool their money together to invest in a common fund. This investment can be made in various types of stocks, bonds, and other assets. Investing in mutual funds provides investors with diversification benefits, which helps to reduce their investment risk.",
+          "To invest in mutual funds, investors need some basic information, such as the type of fund, its performance history, and its fees. Investors should use various sources to gather information about mutual funds, such as websites, magazines, and financial advisors."
+        ]
+      },
+      {
+        "hHi": "सहभागिता फंडों के प्रकार",
+        "hEn": "Types of Mutual Funds",
+        "pHi": [
+          "सहभागिता फंडों के विभिन्न प्रकार होते हैं, जिनमें से प्रत्येक का अपना लक्ष्य और निवेश शैली होती है। कुछ आम प्रकार के सहभागिता फंड हैं: इक्विटी फंड, डेब्ट फंड, हाइब्रिड फंड, और सेक्टोरल फंड।",
+          "इन फंडों में से प्रत्येक के अपने फायदे और नुकसान होते हैं, और निवेशकों को अपने निवेश लक्ष्यों और जोखिम सहनशीलता के आधार पर सही फंड चुनना चाहिए।"
+        ],
+        "pEn": [
+          "There are various types of mutual funds, each with its own objective and investment style. Some common types of mutual funds are: equity funds, debt funds, hybrid funds, and sectoral funds.",
+          "Each of these funds has its own advantages and disadvantages, and investors should choose the right fund based on their investment goals and risk tolerance."
+        ]
+      },
+      {
+        "hHi": "सहभागिता फंडों में निवेश करने के लिए जानकारी प्राप्त करना",
+        "hEn": "Gathering Information to Invest in Mutual Funds",
+        "pHi": [
+          "सहभागिता फंडों में निवेश करने से पहले निवेशकों को फंड के बारे में जानकारी प्राप्त करनी चाहिए। यह जानकारी फंड के प्रदर्शन इतिहास, उसके शुल्क, और उसके शेयरधारकों के बारे में हो सकती है।",
+          "निवेशकों को सहभागिता फंडों के बारे में जानकारी प्राप्त करने के लिए विभिन्न स्रोतों का उपयोग करना चाहिए, जैसे कि वेबसाइटें, पत्रिकाएं, और वित्तीय सलाहकार।"
+        ],
+        "pEn": [
+          "Before investing in mutual funds, investors should gather information about the fund. This information can include the fund's performance history, its fees, and its shareholders.",
+          "Investors should use various sources to gather information about mutual funds, such as websites, magazines, and financial advisors."
+        ]
+      },
+      {
+        "hHi": "निष्कर्ष",
+        "hEn": "Conclusion",
+        "pHi": [
+          "सहभागिता फंडों में निवेश करना एक अच्छा विकल्प हो सकता है, लेकिन निवेशकों को इसके लिए सही जानकारी और शोध करना चाहिए।",
+          "यह लेख निवेशकों को सहभागिता फंडों के बारे में जानकारी प्रदान करने के लिए लिखा गया है, जिससे वे अपने निवेश लक्ष्यों को प्राप्त करने में मदद मिल सके।"
+        ],
+        "pEn": [
+          "Investing in mutual funds can be a good option, but investors should do their research and gather the right information.",
+          "This article is written to provide investors with information about mutual funds, so they can achieve their investment goals."
+        ]
+      }
+    ]
   }
 ]
