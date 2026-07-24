@@ -640,5 +640,65 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-privileges-for-low-income-households-blja",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग के लाभ: निम्न आय वाले परिवारों के लिए",
+    "titleEn": "Digital Banking Privileges for Low-Income Households",
+    "excerptHi": "डिजिटल बैंकिंग निम्न आय वाले परिवारों के लिए एक महत्वपूर्ण उपकरण है।",
+    "excerptEn": "Digital banking is a crucial tool for low-income households.",
+    "date": "2026-07-24",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "भारत में डिजिटल बैंकिंग का विस्तार निम्न आय वाले परिवारों के लिए एक अच्छी खबर है। डिजिटल बैंकिंग के माध्यम से अब ये परिवार भी अपने बैंकिंग कार्यों को आसानी से पूरा कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को अपने बैंक खातों को ऑनलाइन प्रबंधित करने की सुविधा मिलती है।"
+        ],
+        "pEn": [
+          "The expansion of digital banking in India is a good news for low-income households. Digital banking enables these households to easily complete their banking tasks.",
+          "Digital banking provides low-income households with the facility to manage their bank accounts online."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लाभ",
+        "hEn": "Benefits of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को कई लाभ मिलते हैं। इनमें से कुछ प्रमुख लाभ हैं:",
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को अपने बैंक खातों को ऑनलाइन प्रबंधित करने की सुविधा मिलती है।"
+        ],
+        "pEn": [
+          "Digital banking offers several benefits to low-income households. Some of the key benefits include:",
+          "Digital banking enables low-income households to manage their bank accounts online."
+        ]
+      },
+      {
+        "hHi": "निम्न आय वाले परिवारों के लिए डिजिटल बैंकिंग के उपयोग",
+        "hEn": "Using Digital Banking for Low-Income Households",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को अपने बैंक खातों को ऑनलाइन प्रबंधित करने की सुविधा मिलती है।",
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को अपने बैंक खातों में पैसे जमा करने और निकालने की सुविधा मिलती है।"
+        ],
+        "pEn": [
+          "Digital banking enables low-income households to manage their bank accounts online.",
+          "Digital banking enables low-income households to deposit and withdraw money from their bank accounts."
+        ]
+      },
+      {
+        "hHi": "निष्कर्ष",
+        "hEn": "Conclusion",
+        "pHi": [
+          "डिजिटल बैंकिंग निम्न आय वाले परिवारों के लिए एक महत्वपूर्ण उपकरण है।",
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को अपने बैंकिंग कार्यों को आसानी से पूरा करने की सुविधा मिलती है।"
+        ],
+        "pEn": [
+          "Digital banking is a crucial tool for low-income households.",
+          "Digital banking enables low-income households to easily complete their banking tasks."
+        ]
+      }
+    ]
   }
 ]
