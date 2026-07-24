@@ -528,5 +528,65 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-for-seniors",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग: वरिष्ठ नागरिकों के लिए एक सुरक्षित विकल्प",
+    "titleEn": "Digital Banking: A Secure Option for Senior Citizens",
+    "excerptHi": "डिजिटल बैंकिंग वरिष्ठ नागरिकों के लिए एक सुरक्षित और कारगर विकल्प है।",
+    "excerptEn": "Digital banking is a secure and efficient option for senior citizens.",
+    "date": "2026-07-24",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "डिजिटल बैंकिंग क्या है? डिजिटल बैंकिंग एक ऐसी प्रणाली है जिसमें बैंकिंग सेवाएं ऑनलाइन उपलब्ध होती हैं।",
+          "यह एक सुरक्षित और कारगर तरीका है जिससे आप अपने खातों को नियंत्रित कर सकते हैं और अपने पैसे का उपयोग कर सकते हैं।"
+        ],
+        "pEn": [
+          "What is digital banking? Digital banking is a system where banking services are available online.",
+          "It is a secure and efficient way to manage your accounts and use your money."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के फायदे",
+        "hEn": "Benefits of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के कई फायदे हैं। इसमें सुरक्षा, कारगिरी, और समय बचाना शामिल है।",
+          "आप अपने खातों को ऑनलाइन देख सकते हैं, ट्रांजेक्शन कर सकते हैं, और अपने पैसे का उपयोग कर सकते हैं।"
+        ],
+        "pEn": [
+          "There are many benefits of digital banking. It includes security, efficiency, and time-saving.",
+          "You can view your accounts online, make transactions, and use your money."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए आवश्यक सावधानियां",
+        "hEn": "Essential Precautions for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए आपको कुछ सावधानियां बरतनी होंगी। इसमें अपने पासवर्ड को सुरक्षित रखना, अपने खातों को ऑनलाइन सुरक्षित करना, और अपने डेटा को सुरक्षित रखना शामिल है।",
+          "आपको अपने खातों को ऑनलाइन सुरक्षित करने के लिए एक मजबूत पासवर्ड का उपयोग करना चाहिए और अपने डेटा को सुरक्षित रखने के लिए एक विश्वसनीय एंटीवायरस सॉफ्टवेयर का उपयोग करना चाहिए।"
+        ],
+        "pEn": [
+          "To use digital banking, you need to take some precautions. It includes keeping your password secure, keeping your accounts online secure, and keeping your data secure.",
+          "You should use a strong password to keep your accounts online secure and a reliable antivirus software to keep your data secure."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए आवश्यक उपकरण",
+        "hEn": "Essential Tools for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए आपको कुछ आवश्यक उपकरणों की आवश्यकता होगी। इसमें एक स्मार्टफ़ोन, एक कंप्यूटर, और एक सुरक्षित इंटरनेट कनेक्शन शामिल है।",
+          "आपको एक स्मार्टफ़ोन का उपयोग करके अपने खातों को ऑनलाइन देख सकते हैं, एक कंप्यूटर का उपयोग करके अपने खातों को ऑनलाइन सुरक्षित कर सकते हैं, और एक सुरक्षित इंटरनेट कनेक्शन का उपयोग करके अपने डेटा को सुरक्षित रख सकते हैं।"
+        ],
+        "pEn": [
+          "To use digital banking, you need some essential tools. It includes a smartphone, a computer, and a secure internet connection.",
+          "You can use a smartphone to view your accounts online, a computer to keep your accounts online secure, and a secure internet connection to keep your data secure."
+        ]
+      }
+    ]
   }
 ]
