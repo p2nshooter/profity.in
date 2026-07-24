@@ -588,5 +588,57 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-privileges-for-low-income-households",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग के लाभ: कम आय वाले परिवारों के लिए",
+    "titleEn": "Digital Banking Privileges for Low-Income Households",
+    "excerptHi": "कम आय वाले परिवारों के लिए डिजिटल बैंकिंग के लाभ",
+    "excerptEn": "Benefits of Digital Banking for Low-Income Households",
+    "date": "2026-07-24",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "भारत में डिजिटल बैंकिंग का विस्तार हुआ है, और यह कम आय वाले परिवारों के लिए भी एक सुलभ विकल्प बन गया है।"
+        ],
+        "pEn": [
+          "Digital banking has expanded in India, and it has become a viable option for low-income households as well."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लाभ",
+        "hEn": "Benefits of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग से कम आय वाले परिवारों को कई लाभ मिलते हैं, जिनमें शामिल हैं: न्यूनतम शुल्क और फीस, सुविधाजनक लेन-देन, और वित्तीय समावेशन में सुधार।"
+        ],
+        "pEn": [
+          "Digital banking offers several benefits to low-income households, including: minimal fees and charges, convenient transactions, and improved financial inclusion."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए पात्रता",
+        "hEn": "Eligibility for Digital Banking",
+        "pHi": [
+          "कम आय वाले परिवारों के लिए डिजिटल बैंकिंग की पात्रता निम्नलिखित है: परिवार की वार्षिक आय 1 लाख रुपये से कम होनी चाहिए, और परिवार के सदस्यों के पास एक सक्रिय बैंक खाता होना चाहिए।"
+        ],
+        "pEn": [
+          "The eligibility criteria for low-income households to access digital banking are: the household income should be less than 1 lakh rupees per annum, and the household members should have an active bank account."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए आवेदन",
+        "hEn": "Application for Digital Banking",
+        "pHi": [
+          "कम आय वाले परिवारों को डिजिटल बैंकिंग के लिए आवेदन करने के लिए अपने बैंक के कर्मचारी से संपर्क करना होगा। आवेदन प्रक्रिया आसान और तेज है, और परिवार को जल्द ही डिजिटल बैंकिंग के लाभों का आनंद लेने में सक्षम होना चाहिए।"
+        ],
+        "pEn": [
+          "Low-income households need to contact their bank's employee to apply for digital banking. The application process is easy and quick, and the household should be able to enjoy the benefits of digital banking soon."
+        ]
+      }
+    ]
   }
 ]
