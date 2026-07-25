@@ -996,5 +996,60 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-security-tips-h9ed",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग सुरक्षा के लिए टिप्स",
+    "titleEn": "Digital Banking Security Tips",
+    "excerptHi": "डिजिटल बैंकिंग सुरक्षा के लिए टिप्स जो आपको अपने खाते को सुरक्षित रखने में मदद करेंगे।",
+    "excerptEn": "Digital banking security tips that will help you keep your account safe.",
+    "date": "2026-07-25",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "आजकल डिजिटल बैंकिंग का उपयोग करना आम बात हो गई है। लेकिन डिजिटल बैंकिंग के साथ-साथ सुरक्षा का भी ध्यान रखना आवश्यक है।"
+        ],
+        "pEn": [
+          "With digital banking becoming the norm, it's essential to pay attention to security as well."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग में सुरक्षा के लिए क्या करना चाहिए?",
+        "hEn": "What to do for digital banking security?",
+        "pHi": [
+          "डिजिटल बैंकिंग में सुरक्षा के लिए सबसे पहले आपको अपना पासवर्ड और यूजर नेम सुरक्षित रखना होगा। इसके लिए आप अपना पासवर्ड और यूजर नेम को कम से कम 8 कैरेक्टर का और मिक्स केस में रखना चाहिए। इसके अलावा आप अपने पासवर्ड को नोटबुक में न लिखें और किसी भी संदिग्ध वेबसाइट या ईमेल से अपने पासवर्ड को नहीं देंगे।",
+          "इसके अलावा आप अपने डिवाइस को सुरक्षित रखने के लिए एंटीवायरस सॉफ्टवेयर का उपयोग करें और अपने डिवाइस को नियमित रूप से अपडेट करें।"
+        ],
+        "pEn": [
+          "To ensure digital banking security, first and foremost, you need to keep your password and username safe. This can be achieved by using a minimum of 8 characters and a mix of cases. Additionally, do not write your password in a notebook and do not share it with any suspicious websites or emails."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग में सुरक्षा के लिए क्या न करें?",
+        "hEn": "What not to do for digital banking security?",
+        "pHi": [
+          "डिजिटल बैंकिंग में सुरक्षा के लिए आपको कुछ चीजें करनी नहीं चाहिए। जैसे कि आप अपना पासवर्ड और यूजर नेम किसी भी संदिग्ध वेबसाइट या ईमेल से नहीं देंगे। इसके अलावा आप अपने पासवर्ड को नोटबुक में न लिखें और किसी भी संदिग्ध वेबसाइट या ईमेल से अपने पासवर्ड को नहीं देंगे।",
+          "इसके अलावा आप अपने डिवाइस को सुरक्षित रखने के लिए एंटीवायरस सॉफ्टवेयर का उपयोग करें और अपने डिवाइस को नियमित रूप से अपडेट करें।"
+        ],
+        "pEn": [
+          "When it comes to digital banking security, there are certain things you should avoid doing. For instance, do not share your password and username with any suspicious websites or emails. Additionally, do not write your password in a notebook and do not share it with any suspicious websites or emails."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग में सुरक्षा के लिए क्या करना चाहिए?",
+        "hEn": "What to do for digital banking security?",
+        "pHi": [
+          "डिजिटल बैंकिंग में सुरक्षा के लिए सबसे पहले आपको अपना पासवर्ड और यूजर नेम सुरक्षित रखना होगा। इसके लिए आप अपना पासवर्ड और यूजर नेम को कम से कम 8 कैरेक्टर का और मिक्स केस में रखना चाहिए। इसके अलावा आप अपने पासवर्ड को नोटबुक में न लिखें और किसी भी संदिग्ध वेबसाइट या ईमेल से अपने पासवर्ड को नहीं देंगे।",
+          "इसके अलावा आप अपने डिवाइस को सुरक्षित रखने के लिए एंटीवायरस सॉफ्टवेयर का उपयोग करें और अपने डिवाइस को नियमित रूप से अपडेट करें।"
+        ],
+        "pEn": [
+          "To ensure digital banking security, first and foremost, you need to keep your password and username safe. This can be achieved by using a minimum of 8 characters and a mix of cases. Additionally, do not write your password in a notebook and do not share it with any suspicious websites or emails."
+        ]
+      }
+    ]
   }
 ]
