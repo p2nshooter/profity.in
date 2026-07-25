@@ -816,5 +816,65 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-privileges-for-low-income-households-o3o5",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग के लाभ: कम आय वाले परिवारों के लिए",
+    "titleEn": "Digital Banking Privileges for Low-Income Households",
+    "excerptHi": "कम आय वाले परिवारों के लिए डिजिटल बैंकिंग के लाभ",
+    "excerptEn": "Digital banking benefits for low-income households",
+    "date": "2026-07-25",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "भारत में डिजिटल बैंकिंग की शुरुआत एक समय के बाद आम आदमी के लिए सुविधाजनक और सुरक्षित होने के लिए हुई है।",
+          "कम आय वाले परिवारों के लिए डिजिटल बैंकिंग के कई लाभ हैं जो उन्हें अपने वित्तीय स्थिति को सुधारने में मदद करते हैं।"
+        ],
+        "pEn": [
+          "Digital banking has become a convenient and secure option for the common man in India over time.",
+          "There are several benefits of digital banking for low-income households that help them improve their financial situation."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के मुख्य लाभ",
+        "hEn": "Main Benefits of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग से कम आय वाले परिवारों को अपने खातों को आसानी से ऑनलाइन देख सकते हैं और अपने पैसे का ट्रैक रख सकते हैं।",
+          "वे अपने खातों में पैसे जमा और निकाल सकते हैं और अपने वित्तीय स्थिति को सुधारने के लिए आवश्यक निर्णय ले सकते हैं।"
+        ],
+        "pEn": [
+          "With digital banking, low-income households can easily view their accounts online and track their money.",
+          "They can deposit and withdraw money from their accounts and make informed decisions to improve their financial situation."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के सुरक्षा लाभ",
+        "hEn": "Security Benefits of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग से कम आय वाले परिवारों को अपने खातों की सुरक्षा सुनिश्चित होती है।",
+          "वे अपने खातों में पैसे जमा और निकाल सकते हैं और अपने वित्तीय स्थिति को सुधारने के लिए आवश्यक निर्णय ले सकते हैं।"
+        ],
+        "pEn": [
+          "Digital banking ensures the security of low-income households' accounts.",
+          "They can deposit and withdraw money from their accounts and make informed decisions to improve their financial situation."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए आवश्यक उपकरण",
+        "hEn": "Essential Tools for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए आवश्यक उपकरण हैं मोबाइल फोन, इंटरनेट कनेक्शन और एक सुरक्षित ऑनलाइन प्लेटफ़ॉर्म।",
+          "कम आय वाले परिवारों को इन उपकरणों को प्राप्त करने के लिए सरकार और बैंकों द्वारा कई योजनाएं चलाई जा रही हैं।"
+        ],
+        "pEn": [
+          "The essential tools for digital banking are a mobile phone, internet connection, and a secure online platform.",
+          "Government and banks have launched several schemes to help low-income households acquire these tools."
+        ]
+      }
+    ]
   }
 ]
