@@ -876,5 +876,65 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-privileges-for-low-income-households-3d3h",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग के लाभ: कम आय वाले परिवारों के लिए",
+    "titleEn": "Digital Banking Privileges for Low-Income Households",
+    "excerptHi": "कम आय वाले परिवारों को डिजिटल बैंकिंग के लाभों के बारे में जानने के लिए यह लेख उपयोगी होगा।",
+    "excerptEn": "This article will be useful for low-income households to know about the benefits of digital banking.",
+    "date": "2026-07-25",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "कम आय वाले परिवारों के लिए डिजिटल बैंकिंग एक महत्वपूर्ण विकल्प हो सकता है।",
+          "यह उन्हें अपने वित्तीय संसाधनों का प्रबंधन करने में मदद कर सकता है।"
+        ],
+        "pEn": [
+          "Digital banking can be a crucial option for low-income households.",
+          "It can help them manage their financial resources."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लाभ",
+        "hEn": "Benefits of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को कई लाभ मिल सकते हैं।",
+          "उन्हें अपने खातों को ऑनलाइन देख सकते हैं, ट्रांजैक्शन का इतिहास देख सकते हैं, और अपने खाते में पैसे जमा और निकाल सकते हैं।"
+        ],
+        "pEn": [
+          "Low-income households can benefit from digital banking in many ways.",
+          "They can view their accounts online, track their transactions, and deposit and withdraw money from their accounts."
+        ]
+      },
+      {
+        "hHi": "कम आय वाले परिवारों के लिए डिजिटल बैंकिंग के कुछ अन्य लाभ",
+        "hEn": "Other Benefits of Digital Banking for Low-Income Households",
+        "pHi": [
+          "डिजिटल बैंकिंग उन्हें अपने वित्तीय लक्ष्यों को प्राप्त करने में मदद कर सकता है।",
+          "यह उन्हें अपने वित्तीय संसाधनों का प्रबंधन करने में मदद कर सकता है।"
+        ],
+        "pEn": [
+          "Digital banking can help them achieve their financial goals.",
+          "It can help them manage their financial resources."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए आवश्यक कदम",
+        "hEn": "Steps to Digital Banking",
+        "pHi": [
+          "कम आय वाले परिवारों को डिजिटल बैंकिंग शुरू करने के लिए कुछ आवश्यक कदम उठाने होंगे।",
+          "उन्हें अपने बैंक के साथ संपर्क में आना होगा, अपने खाते को ऑनलाइन सक्षम करना होगा, और अपने पासवर्ड और यूजर नेम को सुरक्षित करना होगा।"
+        ],
+        "pEn": [
+          "Low-income households will need to take some essential steps to start digital banking.",
+          "They will need to contact their bank, enable their account online, and secure their password and user name."
+        ]
+      }
+    ]
   }
 ]
