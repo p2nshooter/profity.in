@@ -1292,5 +1292,65 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-privileges-for-low-income-households-7k2z",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग: कम आय वाले परिवारों के लिए लाभ",
+    "titleEn": "Digital Banking: Benefits for Low-Income Households",
+    "excerptHi": "डिजिटल बैंकिंग कम आय वाले परिवारों के लिए एक महत्वपूर्ण साधन है",
+    "excerptEn": "Digital banking is a crucial tool for low-income households",
+    "date": "2026-07-26",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "डिजिटल बैंकिंग क्या है और कैसे यह कम आय वाले परिवारों के लिए लाभदायक हो सकता है?",
+          "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय सेवाएं प्राप्त करने में मदद मिलती है"
+        ],
+        "pEn": [
+          "What is digital banking and how can it be beneficial for low-income households?",
+          "Digital banking helps low-income households access financial services"
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय सेवाएं प्राप्त करने में मदद मिलती है",
+        "hEn": "Digital banking facilitates access to financial services for low-income households",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय सेवाएं प्राप्त करने में मदद मिलती है, जैसे कि बैंक खाते, क्रेडिट कार्ड, और लोन",
+          "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय सेवाओं का चयन करने और उनका उपयोग करने में मदद मिलती है"
+        ],
+        "pEn": [
+          "Digital banking facilitates access to financial services such as bank accounts, credit cards, and loans for low-income households",
+          "Digital banking helps low-income households choose and use financial services"
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय सुरक्षा प्रदान करने में मदद मिलती है",
+        "hEn": "Digital banking provides financial security to low-income households",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय सुरक्षा प्रदान करने में मदद मिलती है, जैसे कि बीमा और निवेश",
+          "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय सुरक्षा के बारे में जागरूकता प्रदान करने में मदद मिलती है"
+        ],
+        "pEn": [
+          "Digital banking provides financial security to low-income households through insurance and investment",
+          "Digital banking helps low-income households become aware of financial security"
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय शिक्षा प्रदान करने में मदद मिलती है",
+        "hEn": "Digital banking provides financial education to low-income households",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय शिक्षा प्रदान करने में मदद मिलती है, जैसे कि वित्तीय प्रबंधन और निवेश",
+          "डिजिटल बैंकिंग के माध्यम से कम आय वाले परिवारों को वित्तीय शिक्षा के बारे में जागरूकता प्रदान करने में मदद मिलती है"
+        ],
+        "pEn": [
+          "Digital banking provides financial education to low-income households through financial management and investment",
+          "Digital banking helps low-income households become aware of financial education"
+        ]
+      }
+    ]
   }
 ]
