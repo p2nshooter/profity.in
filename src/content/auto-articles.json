@@ -1524,5 +1524,65 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-privileges-for-low-income-households-yui9",
+    "category": "digital",
+    "titleHi": "लो-आय घरेलू लोगों के लिए डिजिटल बैंकिंग के लाभ",
+    "titleEn": "Digital Banking Privileges for Low-Income Households",
+    "excerptHi": "डिजिटल बैंकिंग के माध्यम से लो-आय घरेलू लोगों को कई लाभ प्राप्त होते हैं",
+    "excerptEn": "Low-income households can benefit from various privileges through digital banking",
+    "date": "2026-07-27",
+    "minutes": 6,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "भारत में डिजिटल बैंकिंग की शुरुआत कई वर्षों पहले हुई थी, लेकिन यह केवल उच्च आय समूहों तक ही सीमित थी।",
+          "हालांकि, सरकार ने डिजिटल बैंकिंग को बढ़ावा देने के लिए कई कदम उठाए हैं, जिससे लो-आय घरेलू लोगों को भी इसका लाभ मिल सके।"
+        ],
+        "pEn": [
+          "Digital banking has been in existence in India for several years, but it was initially limited to the high-income groups.",
+          "However, the government has taken several steps to promote digital banking, making it accessible to low-income households as well."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से लो-आय घरेलू लोगों को क्या लाभ मिलते हैं?",
+        "hEn": "What privileges do low-income households get through digital banking?",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से लो-आय घरेलू लोगों को कई लाभ प्राप्त होते हैं, जिनमें से कुछ प्रमुख लाभ हैं:",
+          "1. नि:शुल्क बैंकिंग सेवाएं: डिजिटल बैंकिंग के माध्यम से लो-आय घरेलू लोगों को नि:शुल्क बैंकिंग सेवाएं प्राप्त होती हैं, जिनमें से कुछ प्रमुख सेवाएं हैं:"
+        ],
+        "pEn": [
+          "Low-income households can benefit from various privileges through digital banking, some of which are:",
+          "1. Free banking services: Digital banking provides low-income households with free banking services, including:"
+        ]
+      },
+      {
+        "hHi": "नि:शुल्क बैंकिंग सेवाएं",
+        "hEn": "Free Banking Services",
+        "pHi": [
+          "नि:शुल्क बैंकिंग सेवाएं लो-आय घरेलू लोगों के लिए एक महत्वपूर्ण लाभ है, जिससे वे अपने वित्तीय कार्यों को सुगम बना सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से लो-आय घरेलू लोगों को नि:शुल्क बैंकिंग सेवाएं प्राप्त होती हैं, जिनमें से कुछ प्रमुख सेवाएं हैं:"
+        ],
+        "pEn": [
+          "Free banking services are a significant privilege for low-income households, enabling them to manage their financial activities with ease.",
+          "Through digital banking, low-income households can access free banking services, including:"
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के अन्य लाभ",
+        "hEn": "Other Benefits of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से लो-आय घरेलू लोगों को कई अन्य लाभ भी प्राप्त होते हैं, जिनमें से कुछ प्रमुख लाभ हैं:",
+          "2. ऑनलाइन बैंकिंग: डिजिटल बैंकिंग के माध्यम से लो-आय घरेलू लोगों को ऑनलाइन बैंकिंग की सुविधा प्राप्त होती है, जिससे वे अपने वित्तीय कार्यों को घर से ही संभाल सकते हैं।"
+        ],
+        "pEn": [
+          "Low-income households can benefit from various other privileges through digital banking, including:",
+          "2. Online banking: Digital banking enables low-income households to access online banking facilities, allowing them to manage their financial activities from the comfort of their homes."
+        ]
+      }
+    ]
   }
 ]
