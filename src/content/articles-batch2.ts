@@ -221,7 +221,7 @@ export const ARTICLES_BATCH2: Article[] = [
     ],
   },
   {
-    slug: 'upi-fraud-se-bachav',
+    slug: 'five-modern-upi-scams-three-questions',
     category: 'digital',
     titleHi: 'UPI ठगी के पाँच नए तरीक़े — और तीन सवाल जो हर ठग को हरा देते हैं',
     titleEn: 'Five Modern UPI Scams — and the Three Questions That Defeat Every Fraudster',
