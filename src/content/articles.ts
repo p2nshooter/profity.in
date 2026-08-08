@@ -1,6 +1,7 @@
 import { ARTICLES_BATCH2 } from './articles-batch2';
 import { ARTICLES_BATCH3 } from './articles-batch3';
 import AUTO_ARTICLES from "./auto-articles.json";
+import { applyExpansions } from './expansions';
 /**
  * Profity.in — original bilingual personal-finance library for India.
  * Hindi (Devanagari) is the native language of the site; every article also
@@ -840,3 +841,7 @@ ARTICLES.push(...ARTICLES_BATCH3);
 
 // Autonomous content bot output (committed by the ulyah.com Orchestra).
 ARTICLES.push(...(AUTO_ARTICLES as unknown as Article[]));
+
+// Hand-written additive expansions. Sections are only ever appended; no
+// existing article is edited, replaced or merged.
+applyExpansions(ARTICLES);

@@ -5,3 +5,7 @@ node_modules/
 *.tsbuildinfo
 .env*
 .DS_Store
+
+# Throwaway word-count helpers (not part of the site build).
+check.ts
+outline.ts
