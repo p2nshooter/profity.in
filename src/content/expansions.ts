@@ -988,6 +988,546 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+
+  // ---------------------------------------------------------------------
+  // Batch three.
+  // ---------------------------------------------------------------------
+
+  {
+    slug: 'emergency-fund-kaise-banaye',
+    sections: [
+      {
+        hHi: 'जब बचाने को कुछ बचता ही नहीं',
+        hEn: 'When there is nothing left over to save',
+        pHi: [
+          'सबसे ईमानदार आपत्ति यही है, और अधिकांश लेख इसे टाल जाते हैं। यदि महीने के अंत में कुछ बचता ही नहीं, तो कोष कैसे बने?',
+          'पहला उत्तर क्रम बदलने का है। जो लोग "बचने के बाद बचाते हैं" वे कभी नहीं बचा पाते, क्योंकि ख़र्च हमेशा उपलब्ध राशि तक फैल जाता है। जो लोग वेतन आते ही एक छोटी राशि हटा देते हैं, वे बाक़ी में गुज़ारा कर लेते हैं — यही एकमात्र अंतर है।',
+          'दूसरा उत्तर राशि छोटी करने का है। पाँच सौ रुपये महीने भी काम करते हैं। यह सुनने में बेकार लगता है, पर उद्देश्य पहले साल में कोष पूरा करना नहीं, यह साबित करना है कि यह संभव है।',
+          'तीसरा उत्तर सबसे कठिन है: एक श्रेणी चुनकर उसे तीन महीने के लिए घटाना। कोई एक — बाहर का खाना, कोई सदस्यता, कोई आदत। तीन महीने बाद वह राशि अपने आप उपलब्ध लगने लगती है, और तब उसे स्थायी कर दीजिए।',
+        ],
+        pEn: [
+          'This is the most honest objection to the whole idea, and most articles skirt around it. If nothing is left at the end of the month, how is a fund supposed to appear?',
+          'The first answer is to reverse the order. People who save what is left never manage to save, because spending expands to fill whatever is available. People who move a small amount out the moment salary arrives manage on the rest — that is the entire difference.',
+          'The second answer is to make the amount small. Five hundred rupees a month works. It sounds pointless, but the purpose in the first year is not to complete the fund; it is to prove to yourself that this is possible at all.',
+          'The third answer is the hardest: pick one category and cut it for three months. Just one — eating out, a subscription, a habit. After three months that amount starts to feel available on its own, and at that point make it permanent.',
+        ],
+      },
+      {
+        hHi: 'अनपेक्षित पैसे का सही उपयोग',
+        hEn: 'What to do with money you did not expect',
+        pHi: [
+          'कोष बनाने का सबसे तेज़ रास्ता मासिक बचत नहीं, बल्कि वह पैसा है जो अनपेक्षित रूप से आता है — बोनस, कर वापसी, कोई पुराना बकाया, कोई उपहार।',
+          'ऐसा पैसा एक ख़ास मनोवैज्ञानिक श्रेणी में आता है। चूँकि वह बजट में था ही नहीं, इसलिए उसे ख़र्च करने पर कोई कमी महसूस नहीं होती — और इसी कारण वह लगभग हमेशा ख़र्च हो जाता है।',
+          'एक सरल नियम इसे बदल देता है: कोई भी अनपेक्षित राशि आते ही उसका आधा सीधे कोष में। आधा इसलिए, क्योंकि पूरा रखने का नियम कोई निभा नहीं पाता, और आधा निभाया जा सकता है।',
+          'इस एक नियम से कोष का वह हिस्सा बनता है जो मासिक बचत से बनने में वर्षों लेता। और इसका सबसे अच्छा पक्ष यह है कि इसमें जीवन-स्तर में कोई कटौती नहीं करनी पड़ती — बचा हुआ आधा अब भी आपका है।',
+        ],
+        pEn: [
+          'The fastest route to building the fund is not monthly saving but money that arrives unexpectedly — a bonus, a tax refund, an old due finally paid, a gift.',
+          'Money like this falls into a particular psychological category. Because it was never in the budget, spending it produces no feeling of loss — and that is precisely why it almost always gets spent.',
+          'One simple rule changes this: half of any unexpected amount goes straight into the fund the day it arrives. Half rather than all, because nobody keeps a rule that demands all of it, and a rule about half can actually be kept.',
+          'That single rule builds the portion of the fund that monthly saving would take years to reach. And the best part is that it requires no cut in your standard of living at all — the other half is still yours.',
+        ],
+      },
+      {
+        hHi: 'कोष को दो हिस्सों में बाँटना',
+        hEn: 'Splitting the fund into two parts',
+        pHi: [
+          'एक व्यावहारिक ढाँचा जो कम चर्चा में आता है वह यह है कि पूरा कोष एक ही जगह न रखा जाए, बल्कि दो परतों में बाँटा जाए।',
+          'पहली परत तत्काल पहुँच की है — लगभग एक महीने का ख़र्च, बचत खाते में, जिसे किसी भी क्षण निकाला जा सके। यह वह हिस्सा है जो आधी रात को काम आता है।',
+          'दूसरी परत बाक़ी राशि है, जो ऐसी जगह रखी जा सकती है जहाँ से एक-दो दिन में पैसा आ जाए और जो थोड़ा बेहतर ब्याज दे। यह हिस्सा तत्काल नहीं चाहिए, क्योंकि पहली परत उतना समय ख़रीद देती है।',
+          'इस बँटवारे के दो लाभ हैं। पहला, पूरे कोष पर बचत खाते जैसा कम ब्याज नहीं मिलता। दूसरा, और शायद अधिक महत्वपूर्ण, दूसरी परत तक पहुँचने में जो एक-दो दिन लगते हैं वे एक स्वाभाविक बाधा बन जाते हैं — और वह बाधा उसे अनावश्यक ख़र्च से बचा लेती है।',
+        ],
+        pEn: [
+          'A practical structure that gets little discussion is not keeping the whole fund in one place but splitting it into two layers.',
+          'The first layer is immediate access — roughly one month of expenses, in a savings account, reachable at any moment. This is the part that matters at midnight.',
+          'The second layer is the remainder, which can sit somewhere that takes a day or two to reach and pays slightly better interest. This part does not need to be instant, because the first layer has already bought that much time.',
+          'The split has two benefits. The first is that the whole fund is not earning savings-account interest. The second, and perhaps more important, is that the day or two needed to reach the second layer becomes a natural friction — and that friction protects it from unnecessary spending.',
+        ],
+      },
+      {
+        hHi: 'यदि क़र्ज़ भी है तो पहले क्या',
+        hEn: 'If there is debt as well, what comes first',
+        pHi: [
+          'यह सबसे आम असली दुविधा है: कोष बनाना है या पहले क़र्ज़ चुकाना है? दोनों तर्क सही लगते हैं और दोनों को एक साथ करना संभव नहीं लगता।',
+          'व्यावहारिक उत्तर बीच का है। पहले एक छोटा कोष बनाइए — एक महीने के ख़र्च जितना, पूरा छह महीने नहीं। फिर पूरी शक्ति ऊँचे ब्याज वाले क़र्ज़ पर लगाइए। क़र्ज़ ख़त्म होने के बाद कोष को उसके पूरे आकार तक ले जाइए।',
+          'इस क्रम का कारण गणित नहीं, व्यवहार है। यदि कोष बिल्कुल न हो और कोई छोटी आपात स्थिति आए, तो आप फिर से क़र्ज़ लेंगे — और तब चुकाने की सारी मेहनत बेकार हो जाएगी। एक महीने का कोष उसी चक्र को तोड़ता है।',
+          'यहाँ "ऊँचे ब्याज" का अर्थ स्पष्ट होना चाहिए: क्रेडिट कार्ड का बकाया और व्यक्तिगत ऋण इस श्रेणी में आते हैं। गृह ऋण जैसे कम ब्याज वाले दीर्घकालिक ऋण के लिए यह तर्क उतना मज़बूत नहीं है, और वहाँ कोष बनाना साथ-साथ चल सकता है।',
+        ],
+        pEn: [
+          'This is the most common real dilemma: build the fund or clear the debt first? Both arguments sound correct and doing both at once feels impossible.',
+          'The practical answer sits in the middle. Build a small fund first — about one month of expenses, not the full six. Then put everything into the high-interest debt. Once that is cleared, take the fund up to its full size.',
+          'The reason for this order is behavioural rather than mathematical. With no fund at all, a small emergency means borrowing again — and then all the repayment effort is undone. A one-month fund is what breaks that cycle.',
+          'What "high interest" means should be stated plainly here: credit card balances and personal loans belong in that category. For low-rate long-term borrowing such as a home loan the argument is much weaker, and there the fund can be built alongside.',
+        ],
+      },
+      {
+        hHi: 'क्रेडिट कार्ड आपातकालीन कोष नहीं है',
+        hEn: 'A credit card is not an emergency fund',
+        pHi: [
+          'यह तर्क बार-बार सुनाई देता है: "मेरे पास कार्ड की सीमा है, वही मेरा कोष है।" यह तर्क तीन जगह टूटता है, और तीनों ठीक उसी समय टूटते हैं जब ज़रूरत होती है।',
+          'पहला, कार्ड पैसा नहीं देता, उधार देता है। आपात के बाद आपके सामने वही समस्या रहती है और उसके ऊपर ब्याज भी जुड़ जाता है — और वह ब्याज दर सबसे ऊँची होती है जो आमतौर पर मिलती है।',
+          'दूसरा, कई आपात स्थितियों में कार्ड चलता ही नहीं। नक़द की ज़रूरत, किसी छोटे शहर का अस्पताल, कोई ऐसा भुगतान जो कार्ड स्वीकार न करे — ये सब सामान्य स्थितियाँ हैं।',
+          'तीसरा और सबसे गंभीर: जिस आपात में आय रुकती है, उसी में कार्ड चुकाने की क्षमता भी रुकती है। नौकरी जाने पर कार्ड का बकाया समस्या का समाधान नहीं, समस्या का दूसरा हिस्सा बन जाता है।',
+          'कार्ड की सीमा को कोष का पूरक मानिए — पहले दिन का पुल, जब तक कोष तक पहुँचा न जाए। उसे कोष का विकल्प मानना ही वह ग़लती है जो सबसे महँगी पड़ती है।',
+        ],
+        pEn: [
+          'This argument comes up constantly: "I have a card limit, that is my emergency fund." It breaks in three places, and all three break at exactly the moment the money is needed.',
+          'First, a card does not give you money; it lends it. After the emergency the same problem remains with interest added on top — and that interest rate is the highest ordinarily available anywhere.',
+          'Second, in many emergencies a card simply does not work. A need for cash, a hospital in a smaller town, a payment that does not accept cards — all of these are ordinary situations rather than unusual ones.',
+          'Third and most serious: the emergency in which income stops is the same one in which the ability to repay the card stops. When a job goes, a card balance is not a solution to the problem but a second part of it.',
+          'Treat a card limit as a supplement to the fund — a bridge for the first day, until the fund can be reached. Treating it as a replacement is the mistake that costs the most.',
+        ],
+      },
+      {
+        hHi: 'रास्ते के पड़ाव और यथार्थवादी समय',
+        hEn: 'Milestones along the way, and a realistic timeline',
+        pHi: [
+          'छह महीने का लक्ष्य दूर से देखने पर हतोत्साहित करने वाला लगता है, और यही कारण है कि बहुत से लोग शुरू ही नहीं करते। इसे छोटे पड़ावों में बाँट देने से यह पूरी तरह अलग काम लगने लगता है।',
+          'पहला पड़ाव: दस हज़ार रुपये। यह किसी भी बड़े ख़र्च के लिए पर्याप्त नहीं है, पर यह अधिकांश छोटी परेशानियों को सँभाल लेता है और सबसे महत्वपूर्ण बात — यह साबित कर देता है कि व्यवस्था चल रही है।',
+          'दूसरा पड़ाव: एक महीने का ख़र्च। यहाँ पहुँचने पर मन का बोझ स्पष्ट रूप से हल्का होता है, और अधिकांश लोग यही बताते हैं कि असली बदलाव इसी बिंदु पर महसूस हुआ।',
+          'तीसरा पड़ाव: तीन महीने। चौथा: आपकी अपनी गणना से निकली पूरी संख्या। हर पड़ाव पर रुककर उसे दर्ज कीजिए — प्रगति दिखना ही वह चीज़ है जो अगले पड़ाव तक ले जाती है।',
+          'और समय के बारे में ईमानदारी: सामान्य आय पर पूरा कोष बनने में दो से तीन साल लग सकते हैं। यह लंबा लगता है, और फिर भी वह अवधि किसी भी हाल में बीतेगी — सवाल केवल यह है कि उसके अंत में कोष होगा या नहीं।',
+        ],
+        pEn: [
+          'A six-month target looks discouraging from a distance, and that is exactly why many people never start. Broken into smaller milestones it becomes an entirely different task.',
+          'First milestone: ten thousand rupees. It is not enough for any large expense, but it handles most small trouble, and more importantly it proves that the system is running.',
+          'Second milestone: one month of expenses. Reaching this point lightens the mental load noticeably, and most people report that the real change in how they felt happened here.',
+          'Third milestone: three months. Fourth: the full number your own calculation produced. Stop and record each one — seeing progress is the thing that carries you to the next stage.',
+          'And an honest word about time: on an ordinary income the full fund can take two to three years. That sounds long, and those years will pass regardless — the only question is whether there is a fund at the end of them.',
+        ],
+      },
+    ],
+  },
+
+  {
+    slug: 'gold-investment-options-india',
+    sections: [
+      {
+        hHi: 'गहनों की छिपी हुई लागत',
+        hEn: 'The hidden costs inside jewellery',
+        pHi: [
+          'भारत में सोना ख़रीदने का सबसे आम रूप गहने हैं, और यही वह रूप है जिसमें निवेश के लिहाज़ से सबसे अधिक रिसाव होता है। यह बात गहनों के विरुद्ध नहीं है — यह केवल यह स्पष्ट करने के लिए है कि उन्हें निवेश मानने पर हिसाब कहाँ बिगड़ता है।',
+          'पहली लागत मज़दूरी है। डिज़ाइन के अनुसार यह सोने की क़ीमत का एक ठीक-ठाक हिस्सा हो सकती है, और बेचते समय यह पूरी तरह चली जाती है — ख़रीदार केवल धातु का दाम देता है।',
+          'दूसरी लागत शुद्धता की है। गहनों में शुद्ध सोना नहीं होता, क्योंकि उसे मज़बूत बनाने के लिए मिश्रण ज़रूरी है। बाईस कैरेट का अर्थ है कि वज़न का एक हिस्सा सोना नहीं है, और बेचते समय यही हिस्सा घटाया जाता है।',
+          'तीसरी लागत बेचते समय की कटौती है, जो दुकान से दुकान अलग होती है। इन तीनों को जोड़ने पर जो अंतर बनता है, वह वर्षों की क़ीमत-वृद्धि खा सकता है।',
+          'इसलिए एक साफ़ रेखा खींच लेना उपयोगी है: गहने पहनने और परंपरा के लिए ख़रीदिए, और निवेश के लिए अलग रूप चुनिए। दोनों उद्देश्य एक ही ख़रीद से पूरे करने की कोशिश ही वह जगह है जहाँ नुक़सान होता है।',
+        ],
+        pEn: [
+          'The most common form in which gold is bought in India is jewellery, and it is also the form that leaks the most when treated as an investment. This is not an argument against jewellery — it is only about where the arithmetic breaks if it is counted as investing.',
+          'The first cost is making charges. Depending on the design these can be a substantial share of the gold price, and they disappear completely at the time of sale — a buyer pays for the metal only.',
+          'The second cost is purity. Jewellery is not pure gold, because an alloy is needed for strength. Twenty-two carat means part of the weight is not gold, and that part is deducted when selling.',
+          'The third is the deduction applied at the point of sale, which varies from shop to shop. Added together, the resulting gap can consume years of price appreciation.',
+          'So drawing a clear line helps: buy jewellery for wearing and for tradition, and choose a different form for investing. Trying to serve both purposes with one purchase is exactly where the loss occurs.',
+        ],
+      },
+      {
+        hHi: 'डिजिटल सोना, ETF और फंड — अंतर क्या है',
+        hEn: 'Digital gold, ETFs and funds — what the differences are',
+        pHi: [
+          'सोने में निवेश के काग़ज़ी और डिजिटल रूपों को अक्सर एक साथ रख दिया जाता है, जबकि उनकी बनावट अलग है और यह अंतर मायने रखता है।',
+          'गोल्ड ETF शेयर बाज़ार में सूचीबद्ध होता है और उसे ख़रीदने के लिए डीमैट खाता चाहिए। उसकी क़ीमत बाज़ार में तय होती है और उसमें एक प्रबंधन ख़र्च लगता है, जो आमतौर पर छोटा होता है।',
+          'गोल्ड म्यूचुअल फंड इन्हीं ETF में निवेश करता है, इसलिए इसमें डीमैट खाते की ज़रूरत नहीं और SIP भी संभव है। बदले में इसमें एक अतिरिक्त परत का ख़र्च जुड़ जाता है।',
+          '"डिजिटल गोल्ड" नाम से बिकने वाले उत्पाद इन दोनों से अलग हैं। वे किसी विनिमय पर सूचीबद्ध नहीं होते और उनका नियमन ढाँचा भी वही नहीं है, इसलिए ख़रीदने से पहले यह देखना ज़रूरी है कि पीछे कौन है और शर्तें क्या हैं।',
+          'यह लेख इनमें से किसी की सिफ़ारिश नहीं करता। यहाँ केवल यह कहा जा रहा है कि "सोना ख़रीदना" एक काम नहीं बल्कि कई अलग-अलग काम हैं, और उनकी लागत, तरलता और नियमन अलग-अलग हैं।',
+        ],
+        pEn: [
+          'The paper and digital forms of gold investment often get lumped together, even though their structures differ and the differences matter.',
+          'A gold ETF is listed on the stock exchange and needs a demat account to buy. Its price is set in the market and it carries a management cost, which is usually small.',
+          'A gold mutual fund invests in those same ETFs, so no demat account is needed and a SIP is possible. In exchange it carries the cost of an additional layer.',
+          'Products sold under the name "digital gold" are different from both. They are not listed on an exchange and the regulatory framework around them is not the same, so it is worth checking who stands behind the product and what the terms are before buying.',
+          'This article recommends none of them. The point being made is only that "buying gold" is not one activity but several different ones, with different costs, different liquidity and different regulation.',
+        ],
+      },
+      {
+        hHi: 'पोर्टफ़ोलियो में सोने की भूमिका',
+        hEn: 'The role gold plays in a portfolio',
+        pHi: [
+          'सोने के बारे में सबसे उपयोगी बात यह समझना है कि वह किस काम के लिए रखा जाता है, क्योंकि उससे यह अपने आप तय हो जाता है कि कितना रखा जाए।',
+          'सोना आय नहीं देता। न ब्याज, न लाभांश, न किराया। इसका पूरा प्रतिफल क़ीमत बदलने से आता है, और इसी कारण उसे किसी पोर्टफ़ोलियो का मुख्य इंजन नहीं बनाया जाता।',
+          'जो काम वह करता है वह अलग है: वह प्रायः तब मज़बूत होता है जब बाक़ी चीज़ें कमज़ोर होती हैं — मुद्रा पर दबाव, अनिश्चितता, या भरोसे का संकट। इसी गुण के कारण उसे संतुलन के लिए रखा जाता है, वृद्धि के लिए नहीं।',
+          'इसका व्यावहारिक अर्थ यह है कि सोने का हिस्सा सीमित रहना चाहिए। कितना — यह उम्र, लक्ष्य और बाक़ी पोर्टफ़ोलियो पर निर्भर करता है, और इस लेख में कोई प्रतिशत सुझाया नहीं जा रहा।',
+          'एक बात ज़रूर कही जा सकती है: सोना इसलिए ख़रीदना कि उसकी क़ीमत हाल में तेज़ी से बढ़ी है, वही ग़लती है जो किसी भी परिसंपत्ति के साथ की जाती है, और वह किसी एक धातु से बँधी हुई नहीं है।',
+        ],
+        pEn: [
+          'The most useful thing to understand about gold is what it is held for, because that settles by itself the question of how much to hold.',
+          'Gold produces no income. No interest, no dividend, no rent. Its entire return comes from price movement, and that is why it is not made the main engine of a portfolio.',
+          'What it does do is different: it tends to be strong when other things are weak — pressure on a currency, uncertainty, a crisis of confidence. That property is why it is held for balance rather than for growth.',
+          'The practical consequence is that the gold share should stay limited. How much depends on age, goals and the rest of the portfolio, and no percentage is being suggested here.',
+          'One thing can be said with confidence: buying gold because its price has risen sharply recently is the same mistake made with every asset, and it is not particular to this one metal.',
+        ],
+      },
+      {
+        hHi: 'भंडारण और शुद्धता की व्यावहारिक बातें',
+        hEn: 'Practical matters of storage and purity',
+        pHi: [
+          'यदि आप भौतिक सोना रखते हैं, तो दो व्यावहारिक प्रश्न बचते हैं जिनका उत्तर ख़रीद के दिन ही तय हो जाना चाहिए।',
+          'पहला शुद्धता का है। हॉलमार्क का उद्देश्य ठीक यही है — यह स्वतंत्र प्रमाण है कि धातु वह है जो बताई गई है। बिना हॉलमार्क के ख़रीदा गया सोना बेचते समय अतिरिक्त जाँच और अतिरिक्त कटौती दोनों माँगता है।',
+          'दूसरा भंडारण का है। घर में रखे सोने का जोखिम स्पष्ट है, और बैंक लॉकर की अपनी लागत और अपनी सीमाएँ हैं। यह भी ध्यान रखिए कि लॉकर में रखी वस्तुओं पर बैंक की ज़िम्मेदारी सीमित होती है, और यह विवरण अनुबंध में लिखा होता है।',
+          'तीसरा, और सबसे अधिक भुला दिया जाने वाला: रसीदें। बेचते समय और कर के समय ख़रीद का प्रमाण माँगा जाता है, और वर्षों बाद वह रसीद खोजना लगभग असंभव होता है यदि उसे शुरू में ही सँभालकर न रखा गया हो।',
+        ],
+        pEn: [
+          'If you hold physical gold, two practical questions remain and both should be settled on the day of purchase rather than later.',
+          'The first is purity. That is precisely what hallmarking exists for — independent evidence that the metal is what it is said to be. Gold bought without it demands both extra testing and an extra deduction at the time of sale.',
+          'The second is storage. The risk of keeping gold at home is obvious, and a bank locker carries its own cost and its own limits. It is also worth knowing that a bank\'s liability for the contents of a locker is limited, and that detail is written into the agreement.',
+          'The third, and the most consistently forgotten: receipts. Proof of purchase is asked for when selling and at tax time, and finding a receipt years later is very nearly impossible if it was not filed carefully at the start.',
+        ],
+      },
+      {
+        hHi: 'सोना और परिवार: एक संवेदनशील पहलू',
+        hEn: 'Gold and the family: a sensitive dimension',
+        pHi: [
+          'भारत में सोने की चर्चा पूरी तरह वित्तीय नहीं हो सकती, क्योंकि उसका एक बड़ा हिस्सा परिवार, परंपरा और सुरक्षा की भावना से जुड़ा है।',
+          'यह जुड़ाव अवैज्ञानिक नहीं है। पीढ़ियों तक सोना ही वह संपत्ति थी जो किसी महिला के अपने नाम रहती थी, जिसे कहीं भी बेचा जा सकता था, और जिसके लिए किसी दस्तावेज़ की ज़रूरत नहीं थी। यह इतिहास आज भी व्यवहार को आकार देता है।',
+          'इसलिए किसी परिवार से यह कहना कि "गहनों में निवेश ग़लत है" न तो उपयोगी है और न ही पूरी तरह सही। अधिक उपयोगी बात यह है कि दोनों उद्देश्य अलग-अलग गिने जाएँ।',
+          'व्यावहारिक सुझाव यह है: घर में जो सोना परंपरा और उपयोग के लिए है, उसे संपत्ति की सूची में उसकी वर्तमान बिक्री-योग्य क़ीमत पर गिनिए, ख़रीद क़ीमत पर नहीं। और भविष्य के लिए जो सोना निवेश के रूप में रखना हो, उसके लिए कोई और रूप चुनिए।',
+        ],
+        pEn: [
+          'A discussion of gold in India cannot be purely financial, because a large part of it is tied to family, tradition and a sense of security.',
+          'That attachment is not irrational. For generations gold was the one asset that stayed in a woman\'s own name, could be sold anywhere, and required no documentation. That history still shapes behaviour today.',
+          'So telling a family that "investing in jewellery is wrong" is neither useful nor entirely correct. What is more useful is counting the two purposes separately.',
+          'The practical suggestion: count the gold at home that exists for tradition and use at its current realisable value in your asset list, not at what was paid for it. And for gold held as an investment going forward, choose a different form.',
+        ],
+      },
+      {
+        hHi: 'ख़रीदने का समय: वह प्रश्न जिसका उत्तर नहीं है',
+        hEn: 'Timing the purchase: the question with no answer',
+        pHi: [
+          'सबसे अधिक पूछा जाने वाला प्रश्न यही है — अभी ख़रीदें या रुकें? और सबसे ईमानदार उत्तर यह है कि यह किसी को नहीं पता।',
+          'सोने की क़ीमत कई चीज़ों से चलती है जिनका पूर्वानुमान लगाना कठिन है: अंतरराष्ट्रीय दरें, रुपये की चाल, आयात शुल्क, और वैश्विक अनिश्चितता। इनमें से कोई भी भरोसेमंद रूप से पहले से नहीं जाना जा सकता।',
+          'इसलिए जो तरीक़ा बचता है वह वही है जो हर अनिश्चित परिसंपत्ति के लिए काम करता है: एक बार में बड़ी राशि लगाने के बजाय समय पर फैलाकर ख़रीदना। इससे किसी एक दिन की क़ीमत का महत्व अपने आप घट जाता है।',
+          'और एक चेतावनी जो हर साल दोहराने लायक़ है: त्योहारों के आसपास मिलने वाली "योजनाएँ" ध्यान से पढ़िए। कुछ में मासिक जमा के बाद एक अतिरिक्त किश्त मिलती है, पर शर्तें, निकासी के नियम और लागू होने वाली धातु-दर हर योजना में अलग होती है।',
+        ],
+        pEn: [
+          'The most frequently asked question is exactly this — buy now or wait? And the most honest answer is that nobody knows.',
+          'The gold price moves on several things that are hard to forecast: international rates, the rupee, import duties, and global uncertainty. None of these can be known reliably in advance by anybody.',
+          'So the approach that remains is the one that works for every uncertain asset: spreading purchases over time rather than committing a large amount at once. That reduces the importance of any single day\'s price on its own.',
+          'And one warning worth repeating every year: read the "schemes" offered around festivals carefully. Some add an extra instalment after a run of monthly deposits, but the conditions, the withdrawal rules and the metal rate applied differ from scheme to scheme.',
+        ],
+      },
+    ],
+  },
+
+  {
+    slug: 'five-modern-upi-scams-three-questions',
+    sections: [
+      {
+        hHi: 'पहला प्रश्न: संपर्क किसने शुरू किया',
+        hEn: 'The first question: who started the contact',
+        pHi: [
+          'तीन प्रश्नों में से यह सबसे शक्तिशाली है और सबसे कम इस्तेमाल किया जाता है, क्योंकि उत्तर इतना सरल होता है कि लोग उसे महत्वपूर्ण नहीं मानते।',
+          'यदि कॉल, संदेश या लिंक उनकी ओर से आया है, तो पूरी बातचीत संदेह से शुरू होनी चाहिए — चाहे वे कुछ भी कहें। और यदि आपने ख़ुद किसी आधिकारिक नंबर पर कॉल किया है, तो जोखिम बहुत कम है।',
+          'यह भेद इतना उपयोगी है कि उसे एक नियम बनाया जा सकता है: कभी भी उस नंबर पर वापस बात मत कीजिए जो उन्होंने दिया। यदि कोई बैंक होने का दावा करता है, तो कॉल काटिए और कार्ड के पीछे लिखे नंबर पर ख़ुद कॉल कीजिए।',
+          'यही एक आदत उन ठगी को रोक देती है जो सबसे अधिक विश्वसनीय लगती हैं, क्योंकि उन सबकी एक ही ज़रूरत है — कि आप उनके चुने हुए रास्ते पर बने रहें।',
+        ],
+        pEn: [
+          'Of the three questions this is the most powerful and the least used, because the answer is so simple that people do not treat it as significant.',
+          'If the call, message or link came from their side, the entire conversation should begin in suspicion — whatever they say. And if you dialled an official number yourself, the risk is very much lower.',
+          'The distinction is useful enough to turn into a rule: never call back on the number they gave you. If somebody claims to be from a bank, end the call and dial the number printed on the back of your card instead.',
+          'That single habit stops the frauds that feel most convincing, because all of them need the same thing — for you to stay on the channel they chose.',
+        ],
+      },
+      {
+        hHi: 'दूसरा प्रश्न: वास्तव में माँगा क्या जा रहा है',
+        hEn: 'The second question: what is actually being asked for',
+        pHi: [
+          'ठगी की भाषा हमेशा घुमावदार होती है, इसलिए यह प्रश्न पूछना कि "इस बातचीत के अंत में मुझसे क्या करवाया जा रहा है" चीज़ों को तुरंत साफ़ कर देता है।',
+          'उत्तर लगभग हमेशा चार में से एक होता है: कोई ऐप इंस्टॉल करवाना, कोई कोड बताना, कोई लिंक खुलवाना, या कोई भुगतान करवाना। यदि बातचीत इन चारों में से किसी की ओर जा रही है, तो वह ठगी हो सकती है — चाहे कहानी कितनी भी विश्वसनीय हो।',
+          'एक ख़ास बात ध्यान देने लायक़ है: असली संस्थाएँ जानकारी देती हैं, कार्रवाई नहीं करवातीं। बैंक आपको बताएगा कि आपके खाते में क्या हुआ; वह आपसे फ़ोन पर कुछ करवाने की कोशिश नहीं करेगा।',
+          'इसलिए जब कोई कहे कि "बस यह एक काम कर दीजिए और मामला हल हो जाएगा", तो वही वाक्य सबसे बड़ा संकेत है। असली समस्याएँ फ़ोन पर तीन मिनट में हल नहीं होतीं।',
+        ],
+        pEn: [
+          'The language of a scam is always indirect, so asking "what am I being made to do by the end of this conversation" clears things up immediately.',
+          'The answer is almost always one of four: install an app, read out a code, open a link, or make a payment. If the conversation is heading towards any of those, it may well be fraud — however convincing the story around it.',
+          'One thing is worth noting particularly: genuine institutions give information, they do not make you perform actions. A bank will tell you what happened in your account; it will not try to get you to do something on the phone.',
+          'So when somebody says "just do this one thing and the matter will be resolved", that sentence is itself the largest signal. Real problems are not solved on a phone call in three minutes.',
+        ],
+      },
+      {
+        hHi: 'तीसरा प्रश्न: यदि मैं कल करूँ तो क्या होगा',
+        hEn: 'The third question: what happens if I do this tomorrow',
+        pHi: [
+          'यह प्रश्न लगभग हर ठगी को अकेले तोड़ देता है, क्योंकि हर ठगी की एकमात्र वास्तविक ज़रूरत समय है — और यह प्रश्न उसे छीन लेता है।',
+          'असली स्थितियों में देरी का परिणाम मामूली होता है। यदि सचमुच कोई भुगतान लंबित है, तो वह कल भी लंबित रहेगा। यदि सचमुच कोई KYC अधूरा है, तो उसके लिए शाखा में जाया जा सकता है।',
+          'ठगी में उत्तर हमेशा उलटा होता है: "कल तक खाता बंद हो जाएगा", "यह ऑफ़र दस मिनट में ख़त्म है", "अभी नहीं किया तो मामला दर्ज हो जाएगा"। यह तात्कालिकता कहानी का हिस्सा नहीं, कहानी का पूरा उद्देश्य है।',
+          'इसलिए इस प्रश्न का उत्तर सुनना ही पर्याप्त है। जो व्यक्ति आपको कल तक रुकने नहीं दे रहा, उसके पास कल तक टिकने वाली कोई बात नहीं है।',
+        ],
+        pEn: [
+          'This question breaks nearly every scam on its own, because the one thing every scam truly needs is time — and this question takes it away.',
+          'In genuine situations the consequence of a delay is minor. If a payment really is pending, it will still be pending tomorrow. If a KYC really is incomplete, it can be done at a branch.',
+          'In a scam the answer always runs the other way: "the account will be frozen by tomorrow", "this offer ends in ten minutes", "a case will be filed if you do not act now". That urgency is not part of the story; it is the entire purpose of the story.',
+          'So simply hearing the answer to this question is enough. Somebody who will not let you wait until tomorrow has nothing that would survive until tomorrow.',
+        ],
+      },
+      {
+        hHi: 'नौकरी और टास्क वाली ठगी',
+        hEn: 'The job-offer and task scam',
+        pHi: [
+          'यह हाल के वर्षों में सबसे तेज़ी से बढ़ने वाली श्रेणी है और यह UPI ठगी की पुरानी सूची में नहीं आती, इसलिए इसे अलग से पहचानना ज़रूरी है।',
+          'शुरुआत हानिरहित लगती है: किसी संदेश या समूह के माध्यम से घर बैठे काम का प्रस्ताव, जिसमें छोटे-छोटे "टास्क" पूरे करने पर भुगतान मिलता है। पहले कुछ भुगतान सचमुच आते हैं, और यही इस ठगी की असली चाल है।',
+          'भरोसा बन जाने के बाद ढाँचा बदल जाता है। अब बड़े टास्क के लिए पहले "जमा" करनी पड़ती है, इस वादे के साथ कि वह भुगतान के साथ वापस मिलेगी। यह जमा बढ़ती जाती है, और किसी बिंदु पर खाता बंद हो जाता है।',
+          'पहचान का नियम सरल है: किसी भी असली काम में आपसे पैसा नहीं लिया जाता। नियोक्ता भुगतान करता है, प्राप्त नहीं करता — और इस नियम का कोई अपवाद नहीं है।',
+          'यह श्रेणी विशेष रूप से युवाओं और नई नौकरी खोज रहे लोगों तक पहुँचती है, इसलिए घर में इसकी चर्चा करना उतना ही उपयोगी है जितना UPI के PIN की।',
+        ],
+        pEn: [
+          'This is the fastest-growing category of recent years and it does not appear on older lists of UPI frauds, so it is worth recognising separately.',
+          'It begins harmlessly: an offer of work from home through a message or a group, with payment for completing small "tasks". The first few payments genuinely arrive, and that is the real mechanism of the scam.',
+          'Once trust exists the structure changes. Larger tasks now require a "deposit" first, with a promise that it comes back along with the payment. The deposit grows, and at some point the account goes silent.',
+          'The rule for recognising it is simple: no genuine work takes money from you. An employer pays, they do not receive — and there is no exception to that rule.',
+          'This category reaches young people and those looking for a first job particularly, so discussing it at home is as useful as discussing the UPI PIN.',
+        ],
+      },
+      {
+        hHi: 'निवेश समूह वाली ठगी',
+        hEn: 'The investment-group scam',
+        pHi: [
+          'यह दूसरी नई श्रेणी है और यह विशेष रूप से ख़तरनाक है क्योंकि इसमें बड़ी राशियाँ जाती हैं और शिकार अक्सर पढ़े-लिखे लोग होते हैं।',
+          'ढाँचा यह होता है: किसी संदेश समूह में जुड़ाव, जहाँ "विशेषज्ञ" रोज़ सलाह देते हैं और अन्य सदस्य अपने मुनाफ़े की तस्वीरें साझा करते हैं। वे अन्य सदस्य प्रायः असली नहीं होते।',
+          'कुछ दिनों बाद एक ऐप या मंच पर पैसा लगाने को कहा जाता है, जहाँ आपका "पोर्टफ़ोलियो" बढ़ता हुआ दिखता है। छोटी निकासी शुरू में सफल हो जाती है, जिससे भरोसा और बढ़ता है। बड़ी निकासी के समय कोई शुल्क, कोई कर, या कोई सत्यापन बीच में आ जाता है।',
+          'पहचान के तीन संकेत हैं: कोई ऐसा मंच जो मान्यता-प्राप्त नहीं है, ऐसा प्रतिफल जो नियमित और असामान्य रूप से ऊँचा हो, और निकासी में कोई अतिरिक्त भुगतान की शर्त। इनमें से कोई एक भी पर्याप्त कारण है रुक जाने का।',
+          'सामान्य नियम यह है कि निवेश केवल मान्यता-प्राप्त, नियमित संस्थाओं के माध्यम से किया जाए, और किसी भी मंच के बारे में उसकी अपनी वेबसाइट के बाहर से पुष्टि की जाए।',
+        ],
+        pEn: [
+          'This is the second new category and it is particularly dangerous, because the amounts involved are large and the victims are frequently well-educated people.',
+          'The structure runs like this: joining a messaging group where "experts" give daily advice and other members post screenshots of their profits. Those other members are usually not real people.',
+          'After a few days you are asked to put money into an app or platform where your "portfolio" appears to grow. Small withdrawals succeed at first, which builds confidence further. At the point of a large withdrawal, a fee, a tax or a verification step suddenly appears.',
+          'There are three signs: a platform that is not registered, returns that are regular and unusually high, and a condition requiring a further payment before withdrawal. Any one of them is sufficient reason to stop.',
+          'The general rule is to invest only through registered, regulated entities, and to verify any platform from somewhere other than its own website.',
+        ],
+      },
+      {
+        hHi: 'शिकायत कैसे और कहाँ दर्ज करें',
+        hEn: 'How and where to file a complaint',
+        pHi: [
+          'ठगी के बाद क्या करना है, यह जानना उतना ही महत्वपूर्ण है जितना ठगी पहचानना, क्योंकि पहले कुछ घंटों में की गई कार्रवाई ही सबसे अधिक असर रखती है।',
+          'पहला चरण बैंक है — आधिकारिक नंबर पर कॉल करके लेन-देन की सूचना और खाते पर रोक की माँग। यह सूचना जितनी जल्दी दर्ज होती है, उत्तरदायित्व के नियम उतने ही अनुकूल रहते हैं।',
+          'दूसरा चरण राष्ट्रीय साइबर अपराध रिपोर्टिंग व्यवस्था है, जिसमें ऑनलाइन शिकायत दर्ज की जा सकती है और एक समर्पित हेल्पलाइन भी है। शिकायत संख्या सुरक्षित रखिए, वह हर आगे के क़दम में माँगी जाती है।',
+          'तीसरा चरण, यदि बैंक से संतोषजनक उत्तर न मिले, तो बैंकिंग लोकपाल के पास शिकायत है। यह रास्ता निशुल्क है और उसकी प्रक्रिया लिखित होती है।',
+          'और एक अंतिम बात: तुरंत बताइए, चाहे शर्म आए। ठगी का शिकार होना बुद्धि की कमी नहीं है — ये तरकीबें पेशेवर रूप से बनाई जाती हैं। देरी ही एकमात्र चीज़ है जो नुक़सान को स्थायी बनाती है।',
+        ],
+        pEn: [
+          'Knowing what to do after a fraud matters as much as recognising one, because action taken in the first few hours has by far the largest effect.',
+          'The first step is the bank — call the official number, report the transaction and ask for the account to be blocked. The sooner that report is on record, the more favourable the liability rules remain.',
+          'The second step is the national cybercrime reporting system, where a complaint can be filed online and where a dedicated helpline also exists. Keep the complaint number; it is asked for at every subsequent stage.',
+          'The third step, if the bank\'s response is unsatisfactory, is a complaint to the banking ombudsman. That route costs nothing and its process is conducted in writing.',
+          'And one last thing: report it immediately, however embarrassing it feels. Being defrauded is not a failure of intelligence — these tricks are built professionally. Delay is the only thing that makes the loss permanent.',
+        ],
+      },
+    ],
+  },
+
+  {
+    slug: 'credit-score-samjhiye',
+    sections: [
+      {
+        hHi: 'चार ब्यूरो, चार अलग संख्याएँ',
+        hEn: 'Four bureaus, four different numbers',
+        pHi: [
+          'बहुत से लोग यह मानते हैं कि क्रेडिट स्कोर एक ही संख्या है, और फिर दो अलग जगहों पर दो अलग आँकड़े देखकर उलझ जाते हैं।',
+          'वास्तव में भारत में एक से अधिक क्रेडिट सूचना कंपनियाँ काम करती हैं, और हर एक अपना स्कोर निकालती है। उनके पास आने वाला डेटा भी पूरी तरह एक जैसा नहीं होता, क्योंकि हर ऋणदाता हर ब्यूरो को एक ही समय पर रिपोर्ट नहीं भेजता।',
+          'इसका अर्थ यह नहीं कि कोई एक ग़लत है। इसका अर्थ केवल यह है कि संख्या को एक बिंदु के रूप में नहीं, एक दायरे के रूप में देखना चाहिए। तीस-चालीस अंकों का अंतर सामान्य है।',
+          'व्यावहारिक सलाह यह है कि साल में एक बार एक से अधिक ब्यूरो की रिपोर्ट देख लीजिए — इसलिए नहीं कि स्कोर अलग है, बल्कि इसलिए कि किसी एक रिपोर्ट में मौजूद ग़लती दूसरी में न हो, और तुलना से वह पकड़ में आ जाती है।',
+        ],
+        pEn: [
+          'Many people assume the credit score is a single number, and then get confused on finding two different figures in two different places.',
+          'In fact more than one credit information company operates in India, and each produces its own score. The data reaching them is not identical either, because lenders do not report to every bureau at the same time.',
+          'This does not mean one of them is wrong. It only means the number should be read as a range rather than as a point. A difference of thirty or forty points between bureaus is ordinary.',
+          'The practical advice is to look at reports from more than one bureau once a year — not because the scores differ, but because an error present in one report may be absent from another, and comparing them is how it gets caught.',
+        ],
+      },
+      {
+        hHi: 'ऋणदाता संख्या से आगे क्या देखता है',
+        hEn: 'What a lender looks at beyond the number',
+        pHi: [
+          'स्कोर एक सारांश है, और कोई भी गंभीर ऋणदाता केवल सारांश पर निर्णय नहीं लेता। रिपोर्ट में स्कोर के अलावा जो कुछ है, वह अक्सर उतना ही मायने रखता है।',
+          'पहली चीज़ जो देखी जाती है वह हाल का व्यवहार है। दो साल पुरानी एक चूक और पिछले महीने की एक चूक स्कोर पर लगभग एक जैसा असर डाल सकती हैं, पर ऋणदाता की नज़र में वे बिल्कुल अलग हैं।',
+          'दूसरी चीज़ खातों का मिश्रण है। केवल असुरक्षित ऋण — व्यक्तिगत ऋण और कार्ड — वाला रिकॉर्ड उसी स्कोर वाले उस रिकॉर्ड से कमज़ोर पढ़ा जाता है जिसमें कोई सुरक्षित ऋण भी नियमित रूप से चुकाया गया हो।',
+          'तीसरी चीज़ हाल की पूछताछ है। यदि पिछले कुछ महीनों में कई ऋणदाताओं ने आपकी रिपोर्ट देखी है, तो यह संकेत जाता है कि आप कई जगह आवेदन कर रहे हैं — और यह अपने आप एक चेतावनी के रूप में पढ़ा जाता है।',
+          'इसलिए स्कोर बढ़ाने का काम केवल संख्या का काम नहीं है। रिपोर्ट को एक कहानी की तरह पढ़ा जाता है, और वह कहानी सुसंगत होनी चाहिए।',
+        ],
+        pEn: [
+          'The score is a summary, and no serious lender decides on a summary alone. What sits in the report besides the score often matters just as much.',
+          'The first thing looked at is recent behaviour. A default two years old and one from last month may affect the score similarly, but in a lender\'s eyes they are entirely different things.',
+          'The second is the mix of accounts. A record containing only unsecured borrowing — personal loans and cards — reads as weaker than a record with the same score that also shows a secured loan being repaid regularly.',
+          'The third is recent enquiries. If several lenders have pulled your report over the past few months, that signals you are applying in many places — and it is read as a warning in itself.',
+          'So improving a score is not purely a matter of the number. The report is read as a story, and the story needs to be coherent.',
+        ],
+      },
+      {
+        hHi: 'हार्ड और सॉफ़्ट पूछताछ का अंतर',
+        hEn: 'The difference between hard and soft enquiries',
+        pHi: [
+          'यह अंतर छोटा लगता है और व्यवहार में महत्वपूर्ण है, ख़ासकर उन लोगों के लिए जो कोई बड़ा ऋण लेने की योजना बना रहे हैं।',
+          'जब आप ख़ुद अपना स्कोर देखते हैं, तो वह सॉफ़्ट पूछताछ है और उससे स्कोर पर कोई असर नहीं पड़ता। यह डर कि "बार-बार देखने से स्कोर गिरता है" ग़लत है, और उसी डर के कारण बहुत से लोग अपनी रिपोर्ट कभी नहीं देखते।',
+          'जब कोई ऋणदाता आपके आवेदन पर आपकी रिपोर्ट निकालता है, तो वह हार्ड पूछताछ है और वह रिपोर्ट में दर्ज होती है। एक-दो का असर मामूली है; कम समय में कई का असर जुड़ जाता है।',
+          'इससे एक व्यावहारिक नियम निकलता है: कई जगह एक साथ आवेदन मत कीजिए। पहले पात्रता जाँचिए — कई ऋणदाता यह सुविधा बिना हार्ड पूछताछ के देते हैं — और फिर केवल वहीं औपचारिक आवेदन कीजिए जहाँ संभावना सबसे अच्छी हो।',
+        ],
+        pEn: [
+          'This distinction sounds minor and matters in practice, particularly for anybody planning a large loan in the near future.',
+          'When you check your own score it is a soft enquiry and has no effect at all. The fear that "checking repeatedly lowers the score" is simply wrong, and that fear is why many people never look at their own report.',
+          'When a lender pulls your report against an application, that is a hard enquiry and it is recorded. One or two make little difference; several within a short period add up.',
+          'A practical rule follows from this: do not apply in many places at once. Check eligibility first — many lenders offer this without a hard enquiry — and then submit a formal application only where the chance is best.',
+        ],
+      },
+      {
+        hHi: 'स्कोर का उपयोग ऋण के बाहर',
+        hEn: 'Where the score is used outside lending',
+        pHi: [
+          'बहुत से लोग स्कोर की परवाह केवल तब करते हैं जब ऋण लेना हो, जबकि उसका उपयोग धीरे-धीरे अन्य जगहों तक फैला है।',
+          'सबसे स्पष्ट उदाहरण क्रेडिट कार्ड की सीमा है। वही व्यक्ति, वही आय, पर बेहतर स्कोर पर अधिक सीमा और बेहतर शर्तें मिलती हैं — और सीमा अपने आप उपयोग अनुपात को सुधार देती है।',
+          'दूसरा उदाहरण ऋण की दर है, जो शायद सबसे महँगा प्रभाव है। एक बड़े और लंबे ऋण पर ब्याज दर में आधे प्रतिशत का अंतर भी कुल भुगतान में बड़ी राशि बना देता है।',
+          'तीसरा, कुछ मामलों में मकान किराए पर लेते समय या कुछ प्रकार की नौकरियों में — विशेष रूप से वित्तीय ज़िम्मेदारी वाले पदों पर — रिकॉर्ड देखा जा सकता है।',
+          'इसका निष्कर्ष यह है कि स्कोर को केवल ऋण के समय याद करने वाली चीज़ मत मानिए। यह एक ऐसा रिकॉर्ड है जो चुपचाप बनता रहता है, और वह उसी दिन काम आता है जिस दिन उसे बनाना संभव नहीं होता।',
+        ],
+        pEn: [
+          'Many people think about the score only when a loan is needed, whereas its use has gradually spread into other places.',
+          'The clearest example is credit card limits. The same person on the same income gets a higher limit and better terms with a better score — and a higher limit improves the utilisation ratio on its own.',
+          'The second example is the interest rate, which is probably the most expensive effect. On a large, long loan even half a percentage point of difference turns into a substantial sum across the total repayment.',
+          'Third, in some cases the record may be looked at when renting a home, or for certain kinds of employment — particularly roles carrying financial responsibility.',
+          'The conclusion is not to treat the score as something to remember at loan time. It is a record that builds quietly, and it becomes useful on precisely the day when building it is no longer possible.',
+        ],
+      },
+      {
+        hHi: 'सेटलमेंट और "क्लोज़्ड" के बीच का ख़तरनाक अंतर',
+        hEn: 'The dangerous gap between "settled" and "closed"',
+        pHi: [
+          'यह रिपोर्ट का वह विवरण है जो सबसे अधिक नुक़सान करता है और जिसके बारे में सबसे कम बताया जाता है।',
+          'जब कोई ऋण पूरी तरह चुका दिया जाता है, तो वह "क्लोज़्ड" के रूप में दर्ज होता है, और यह एक सकारात्मक प्रविष्टि है। जब ऋणदाता कम राशि लेकर मामला ख़त्म करने को राज़ी होता है, तो वह "सेटल्ड" दर्ज होता है — और यह एक नकारात्मक प्रविष्टि है जो वर्षों तक रहती है।',
+          'बहुत से लोग सेटलमेंट को राहत समझकर स्वीकार कर लेते हैं, यह जाने बिना कि इसका दीर्घकालिक असर क्या है। भविष्य में कोई भी ऋणदाता इस प्रविष्टि को देखकर सावधान हो जाता है, क्योंकि उसका सीधा अर्थ है कि पिछला ऋणदाता पूरा पैसा वापस नहीं पा सका।',
+          'यदि संभव हो, तो सेटलमेंट के बजाय पुनर्गठन या लंबी अवधि की बातचीत बेहतर है। और यदि सेटलमेंट पहले ही हो चुका है, तो शेष राशि चुकाकर "नो ड्यूज़" प्रमाणपत्र लेना और रिपोर्ट में स्थिति सुधरवाना संभव होता है — यह प्रक्रिया लंबी है, पर यह मौजूद है।',
+        ],
+        pEn: [
+          'This is the detail in a report that does the most damage and about which the least is said.',
+          'When a loan is repaid in full it is recorded as "closed", which is a positive entry. When a lender agrees to accept a lower amount and end the matter, it is recorded as "settled" — and that is a negative entry which stays for years.',
+          'Many people accept a settlement as relief without knowing its longer-term effect. Any future lender seeing that entry becomes cautious, because it means directly that a previous lender did not get all its money back.',
+          'Where possible, restructuring or negotiating a longer term is better than settling. And if a settlement has already happened, paying the remaining amount, obtaining a no-dues certificate and getting the report status corrected is possible — the process is slow, but it exists.',
+        ],
+      },
+      {
+        hHi: 'स्कोर की सीमाएँ',
+        hEn: 'The limits of what a score can say',
+        pHi: [
+          'अंत में एक संतुलन ज़रूरी है, क्योंकि स्कोर को इतना महत्व दे दिया जाता है कि लोग उसे अपने वित्तीय स्वास्थ्य का माप समझने लगते हैं। वह यह नहीं है।',
+          'स्कोर केवल एक बात मापता है: आपने उधार लिया हुआ पैसा कैसे चुकाया। वह यह नहीं जानता कि आपके पास कितनी बचत है, आपका आपातकालीन कोष है या नहीं, आपका बीमा है या नहीं, या आपकी आय स्थिर है या नहीं।',
+          'इसका अर्थ यह है कि 800 का स्कोर रखने वाला व्यक्ति वित्तीय रूप से नाज़ुक हो सकता है, और बिना किसी स्कोर वाला व्यक्ति पूरी तरह सुरक्षित। स्कोर ऋणदाता के प्रश्न का उत्तर है, आपके प्रश्न का नहीं।',
+          'इसलिए स्कोर को उतना ही महत्व दीजिए जितना उसका है — वह ऋण की क़ीमत तय करता है, और वही उसका पूरा काम है। बाक़ी वित्तीय स्वास्थ्य कहीं और मापा जाता है: बचत में, बीमा में, और उस अंतर में जो हर महीने आय और ख़र्च के बीच बचता है।',
+        ],
+        pEn: [
+          'A balancing point belongs at the end, because the score is given so much weight that people begin to treat it as a measure of their financial health. It is not that.',
+          'A score measures one thing only: how you repaid money you borrowed. It knows nothing about how much you have saved, whether you have an emergency fund, whether you are insured, or whether your income is stable.',
+          'This means a person with a score of 800 can be financially fragile, and a person with no score at all can be entirely secure. The score answers a lender\'s question, not yours.',
+          'So give it exactly the weight it deserves — it prices your borrowing, and that is the whole of its job. Financial health is measured elsewhere: in savings, in insurance, and in the gap that remains between income and spending each month.',
+        ],
+      },
+    ],
+  },
+
+  {
+    slug: 'tax-regime-kaise-chunein',
+    sections: [
+      {
+        hHi: 'ब्रेक-ईवन कटौती: एक संख्या जो सब कुछ आसान कर देती है',
+        hEn: 'The break-even deduction: one number that simplifies everything',
+        pHi: [
+          'पूरी तुलना को एक ही प्रश्न में बदला जा सकता है, और यह तरीक़ा हर साल की माथापच्ची बचा देता है।',
+          'प्रश्न यह है: आपकी आय पर वह कुल कटौती कितनी है जिस पर दोनों व्यवस्थाओं में कर बराबर हो जाता है? यही ब्रेक-ईवन कटौती है। यदि आपकी वास्तविक कटौतियाँ इससे अधिक हैं, तो पुरानी व्यवस्था बेहतर है; यदि कम हैं, तो नई।',
+          'इसका बड़ा लाभ यह है कि आपको हर बार पूरा कर-गणना नहीं करनी पड़ती। एक बार अपनी आय-श्रेणी के लिए यह संख्या निकाल लीजिए, फिर हर साल केवल यह देखिए कि आपकी कटौतियाँ उससे ऊपर हैं या नीचे।',
+          'यह संख्या आय के साथ बदलती है, और दरों में बदलाव के साथ भी। इसलिए इसे हर वर्ष एक बार दोबारा निकालना ज़रूरी है — पर वह काम पूरी तुलना दोहराने से कहीं छोटा है।',
+        ],
+        pEn: [
+          'The whole comparison can be reduced to a single question, and doing so saves the annual head-scratching entirely.',
+          'The question is: at what level of total deductions does the tax under both regimes come out the same for your income? That is the break-even deduction. If your actual deductions exceed it, the old regime is better; if they fall short, the new one is.',
+          'The advantage is that you no longer have to run a full tax calculation each time. Work the number out once for your income band, and thereafter simply check whether your deductions sit above or below it.',
+          'This figure moves with income and also whenever rates change, so it needs recalculating once a year — but that is a far smaller task than repeating the entire comparison.',
+        ],
+      },
+      {
+        hHi: 'प्रोफ़ाइल के अनुसार एक सरल निर्णय-वृक्ष',
+        hEn: 'A simple decision tree by profile',
+        pHi: [
+          'हर किसी की स्थिति अलग होती है, फिर भी कुछ सामान्य प्रोफ़ाइल हैं जिनके लिए दिशा प्रायः स्पष्ट होती है। यह अंतिम उत्तर नहीं, केवल शुरुआती बिंदु है।',
+          'युवा वेतनभोगी, कोई ऋण नहीं, कोई बड़ा बीमा नहीं, किराए के मकान में नहीं: इनके पास गिनने को अधिक कटौतियाँ नहीं होतीं, इसलिए यह प्रोफ़ाइल प्रायः नई व्यवस्था की ओर झुकती है।',
+          'परिवार, गृह ऋण, स्वास्थ्य बीमा, बच्चों की फ़ीस: यहाँ कटौतियाँ आसानी से बड़ी हो जाती हैं, और यह प्रोफ़ाइल प्रायः पुरानी व्यवस्था की ओर झुकती है — विशेषकर ऋण के शुरुआती वर्षों में।',
+          'किराए के मकान में रहने वाला वेतनभोगी जिसे किराए से जुड़ी छूट मिलती है: यह श्रेणी बीच में है और यहाँ वास्तविक गणना सबसे अधिक ज़रूरी है, क्योंकि किराए की राशि शहर के हिसाब से बहुत बदलती है।',
+          'व्यवसाय या पेशे से आय: यहाँ नियम अलग हैं और चुनाव बदलने की स्वतंत्रता सीमित है, इसलिए यह वह प्रोफ़ाइल है जिसे सामान्य सलाह के बजाय व्यक्तिगत सलाह चाहिए।',
+        ],
+        pEn: [
+          'Everybody\'s position differs, and some common profiles nevertheless point in a fairly clear direction. This is a starting point rather than a final answer.',
+          'A young salaried person with no loan, no large insurance and not paying rent: there are not many deductions to count, so this profile usually leans towards the new regime.',
+          'A family with a home loan, health insurance and school fees: deductions add up quickly here, and this profile usually leans towards the old regime, particularly in the early years of the loan.',
+          'A salaried person living in rented accommodation and eligible for rent-related relief: this sits in the middle and is where an actual calculation matters most, because rent varies enormously between cities.',
+          'Business or professional income: the rules differ here and the freedom to switch is limited, so this is the profile that needs individual advice rather than general guidance.',
+        ],
+      },
+      {
+        hHi: 'नियोक्ता को दी गई घोषणा और असली स्थिति',
+        hEn: 'The declaration given to an employer versus the real position',
+        pHi: [
+          'वेतनभोगी लोगों के लिए एक व्यावहारिक उलझन यह है कि घोषणा वर्ष की शुरुआत में देनी होती है, जब बहुत कुछ अभी हुआ ही नहीं होता।',
+          'इसका परिणाम यह होता है कि साल भर TDS एक व्यवस्था के अनुसार कटता है, और रिटर्न भरते समय पता चलता है कि दूसरी व्यवस्था बेहतर थी। यह कोई आपदा नहीं है — रिटर्न में सही व्यवस्था चुनी जा सकती है और अंतर वापसी के रूप में मिल जाता है।',
+          'पर इसमें एक असुविधा है: वह पैसा साल भर आपके पास नहीं रहता। इसलिए शुरुआत में की गई घोषणा जितनी सटीक होगी, नक़दी का प्रवाह उतना ही बेहतर रहेगा।',
+          'इसका व्यावहारिक हल यह है कि घोषणा भरते समय केवल वे कटौतियाँ लिखिए जिनके बारे में आप निश्चित हैं। बाद में यदि कोई और कटौती जुड़ जाए, तो नियोक्ता को बीच वर्ष में सूचित किया जा सकता है, और अधिकांश नियोक्ता यह अनुमति देते हैं।',
+        ],
+        pEn: [
+          'A practical difficulty for salaried people is that the declaration has to be given at the start of the year, when much of what it covers has not happened yet.',
+          'The result is that TDS is deducted all year under one regime, and at filing time it turns out the other one was better. This is not a disaster — the correct regime can be chosen in the return and the difference comes back as a refund.',
+          'There is an inconvenience in it though: that money is not with you during the year. So the more accurate the declaration made at the start, the better the cash flow across the year.',
+          'The practical fix is to declare only those deductions you are certain about. If something else is added later, the employer can be informed mid-year, and most employers allow this.',
+        ],
+      },
+      {
+        hHi: 'जब दोनों व्यवस्थाओं का अंतर बहुत छोटा हो',
+        hEn: 'When the difference between the two is very small',
+        pHi: [
+          'कभी-कभी पूरी गणना के बाद अंतर कुछ हज़ार रुपये का ही निकलता है, और तब यह प्रश्न उठता है कि इतनी मेहनत का क्या अर्थ है।',
+          'ऐसी स्थिति में एक अतिरिक्त कारक देखा जा सकता है जो पैसों में नहीं गिना जाता: सरलता। नई व्यवस्था में प्रमाण जुटाने, रसीदें सँभालने और घोषणाएँ करने का काम कम है।',
+          'दूसरा कारक लचीलापन है। यदि पुरानी व्यवस्था चुनने का अर्थ यह है कि आपको कर बचाने के लिए हर साल एक निश्चित राशि किसी लंबी अवधि के उत्पाद में डालनी पड़ेगी, तो वह बाध्यता अपने आप में एक लागत है।',
+          'तीसरा कारक स्थिरता है। यदि अगले कुछ वर्षों में आपकी स्थिति बदलने वाली है — ऋण समाप्त होने वाला है, या कोई बड़ा ख़र्च शुरू होने वाला है — तो आज का छोटा अंतर वैसे भी टिकने वाला नहीं है।',
+          'इन तीनों को जोड़कर देखने पर छोटे अंतर वाली स्थिति में निर्णय प्रायः आसान हो जाता है, और वह निर्णय अक्सर सरलता के पक्ष में जाता है।',
+        ],
+        pEn: [
+          'Sometimes the whole calculation produces a difference of only a few thousand rupees, and then the question arises of what all the effort was for.',
+          'In that situation an additional factor can be weighed which does not appear in rupees: simplicity. The new regime involves less work in gathering proofs, keeping receipts and making declarations.',
+          'The second factor is flexibility. If choosing the old regime means committing a fixed amount to a long-term product every year purely to save tax, that obligation is itself a cost.',
+          'The third factor is stability. If your position is going to change over the next few years — a loan ending, or a large expense beginning — then today\'s small difference will not hold anyway.',
+          'Taking those three together usually makes the decision easy when the gap is small, and the decision quite often goes in favour of simplicity.',
+        ],
+      },
+      {
+        hHi: 'सामान्य ग़लतफ़हमियाँ जो हर साल दोहराई जाती हैं',
+        hEn: 'The misconceptions repeated every year',
+        pHi: [
+          'इस विषय पर कुछ धारणाएँ इतनी बार दोहराई जाती हैं कि वे तथ्य लगने लगती हैं। उन्हें अलग से स्पष्ट कर देना उपयोगी है।',
+          'पहली: "नई व्यवस्था सबके लिए बेहतर है क्योंकि दरें कम हैं।" दरें कम हैं और कटौतियाँ भी कम हैं, इसलिए यह तुलना अधूरी है। कुल कर मायने रखता है, दर नहीं।',
+          'दूसरी: "पुरानी व्यवस्था हमेशा बेहतर है अगर गृह ऋण हो।" यह प्रायः सच होता है पर हमेशा नहीं, क्योंकि यह ऋण की उम्र, ब्याज की राशि और आय के स्तर पर निर्भर करता है।',
+          'तीसरी: "एक बार चुन लिया तो हमेशा के लिए।" वेतनभोगी व्यक्ति के लिए यह ग़लत है, और यह ग़लतफ़हमी लोगों को अनावश्यक रूप से चिंतित करती है।',
+          'चौथी: "नई व्यवस्था में कोई राहत नहीं मिलती।" कुछ राहतें दोनों में लागू रहती हैं, और उन्हें छोड़ देना गणना को ग़लत कर देता है। इसीलिए अपनी पूरी सूची बनाकर देखना आवश्यक है।',
+        ],
+        pEn: [
+          'A few beliefs on this subject are repeated so often that they start to sound like facts. They are worth clearing up separately.',
+          'First: "the new regime is better for everybody because the rates are lower." The rates are lower and so are the deductions, which makes that comparison incomplete. Total tax is what matters, not the rate.',
+          'Second: "the old regime is always better if there is a home loan." That is often true but not always, because it depends on the age of the loan, the amount of interest and the level of income.',
+          'Third: "once chosen, it is fixed forever." For a salaried person that is wrong, and the misconception causes unnecessary anxiety.',
+          'Fourth: "nothing at all is allowed under the new regime." Some reliefs apply under both, and leaving them out makes the calculation wrong. This is why building your own complete list is necessary.',
+        ],
+      },
+      {
+        hHi: 'जब निश्चित न हो पाएँ',
+        hEn: 'When you cannot be certain',
+        pHi: [
+          'कुछ स्थितियाँ ऐसी होती हैं जिनमें ईमानदार उत्तर यही है कि अभी तय नहीं किया जा सकता, और यह मान लेना कमज़ोरी नहीं है।',
+          'सबसे आम ऐसी स्थिति वह है जब वर्ष के बीच में कोई बड़ा बदलाव आने वाला हो — नई नौकरी, घर की ख़रीद, विवाह, या आय में बड़ा परिवर्तन। ऐसे वर्ष में शुरुआत में की गई कोई भी गणना अनुमान ही रहेगी।',
+          'ऐसी स्थिति में व्यावहारिक रास्ता यह है: नियोक्ता को वह विकल्प बताइए जो आज की स्थिति में ठीक बैठता है, पूरे वर्ष के दस्तावेज़ सँभालिए, और अंतिम निर्णय रिटर्न भरते समय लीजिए, जब सारे आँकड़े सामने हों।',
+          'और यदि राशि बड़ी है या स्थिति उलझी हुई है, तो एक बार किसी योग्य कर सलाहकार से पूछ लेना सबसे सस्ता निर्णय होता है। एक परामर्श का शुल्क प्रायः उस अंतर से बहुत कम होता है जो एक ग़लत चुनाव पैदा कर देता है।',
+        ],
+        pEn: [
+          'Some situations genuinely cannot be settled in advance, and accepting that is not a weakness.',
+          'The most common of these is a year in which something large is going to change — a new job, buying a house, a marriage, or a significant change in income. In such a year any calculation made at the start remains an estimate.',
+          'The practical route then is: tell your employer the option that fits today\'s position, keep documentation across the whole year, and take the final decision at filing time when all the figures are actually available.',
+          'And if the amounts are large or the situation is tangled, asking a qualified tax adviser once is the cheapest decision available. The fee for a single consultation is usually far smaller than the difference a wrong choice produces.',
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
