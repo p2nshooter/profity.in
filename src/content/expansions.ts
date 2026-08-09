@@ -5229,6 +5229,132 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'upi-safe-habits',
+    sections: [
+      {
+        hHi: 'दुकानदारों के लिए कुछ बातें',
+        hEn: 'A few points for shopkeepers',
+        pHi: [
+          'यूपीआई से सबसे ज़्यादा लेन-देन छोटे दुकानदार करते हैं, और उन पर निशाना भी सबसे ज़्यादा लगता है, क्योंकि वहाँ भीड़, जल्दबाज़ी और भरोसा तीनों एक साथ होते हैं।',
+          'सबसे ज़रूरी नियम: भुगतान की पुष्टि हमेशा अपने ऐप या ध्वनि उपकरण से कीजिए। ग्राहक के फ़ोन पर दिखती हुई सफलता की स्क्रीन प्रमाण नहीं है, और नक़ली स्क्रीन बनाना बहुत आसान है।',
+          'दूसरा: क्यूआर कोड को समय-समय पर देखिए कि उस पर किसी ने दूसरा स्टिकर तो नहीं चिपका दिया। यह एक पुराना तरीक़ा है और आज भी चलता है।',
+          'तीसरा: व्यवसाय का खाता व्यक्तिगत खाते से अलग रखिए। हिसाब साफ़ रहता है, और किसी गड़बड़ी की स्थिति में नुक़सान एक ही जगह तक सीमित रहता है।',
+        ],
+        pEn: [
+          'Small shopkeepers make the largest number of UPI transactions, and they are also targeted most, because crowds, haste and trust all come together at a counter.',
+          'The most important rule: always confirm a payment from your own app or sound device. A success screen showing on the customer’s phone is not proof, and a fake screen is very easy to produce.',
+          'Second: check the QR code from time to time to make sure nobody has pasted another sticker over it. This is an old method and it still works.',
+          'Third: keep the business account separate from the personal one. The bookkeeping stays clean, and if something does go wrong the loss is contained in one place.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'digital-payment-fraud-types',
+    sections: [
+      {
+        hHi: 'हर धोखे का एक ही ढाँचा',
+        hEn: 'The single structure behind every scam',
+        pHi: [
+          'धोखे के नाम और तरीक़े हर कुछ महीनों में बदल जाते हैं, इसलिए सूची याद रखना काम नहीं आता। जो काम आता है वह है ढाँचा पहचानना, क्योंकि ढाँचा नहीं बदलता।',
+          'हर धोखे में तीन चीज़ें होती हैं। पहली: एक ऐसी कहानी जो भावना जगाए — डर, लालच, सहानुभूति या जल्दबाज़ी। यह आपकी सोचने की क्षमता को कुछ मिनटों के लिए कम कर देती है।',
+          'दूसरी: अधिकार का दिखावा। बैंक, पुलिस, बिजली विभाग, कोई सरकारी योजना, या कोई बड़ी कंपनी। असली संस्थाएँ इस तरह संपर्क नहीं करतीं, पर उस क्षण यह याद नहीं रहता।',
+          'तीसरी, और यह सबसे महत्वपूर्ण है: एक ऐसा क़दम जो आपको ख़ुद उठाना पड़ता है। पिन डालना, ओटीपी बताना, कोई ऐप इंस्टॉल करना, किसी लिंक पर विवरण भरना।',
+          'यह तीसरी बात ही बचाव की कुंजी है। कोई भी आपके खाते से पैसा तब तक नहीं निकाल सकता जब तक आप कोई क़दम न उठाएँ। इसलिए हर बार यही पूछिए: यह मुझसे क्या करवाना चाहता है?',
+          'अगर उत्तर है "कुछ भी", तो रुक जाइए। जो अनुरोध रुकने से ख़त्म हो जाए, वह असली नहीं था। कोई भी असली प्रक्रिया दस मिनट रुक जाने से रद्द नहीं होती।',
+        ],
+        pEn: [
+          'The names and methods of scams change every few months, so memorising a list does not help. What helps is recognising the structure, because the structure does not change.',
+          'Every scam has three things. The first: a story that provokes emotion — fear, greed, sympathy or urgency. That reduces your capacity to think for a few minutes.',
+          'The second: an appearance of authority. A bank, the police, the electricity department, some government scheme, or a large company. Real institutions do not make contact this way, but in that moment it is not remembered.',
+          'The third, and the most important: a step that you have to take yourself. Entering a PIN, reading out an OTP, installing an app, filling in details on a link.',
+          'That third element is the key to safety. Nobody can take money from your account unless you act. So ask the same question every time: what is this trying to make me do?',
+          'If the answer is "anything at all", stop. A request that dies when you pause was never genuine. No real process is cancelled because you waited ten minutes.',
+        ],
+      },
+      {
+        hHi: 'ओटीपी और केवाईसी वाले धोखे',
+        hEn: 'OTP and KYC scams',
+        pHi: [
+          'ओटीपी वह अंतिम ताला है जो बैंक ने आपके लिए लगाया है, और लगभग हर बड़ा धोखा उसी ताले की चाबी माँगने पर टिका होता है।',
+          'नियम एक पंक्ति का है: ओटीपी किसी को नहीं बताना है। बैंक कर्मचारी को नहीं, पुलिस को नहीं, कूरियर वाले को नहीं, और उस व्यक्ति को भी नहीं जो कहता है कि वह इसे रद्द करने के लिए माँग रहा है।',
+          'संदेश में ओटीपी के साथ हमेशा यह भी लिखा होता है कि वह किस काम के लिए है। उसे पढ़िए। अगर संदेश में किसी भुगतान का ज़िक्र है और आपको बताया गया था कि यह "सत्यापन" है, तो वह भुगतान ही है।',
+          'केवाईसी वाला धोखा इससे थोड़ा अलग है। संदेश आता है कि खाता आज बंद हो जाएगा अगर केवाईसी अपडेट नहीं हुई, और साथ में एक लिंक या नंबर होता है।',
+          'असली केवाईसी कभी लिंक भेजकर, ऐप इंस्टॉल कराकर या फ़ोन पर विवरण पूछकर नहीं होती। वह शाखा में या बैंक के अपने आधिकारिक माध्यम से होती है, और उसके लिए कभी भी इतनी जल्दी नहीं होती।',
+          'अगर संदेह हो, तो उस संदेश में दिए नंबर पर मत लौटिए। अपनी पासबुक या कार्ड के पीछे लिखे नंबर पर ख़ुद फ़ोन कीजिए। यह एक अंतर पूरे फ़र्क़ का कारण बनता है।',
+        ],
+        pEn: [
+          'The OTP is the final lock the bank has put in place for you, and nearly every large scam rests on asking for the key to that lock.',
+          'The rule is one line: the OTP is told to nobody. Not to a bank employee, not to the police, not to a delivery agent, and not to the person who says they need it in order to cancel something.',
+          'The message carrying an OTP always states what it is for. Read it. If it mentions a payment and you were told this was "verification", it is a payment.',
+          'The KYC scam works a little differently. A message says the account will be closed today unless KYC is updated, and it carries a link or a number.',
+          'Genuine KYC never happens by sending a link, having an app installed, or asking for details over the phone. It happens at a branch or through the bank’s own official channel, and it is never that urgent.',
+          'If in doubt, do not call back on the number in the message. Ring the number on your own passbook or the back of your card. That single difference makes all the difference.',
+        ],
+      },
+      {
+        hHi: 'नौकरी, निवेश और लॉटरी वाले धोखे',
+        hEn: 'Job, investment and lottery scams',
+        pHi: [
+          'ये वे धोखे हैं जिनमें कोई तकनीकी सेंध नहीं लगती। यहाँ पीड़ित ख़ुद पैसा भेजता है, अपनी इच्छा से, और अक्सर कई किश्तों में।',
+          'नौकरी वाला ढाँचा: एक अच्छा प्रस्ताव, फिर पंजीकरण शुल्क, फिर प्रशिक्षण शुल्क, फिर सुरक्षा जमा। असली नियोक्ता नौकरी देने के लिए पैसा नहीं लेता, कभी नहीं।',
+          'निवेश वाला ढाँचा: एक ऐसा रिटर्न जो बाज़ार से कहीं ज़्यादा हो और जोखिम-रहित बताया जाए, अक्सर किसी समूह चैट के ज़रिए। शुरुआती छोटी निकासी सफल होती है ताकि भरोसा बने, फिर बड़ी राशि आमंत्रित की जाती है।',
+          'यहाँ पहचान का सबसे सरल पैमाना यही है: कोई भी वैध निवेश निश्चित ऊँचे रिटर्न का वादा नहीं करता। जहाँ जोखिम का ज़िक्र नहीं है, वहाँ जोखिम पूरा है।',
+          'लॉटरी और उपहार वाला ढाँचा: आपने कुछ जीता है, बस "कर" या "प्रसंस्करण शुल्क" भेज दीजिए। जिस प्रतियोगिता में आपने भाग नहीं लिया, उसे आप जीत नहीं सकते।',
+          'तीनों में एक साझा संकेत है: पैसा पाने के लिए पहले पैसा भेजना। यह वाक्य सुनते ही बातचीत ख़त्म कर देनी चाहिए।',
+        ],
+        pEn: [
+          'These are the scams with no technical break-in at all. Here the victim sends the money themselves, willingly, and usually in several instalments.',
+          'The job structure: an attractive offer, then a registration fee, then a training fee, then a security deposit. A genuine employer never takes money in order to give you a job.',
+          'The investment structure: a return far above the market described as risk-free, usually through a group chat. Small early withdrawals succeed so that trust is built, and then larger sums are invited.',
+          'The simplest test here is this: no legitimate investment promises a fixed high return. Where risk is not mentioned, the risk is total.',
+          'The lottery and gift structure: you have won something, just send the "tax" or the "processing fee". You cannot win a competition you never entered.',
+          'All three share one signal: sending money in order to receive money. The conversation should end the moment that sentence appears.',
+        ],
+      },
+      {
+        hHi: 'नक़ली ऐप, लिंक और वेबसाइट',
+        hEn: 'Fake apps, links and websites',
+        pHi: [
+          'यह श्रेणी सबसे तेज़ी से बढ़ रही है, क्योंकि नक़ली चीज़ें अब देखने में असली से लगभग अलग नहीं होतीं।',
+          'ऐप केवल आधिकारिक स्टोर से इंस्टॉल कीजिए, और वहाँ भी प्रकाशक का नाम, डाउनलोड की संख्या और समीक्षाएँ देख लीजिए। किसी संदेश में भेजी गई इंस्टॉल फ़ाइल कभी मत खोलिए।',
+          'लिंक की जाँच का सबसे सरल तरीक़ा है पता ध्यान से पढ़ना। धोखेबाज़ पते असली नाम के आसपास बने होते हैं — एक अक्षर बदला हुआ, या नाम के बाद कुछ और जुड़ा हुआ।',
+          'सबसे सुरक्षित आदत यह है कि किसी भी वित्तीय काम के लिए लिंक पर क्लिक ही न कीजिए। ऐप ख़ुद खोलिए, या पता ख़ुद टाइप कीजिए। इसमें दस सेकंड ज़्यादा लगते हैं और यह लगभग पूरी श्रेणी को हटा देता है।',
+          'सार्वजनिक वाई-फ़ाई पर बैंकिंग मत कीजिए, और फ़ोन तथा ऐप के अपडेट टालिए मत। अधिकांश अपडेट में वही सुधार होते हैं जो ज्ञात कमज़ोरियाँ बंद करते हैं।',
+          'और अपने फ़ोन में इंस्टॉल किए गए ऐप की सूची साल में एक बार देखिए। जो ऐप आपको याद नहीं कि आपने कब इंस्टॉल किया, उसे हटा देना ही ठीक है।',
+        ],
+        pEn: [
+          'This category is growing fastest, because fakes are now almost indistinguishable from the real thing by sight.',
+          'Install apps only from the official store, and even there check the publisher’s name, the download count and the reviews. Never open an install file sent in a message.',
+          'The simplest way to check a link is to read the address carefully. Fraudulent addresses are built around the real name — one character changed, or something appended after the name.',
+          'The safest habit is not to click a link for any financial task at all. Open the app yourself, or type the address yourself. It costs ten extra seconds and it removes nearly this whole category.',
+          'Do not bank on public Wi-Fi, and do not postpone phone and app updates. Most updates contain precisely the fixes that close known weaknesses.',
+          'And look through the list of apps installed on your phone once a year. Any app you cannot remember installing is better removed.',
+        ],
+      },
+      {
+        hHi: 'शिकायत कहाँ और कैसे',
+        hEn: 'Where and how to complain',
+        pHi: [
+          'धोखा हो जाने पर सबसे ज़्यादा नुक़सान देरी से होता है, और देरी अक्सर इसलिए होती है क्योंकि लोग जानते ही नहीं कि कहाँ जाना है।',
+          'पहला: बैंक को तुरंत सूचित कीजिए, आधिकारिक नंबर पर, और लिखित शिकायत की पावती लीजिए। समय की गणना यहीं से शुरू होती है।',
+          'दूसरा: राष्ट्रीय साइबर अपराध रिपोर्टिंग व्यवस्था में शिकायत दर्ज कीजिए। शीघ्र दर्ज शिकायत पर राशि रोकने की प्रक्रिया मौजूद है, और वह प्रक्रिया समय पर निर्भर है।',
+          'तीसरा: अगर बैंक से संतोषजनक समाधान न मिले, तो पहले उसके शिकायत निवारण अधिकारी को लिखिए और उसके बाद संबंधित लोकपाल के पास जाइए। यह रास्ता निःशुल्क है।',
+          'चौथा: सारे प्रमाण सँभालिए — संदेश, स्क्रीनशॉट, कॉल का रिकॉर्ड, लेन-देन का विवरण। शिकायत की ताक़त इन्हीं पर टिकी होती है।',
+          'और पाँचवाँ, जो अक्सर छूट जाता है: घटना के बाद अपने बैंकिंग पासवर्ड और यूपीआई पिन बदलिए, और खाते से जुड़े उपकरणों की सूची जाँचकर अनजान उपकरण हटाइए।',
+        ],
+        pEn: [
+          'After a fraud, most of the damage comes from delay, and the delay usually happens because people do not know where to go.',
+          'First: inform the bank immediately, on the official number, and take the acknowledgement of a written complaint. The clock starts from there.',
+          'Second: register a complaint on the national cybercrime reporting system. A mechanism for holding the amount exists for complaints filed early, and that mechanism depends on time.',
+          'Third: if the bank does not resolve it satisfactorily, write to its grievance redressal officer first and then approach the relevant ombudsman. That route is free.',
+          'Fourth: preserve all the evidence — messages, screenshots, call records, transaction details. The strength of a complaint rests on these.',
+          'And fifth, which is often skipped: after the incident, change your banking passwords and UPI PIN, and check the list of devices linked to the account and remove any you do not recognise.',
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
