@@ -5355,6 +5355,130 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'digital-payment-fraud-types',
+    sections: [
+      {
+        hHi: 'एक बात जो हर सूची से ज़्यादा काम आती है',
+        hEn: 'The one thing worth more than any list',
+        pHi: [
+          'इस लेख की सारी श्रेणियाँ किसी दिन पुरानी पड़ जाएँगी, क्योंकि तरीक़े बदलते रहते हैं। जो नहीं बदलेगा वह यह है कि हर धोखे को आपकी जल्दबाज़ी चाहिए।',
+          'इसलिए एक ही आदत बना लीजिए: किसी भी वित्तीय अनुरोध पर, चाहे वह कितना भी तात्कालिक लगे, दस मिनट रुकिए और किसी एक व्यक्ति को बता दीजिए।',
+          'यह दोनों काम मिलकर लगभग हर धोखे को रोक देते हैं, क्योंकि कोई भी धोखा दस मिनट की जाँच और एक दूसरे व्यक्ति की राय, दोनों को एक साथ नहीं झेल सकता।',
+        ],
+        pEn: [
+          'Every category in this article will be out of date some day, because the methods keep changing. What will not change is that every scam needs your haste.',
+          'So build one habit: on any financial request, however urgent it appears, wait ten minutes and tell one other person about it.',
+          'Those two things together stop very nearly every scam, because no scam survives both ten minutes of checking and a second person’s opinion at the same time.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'online-shopping-safety',
+    sections: [
+      {
+        hHi: 'भुगतान का तरीक़ा ही सबसे बड़ी सुरक्षा है',
+        hEn: 'The payment method is the biggest protection',
+        pHi: [
+          'ऑनलाइन ख़रीद में सुरक्षा का सबसे बड़ा हिस्सा यह है कि पैसा किस रास्ते से जाता है, क्योंकि हर रास्ते में विवाद की स्थिति में आपके अधिकार अलग होते हैं।',
+          'कार्ड से किया गया भुगतान आमतौर पर सबसे अधिक संरक्षण देता है, क्योंकि उसमें विवाद दर्ज कराने और राशि रोकने की एक स्थापित प्रक्रिया होती है।',
+          'सीधे किसी व्यक्ति के खाते में पैसा भेजना सबसे कम संरक्षित है। वहाँ लेन-देन पूरा हो जाने के बाद उसे पलटने की कोई सहज व्यवस्था नहीं होती।',
+          'यही कारण है कि सामाजिक मंचों पर बिक्री करने वाले अक्सर सीधे खाते में भुगतान माँगते हैं और मंच के अपने भुगतान रास्ते से बचते हैं। यह अनुरोध अपने-आप में एक चेतावनी है।',
+          'डिलीवरी पर नक़द भुगतान भी एक विकल्प है, पर वह केवल आधे रास्ते तक बचाता है — पैसा तभी जाता है जब सामान आता है, पर सामान ग़लत निकलने पर वापसी की प्रक्रिया वही रहती है।',
+          'और एक व्यावहारिक आदत: ऑनलाइन ख़रीद के लिए एक ही कार्ड इस्तेमाल कीजिए, जिसकी सीमा सीमित हो। कोई गड़बड़ी हो तो उसे रोकना आसान होता है और बाक़ी जीवन रुकता नहीं।',
+        ],
+        pEn: [
+          'The largest part of safety in online shopping is which route the money travels by, because your rights in a dispute differ with every route.',
+          'Paying by card usually gives the most protection, because there is an established process for raising a dispute and holding the amount.',
+          'Sending money directly to an individual’s account is the least protected. Once that transaction completes there is no easy mechanism to reverse it.',
+          'This is exactly why sellers on social platforms often ask for direct bank payment and avoid the platform’s own payment route. That request is a warning in itself.',
+          'Cash on delivery is an option too, but it protects only halfway — the money leaves when the goods arrive, but if the goods are wrong the return process is the same as ever.',
+          'And one practical habit: use a single card for online shopping, with a limited ceiling. If something goes wrong it is easy to block, and the rest of your life does not stop.',
+        ],
+      },
+      {
+        hHi: 'विक्रेता और सौदे की जाँच',
+        hEn: 'Checking the seller and the deal',
+        pHi: [
+          'बड़े मंचों पर भी हर विक्रेता उस मंच का नहीं होता। अधिकांश जगहों पर मंच केवल जगह देता है और बेचने वाला कोई तीसरा पक्ष होता है।',
+          'इसलिए ख़रीद से पहले विक्रेता का नाम, उसकी रेटिंग और उसकी समीक्षाओं की संख्या देखिए। नया विक्रेता, बहुत कम समीक्षाएँ, और असामान्य रूप से कम क़ीमत — तीनों एक साथ हों तो रुक जाइए।',
+          'समीक्षाएँ पढ़ते समय केवल तारे मत देखिए, तारीख़ें देखिए। एक ही सप्ताह में आई बहुत सारी उत्साही समीक्षाएँ अक्सर वास्तविक नहीं होतीं।',
+          'वापसी और धन-वापसी की नीति ख़रीदने से पहले पढ़िए, बाद में नहीं। कई श्रेणियों में वापसी उपलब्ध ही नहीं होती, और यह बात उत्पाद पृष्ठ पर छोटे अक्षरों में लिखी होती है।',
+          'क़ीमत की तुलना दो-तीन जगह कर लीजिए। जो सौदा बाज़ार से बहुत सस्ता है, वह आमतौर पर या तो नक़ली उत्पाद है, या पुराना, या मौजूद ही नहीं है।',
+          'और सोशल मीडिया के विज्ञापन से सीधे ख़रीदने से बचिए। उत्पाद का नाम अलग से खोजिए और किसी स्थापित मंच पर देखिए कि वह वहाँ किस क़ीमत पर है।',
+        ],
+        pEn: [
+          'Even on large platforms, not every seller belongs to the platform. In most places the platform provides the space and the seller is a third party.',
+          'So before buying, look at the seller’s name, rating and the number of reviews. A new seller, very few reviews and an unusually low price — when all three appear together, stop.',
+          'While reading reviews, look at the dates rather than only the stars. A large number of enthusiastic reviews arriving in one week is often not genuine.',
+          'Read the return and refund policy before buying, not after. In several categories returns are not available at all, and that appears in small type on the product page.',
+          'Compare the price in two or three places. A deal far below the market is usually either a counterfeit, or old stock, or does not exist.',
+          'And avoid buying directly from a social-media advertisement. Search for the product name separately and see what it costs on an established platform.',
+        ],
+      },
+      {
+        hHi: 'ऑर्डर के बाद और डिलीवरी के समय',
+        hEn: 'After the order and at delivery',
+        pHi: [
+          'ऑर्डर करने के बाद का हिस्सा भी उतना ही महत्वपूर्ण है, और यहीं कुछ नए तरह के धोखे काम करते हैं।',
+          'सबसे आम है डिलीवरी के नाम पर आने वाला संदेश: "पता अधूरा है, इस लिंक पर सुधार कीजिए" या "पुनः डिलीवरी के लिए छोटा शुल्क दीजिए"। कोई भी असली कूरियर लिंक भेजकर भुगतान नहीं माँगता।',
+          'दूसरा: ओटीपी माँगने वाला फ़ोन, जो कहता है कि डिलीवरी की पुष्टि के लिए चाहिए। डिलीवरी का ओटीपी केवल सामान लेते समय, सामने खड़े व्यक्ति को बताया जाता है, फ़ोन पर किसी को नहीं।',
+          'पैकेट खोलते समय वीडियो बनाइए, ख़ासकर महँगे सामान का। कई मंचों पर ग़लत या ख़ाली पैकेट की शिकायत में यही सबसे मज़बूत प्रमाण होता है।',
+          'सामान मिलते ही जाँच लीजिए और शिकायत की समय-सीमा के भीतर ही उठाइए। अधिकांश नीतियों में यह अवधि छोटी होती है और बीत जाने के बाद विकल्प बहुत कम बचते हैं।',
+          'और हर ऑर्डर का पुष्टिकरण, चालान और भुगतान का रिकॉर्ड सँभालकर रखिए। विवाद की स्थिति में यही तीन चीज़ें पूरी बातचीत का आधार बनती हैं।',
+        ],
+        pEn: [
+          'What happens after the order is just as important, and this is where some newer scams operate.',
+          'The commonest is a message in the name of delivery: "the address is incomplete, correct it on this link" or "pay a small fee for redelivery". No genuine courier asks for payment through a link.',
+          'The second is a call asking for an OTP, claiming it is needed to confirm delivery. A delivery OTP is given only while receiving the goods, to the person standing in front of you, never to anyone on the phone.',
+          'Record a video while opening the packet, particularly for expensive items. On many platforms that is the strongest evidence in a complaint about a wrong or empty parcel.',
+          'Check the goods as soon as they arrive and raise any complaint within the stated window. Most policies allow only a short period, and once it passes very few options remain.',
+          'And keep the confirmation, the invoice and the payment record for every order. In a dispute those three things are the basis of the entire conversation.',
+        ],
+      },
+      {
+        hHi: 'सब्सक्रिप्शन और सहेजे गए कार्ड',
+        hEn: 'Subscriptions and saved cards',
+        pHi: [
+          'ऑनलाइन ख़रीद का एक हिस्सा ऐसा है जो एक बार शुरू होकर चलता रहता है, और उसी में सबसे ज़्यादा पैसा चुपचाप जाता है।',
+          'मुफ़्त परीक्षण अवधि लगभग हमेशा कार्ड विवरण माँगकर शुरू होती है, और अवधि समाप्त होने पर वह अपने-आप भुगतान में बदल जाती है। परीक्षण शुरू करते ही उसकी समाप्ति तिथि फ़ोन में दर्ज कर लीजिए।',
+          'साल में एक बार अपने कार्ड और बैंक विवरण में केवल आवर्ती भुगतान छाँटकर देखिए। लगभग हर व्यक्ति को कम से कम एक ऐसी सेवा मिलती है जो वह अब इस्तेमाल नहीं करता।',
+          'सहेजे गए कार्ड के बारे में एक व्यावहारिक बात: जितनी कम जगह आपका कार्ड सहेजा हुआ है, उतनी कम जगहें ऐसी हैं जहाँ से वह विवरण लीक हो सकता है।',
+          'जहाँ सुविधा ज़रूरी हो वहाँ टोकन वाली व्यवस्था बेहतर है, जिसमें व्यापारी के पास आपका असली कार्ड नंबर नहीं रहता बल्कि एक विकल्प संख्या रहती है।',
+          'और अपने कार्ड की ऑनलाइन लेन-देन की सीमा तथा अंतरराष्ट्रीय लेन-देन की अनुमति ऐप में जाँच लीजिए। जिसे विदेश से ख़रीदना नहीं है, उसे वह सुविधा चालू रखने की कोई ज़रूरत नहीं।',
+        ],
+        pEn: [
+          'One part of online shopping starts once and then keeps running, and that is where money leaves most quietly.',
+          'A free trial almost always begins by taking card details, and turns into a payment automatically when the period ends. Put the end date into your phone the moment a trial starts.',
+          'Once a year, filter your card and bank statements down to recurring payments alone. Almost everybody finds at least one service they no longer use.',
+          'One practical point about saved cards: the fewer places your card is stored, the fewer places those details can leak from.',
+          'Where the convenience is necessary, a tokenised arrangement is better — the merchant then holds a substitute number rather than your real card number.',
+          'And check your card’s online transaction limit and international transaction permission in the app. Anyone who does not buy from abroad has no reason to leave that facility switched on.',
+        ],
+      },
+      {
+        hHi: 'गड़बड़ी होने पर क्या करें',
+        hEn: 'What to do when something goes wrong',
+        pHi: [
+          'सामान न आया, ग़लत आया, या पैसा कट गया और ऑर्डर नहीं बना — इन तीनों स्थितियों में एक ही क्रम काम करता है।',
+          'पहला: मंच या विक्रेता के पास शिकायत दर्ज कीजिए और शिकायत संख्या लीजिए। मौखिक या चैट में की गई बातचीत का कोई मूल्य नहीं रहता अगर उसका कोई संदर्भ संख्या न हो।',
+          'दूसरा: अगर पैसा कट गया पर ऑर्डर नहीं बना, तो आमतौर पर वह राशि कुछ कार्य-दिवसों में अपने-आप लौट आती है। उतना इंतज़ार कीजिए, फिर बैंक में विवाद दर्ज कीजिए।',
+          'तीसरा: कार्ड से किए गए भुगतान में, अगर विक्रेता जवाब न दे, तो कार्ड जारी करने वाले बैंक के पास विवाद दर्ज कराया जा सकता है। इसकी भी एक समय-सीमा होती है, इसलिए देर मत कीजिए।',
+          'चौथा: उपभोक्ता शिकायत के लिए राष्ट्रीय हेल्पलाइन और ऑनलाइन व्यवस्था मौजूद है, और वह निःशुल्क है। कई मामले वहीं सुलझ जाते हैं।',
+          'और हर चरण में वही चीज़ काम आती है: ऑर्डर की पुष्टि, भुगतान का प्रमाण, पैकेट खोलने का वीडियो, और तारीख़ के क्रम में रखा गया पत्राचार।',
+        ],
+        pEn: [
+          'The goods did not arrive, the wrong item arrived, or money left the account and no order was created — the same sequence works in all three situations.',
+          'First: register a complaint with the platform or seller and get a complaint number. A conversation held verbally or in chat carries no weight without a reference number.',
+          'Second: if money was debited but no order was created, that amount usually returns by itself within a few working days. Wait that long, then raise a dispute with the bank.',
+          'Third: on a card payment, if the seller does not respond, a dispute can be raised with the card-issuing bank. That too has a time limit, so do not delay.',
+          'Fourth: a national consumer helpline and an online system exist for consumer complaints, and they are free. A good many cases are resolved there.',
+          'And at every stage the same things do the work: the order confirmation, proof of payment, the unboxing video, and correspondence kept in date order.',
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
