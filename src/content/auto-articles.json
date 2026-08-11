@@ -2272,5 +2272,433 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "digital-banking-privileges-for-low-income-households-kero",
+    "category": "digital",
+    "titleHi": "डिजिटल बैंकिंग के लाभ: निम्न आय वाले परिवारों के लिए",
+    "titleEn": "Digital Banking Privileges for Low-Income Households",
+    "excerptHi": "डिजिटल बैंकिंग निम्न आय वाले परिवारों के लिए एक सुरक्षित और सुलभ विकल्प प्रदान करता है।",
+    "excerptEn": "Digital banking offers a secure and accessible option for low-income households.",
+    "date": "2026-08-11",
+    "minutes": 10,
+    "sections": [
+      {
+        "hHi": "",
+        "hEn": "",
+        "pHi": [
+          "डिजिटल बैंकिंग निम्न आय वाले परिवारों के लिए एक सुरक्षित और सुलभ विकल्प प्रदान करता है। यह उन्हें अपने वित्तीय कार्यों को आसानी से और सुरक्षित रूप से प्रबंधित करने की अनुमति देता है।",
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवार अपने खातों की जानकारी ऑनलाइन देख सकते हैं और अपने वित्तीय कार्यों को प्रबंधित कर सकते हैं।"
+        ],
+        "pEn": [
+          "Digital banking offers a secure and accessible option for low-income households. It enables them to manage their financial activities easily and securely.",
+          "Through digital banking, low-income households can view their account information online and manage their financial activities."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लाभ",
+        "hEn": "Benefits of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को कई लाभ मिलते हैं। इनमें शामिल हैं:",
+          "अपने वित्तीय कार्यों को आसानी से और सुरक्षित रूप से प्रबंधित करने की क्षमता",
+          "अपने खातों की जानकारी ऑनलाइन देखने की सुविधा",
+          "अपने वित्तीय कार्यों को प्रबंधित करने के लिए सुविधाजनक और सुरक्षित तरीके"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can enjoy several benefits. These include:",
+          "The ability to manage their financial activities easily and securely",
+          "The convenience of viewing their account information online",
+          "Convenient and secure ways to manage their financial activities"
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से वित्तीय शिक्षा",
+        "hEn": "Financial Education through Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को वित्तीय शिक्षा प्राप्त करने का अवसर मिलता है।",
+          "वे अपने वित्तीय कार्यों को प्रबंधित करने के लिए आवश्यक ज्ञान और कौशल प्राप्त कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से वे अपने वित्तीय लक्ष्यों को प्राप्त करने के लिए आवश्यक योजना बना सकते हैं।"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can access financial education.",
+          "They can acquire the knowledge and skills necessary to manage their financial activities.",
+          "Through digital banking, they can create a plan to achieve their financial goals."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से वित्तीय सुरक्षा",
+        "hEn": "Financial Security through Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को वित्तीय सुरक्षा प्राप्त करने का अवसर मिलता है।",
+          "वे अपने वित्तीय कार्यों को सुरक्षित रूप से प्रबंधित कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से वे अपने वित्तीय कार्यों को ऑनलाइन देख सकते हैं और अपने वित्तीय सुरक्षा को बढ़ा सकते हैं।"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can access financial security.",
+          "They can manage their financial activities securely.",
+          "Through digital banking, they can view their financial activities online and enhance their financial security."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से वित्तीय समावेश",
+        "hEn": "Financial Inclusion through Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को वित्तीय समावेश प्राप्त करने का अवसर मिलता है।",
+          "वे अपने वित्तीय कार्यों को आसानी से और सुरक्षित रूप से प्रबंधित कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से वे अपने वित्तीय लक्ष्यों को प्राप्त करने के लिए आवश्यक योजना बना सकते हैं।"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can access financial inclusion.",
+          "They can manage their financial activities easily and securely.",
+          "Through digital banking, they can create a plan to achieve their financial goals."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से वित्तीय शिक्षा और वित्तीय सुरक्षा",
+        "hEn": "Financial Education and Financial Security through Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को वित्तीय शिक्षा और वित्तीय सुरक्षा प्राप्त करने का अवसर मिलता है।",
+          "वे अपने वित्तीय कार्यों को आसानी से और सुरक्षित रूप से प्रबंधित कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से वे अपने वित्तीय लक्ष्यों को प्राप्त करने के लिए आवश्यक योजना बना सकते हैं।"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can access financial education and financial security.",
+          "They can manage their financial activities easily and securely.",
+          "Through digital banking, they can create a plan to achieve their financial goals."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से वित्तीय समावेश और वित्तीय सुरक्षा",
+        "hEn": "Financial Inclusion and Financial Security through Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को वित्तीय समावेश और वित्तीय सुरक्षा प्राप्त करने का अवसर मिलता है।",
+          "वे अपने वित्तीय कार्यों को आसानी से और सुरक्षित रूप से प्रबंधित कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से वे अपने वित्तीय लक्ष्यों को प्राप्त करने के लिए आवश्यक योजना बना सकते हैं।"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can access financial inclusion and financial security.",
+          "They can manage their financial activities easily and securely.",
+          "Through digital banking, they can create a plan to achieve their financial goals."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से वित्तीय शिक्षा और वित्तीय समावेश",
+        "hEn": "Financial Education and Financial Inclusion through Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को वित्तीय शिक्षा और वित्तीय समावेश प्राप्त करने का अवसर मिलता है।",
+          "वे अपने वित्तीय कार्यों को आसानी से और सुरक्षित रूप से प्रबंधित कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से वे अपने वित्तीय लक्ष्यों को प्राप्त करने के लिए आवश्यक योजना बना सकते हैं।"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can access financial education and financial inclusion.",
+          "They can manage their financial activities easily and securely.",
+          "Through digital banking, they can create a plan to achieve their financial goals."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से वित्तीय सुरक्षा और वित्तीय समावेश",
+        "hEn": "Financial Security and Financial Inclusion through Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को वित्तीय सुरक्षा और वित्तीय समावेश प्राप्त करने का अवसर मिलता है।",
+          "वे अपने वित्तीय कार्यों को आसानी से और सुरक्षित रूप से प्रबंधित कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से वे अपने वित्तीय लक्ष्यों को प्राप्त करने के लिए आवश्यक योजना बना सकते हैं।"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can access financial security and financial inclusion.",
+          "They can manage their financial activities easily and securely.",
+          "Through digital banking, they can create a plan to achieve their financial goals."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से वित्तीय शिक्षा और वित्तीय सुरक्षा",
+        "hEn": "Financial Education and Financial Security through Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को वित्तीय शिक्षा और वित्तीय सुरक्षा प्राप्त करने का अवसर मिलता है।",
+          "वे अपने वित्तीय कार्यों को आसानी से और सुरक्षित रूप से प्रबंधित कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से वे अपने वित्तीय लक्ष्यों को प्राप्त करने के लिए आवश्यक योजना बना सकते हैं।"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can access financial education and financial security.",
+          "They can manage their financial activities easily and securely.",
+          "Through digital banking, they can create a plan to achieve their financial goals."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के माध्यम से वित्तीय समावेश और वित्तीय सुरक्षा",
+        "hEn": "Financial Inclusion and Financial Security through Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के माध्यम से निम्न आय वाले परिवारों को वित्तीय समावेश और वित्तीय सुरक्षा प्राप्त करने का अवसर मिलता है।",
+          "वे अपने वित्तीय कार्यों को आसानी से और सुरक्षित रूप से प्रबंधित कर सकते हैं।",
+          "डिजिटल बैंकिंग के माध्यम से वे अपने वित्तीय लक्ष्यों को प्राप्त करने के लिए आवश्यक योजना बना सकते हैं।"
+        ],
+        "pEn": [
+          "Through digital banking, low-income households can access financial inclusion and financial security.",
+          "They can manage their financial activities easily and securely.",
+          "Through digital banking, they can create a plan to achieve their financial goals."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग का मैकेनिज्म",
+        "hEn": "The Mechanism Behind Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग में कई प्रक्रियाएं शामिल होती हैं जो एक दूसरे से जुड़ी होती हैं। इनमें से प्रत्येक प्रक्रिया को समझना महत्वपूर्ण है ताकि हम समझ सकें कि डिजिटल बैंकिंग कैसे काम करता है।",
+          "डिजिटल बैंकिंग की प्रक्रिया शुरू होती है जब एक व्यक्ति अपना बैंक खाता खोलता है। इस प्रक्रिया में व्यक्ति को अपना पहचान प्रमाण, पता प्रमाण और अन्य आवश्यक दस्तावेज जमा करने होते हैं।"
+        ],
+        "pEn": [
+          "The mechanism behind digital banking involves several processes that are interconnected. Understanding each process is crucial to comprehend how digital banking works.",
+          "The process of digital banking begins when an individual opens a bank account. This process requires the individual to submit their identity proof, address proof, and other necessary documents."
+        ]
+      },
+      {
+        "hHi": "एक काम का उदाहरण",
+        "hEn": "A Worked Example",
+        "pHi": [
+          "उदाहरण के लिए, मान लें कि एक व्यक्ति अपना पहला बैंक खाता खोलना चाहता है। वह अपने नजदीकी बैंक के शाखा में जाता है और अपना खाता खोलने के लिए आवश्यक दस्तावेज जमा करता है।",
+          "इसके बाद, बैंक की प्रणाली में व्यक्ति के खाते को दर्ज किया जाता है और एक बैंक कार्ड और पिन जारी किया जाता है।"
+        ],
+        "pEn": [
+          "For instance, consider a person who wants to open their first bank account. They visit their nearest bank branch and submit the necessary documents to open their account.",
+          "The bank's system then records the person's account, and a bank card and PIN are issued."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग का फायदा और नुकसान",
+        "hEn": "The Benefits and Drawbacks of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के कई फायदे हैं, जिनमें से एक यह है कि यह व्यक्तियों को अपने खाते को ऑनलाइन देख सकते हैं और अपने पैसे का ट्रांसफर कर सकते हैं।",
+          "हालांकि, डिजिटल बैंकिंग के कुछ नुकसान भी हैं, जिनमें से एक यह है कि यह व्यक्तियों को अपने खाते की सुरक्षा के बारे में चिंतित करता है।"
+        ],
+        "pEn": [
+          "Digital banking has several benefits, one of which is that it allows individuals to view their account online and transfer their money.",
+          "However, digital banking also has some drawbacks, one of which is that it causes individuals to be concerned about the security of their account."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए उपयुक्त व्यक्ति",
+        "hEn": "The Right Person for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए उपयुक्त व्यक्ति वह होता है जो ऑनलाइन बैंकिंग के बारे में जानता है और अपने खाते की सुरक्षा के बारे में चिंतित नहीं होता है।",
+          "यह व्यक्ति अपने खाते को ऑनलाइन देख सकता है, अपने पैसे का ट्रांसफर कर सकता है और अपने खाते की सुरक्षा के बारे में जागरूक होता है।"
+        ],
+        "pEn": [
+          "The right person for digital banking is one who is aware of online banking and is not concerned about the security of their account.",
+          "This person can view their account online, transfer their money, and is aware of the security of their account."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए उपयुक्त उपकरण",
+        "hEn": "The Right Tools for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए उपयुक्त उपकरण वह होता है जो व्यक्ति को अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने में मदद करता है।",
+          "यह उपकरण व्यक्ति को अपने खाते की सुरक्षा के बारे में जागरूक करता है और उन्हें अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने के लिए प्रोत्साहित करता है।"
+        ],
+        "pEn": [
+          "The right tools for digital banking are those that help individuals view their account online and transfer their money.",
+          "This tool makes individuals aware of the security of their account and encourages them to view their account online and transfer their money."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए उपयुक्त स्थिति",
+        "hEn": "The Right Situation for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए उपयुक्त स्थिति वह होती है जब व्यक्ति ऑनलाइन बैंकिंग के बारे में जानता है और अपने खाते की सुरक्षा के बारे में चिंतित नहीं होता है।",
+          "यह स्थिति व्यक्ति को अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने के लिए प्रोत्साहित करती है।"
+        ],
+        "pEn": [
+          "The right situation for digital banking is when an individual is aware of online banking and is not concerned about the security of their account.",
+          "This situation encourages individuals to view their account online and transfer their money."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए उपयुक्त समय",
+        "hEn": "The Right Time for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए उपयुक्त समय वह होता है जब व्यक्ति ऑनलाइन बैंकिंग के बारे में जानता है और अपने खाते की सुरक्षा के बारे में चिंतित नहीं होता है।",
+          "यह समय व्यक्ति को अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने के लिए प्रोत्साहित करता है।"
+        ],
+        "pEn": [
+          "The right time for digital banking is when an individual is aware of online banking and is not concerned about the security of their account.",
+          "This time encourages individuals to view their account online and transfer their money."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए उपयुक्त वातावरण",
+        "hEn": "The Right Environment for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए उपयुक्त वातावरण वह होता है जो व्यक्ति को अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने में मदद करता है।",
+          "यह वातावरण व्यक्ति को अपने खाते की सुरक्षा के बारे में जागरूक करता है और उन्हें अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने के लिए प्रोत्साहित करता है।"
+        ],
+        "pEn": [
+          "The right environment for digital banking is one that helps individuals view their account online and transfer their money.",
+          "This environment makes individuals aware of the security of their account and encourages them to view their account online and transfer their money."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए उपयुक्त तकनीक",
+        "hEn": "The Right Technology for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए उपयुक्त तकनीक वह होती है जो व्यक्ति को अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने में मदद करती है।",
+          "यह तकनीक व्यक्ति को अपने खाते की सुरक्षा के बारे में जागरूक करती है और उन्हें अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने के लिए प्रोत्साहित करती है।"
+        ],
+        "pEn": [
+          "The right technology for digital banking is one that helps individuals view their account online and transfer their money.",
+          "This technology makes individuals aware of the security of their account and encourages them to view their account online and transfer their money."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए उपयुक्त संसाधन",
+        "hEn": "The Right Resources for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए उपयुक्त संसाधन वह होते हैं जो व्यक्ति को अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने में मदद करते हैं।",
+          "यह संसाधन व्यक्ति को अपने खाते की सुरक्षा के बारे में जागरूक करते हैं और उन्हें अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने के लिए प्रोत्साहित करते हैं।"
+        ],
+        "pEn": [
+          "The right resources for digital banking are those that help individuals view their account online and transfer their money.",
+          "These resources make individuals aware of the security of their account and encourage them to view their account online and transfer their money."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए उपयुक्त नीति",
+        "hEn": "The Right Policy for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए उपयुक्त नीति वह होती है जो व्यक्ति को अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने में मदद करती है।",
+          "यह नीति व्यक्ति को अपने खाते की सुरक्षा के बारे में जागरूक करती है और उन्हें अपने खाते को ऑनलाइन देखने और अपने पैसे का ट्रांसफर करने के लिए प्रोत्साहित करती है।"
+        ],
+        "pEn": [
+          "The right policy for digital banking is one that helps individuals view their account online and transfer their money.",
+          "This policy makes individuals aware of the security of their account and encourages them to view their account online and transfer their money."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग का मैकेनिज्म",
+        "hEn": "The Mechanism Behind Digital Banking Claims",
+        "pHi": [
+          "डिजिटल बैंकिंग के दावों के पीछे का मैकेनिज्म समझने के लिए, हमें यह समझना होगा कि डिजिटल बैंकिंग कैसे काम करता है। डिजिटल बैंकिंग में डेटा को संग्रहीत करने और प्रसंस्करण करने के लिए कंप्यूटर और सॉफ्टवेयर का उपयोग किया जाता है।"
+        ],
+        "pEn": [
+          "To understand the mechanism behind digital banking claims, we need to understand how digital banking works. Digital banking uses computer and software to store and process data."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग का काम करने का तरीका",
+        "hEn": "How Digital Banking Works",
+        "pHi": [
+          "डिजिटल बैंकिंग में डेटा को संग्रहीत करने और प्रसंस्करण करने के लिए कंप्यूटर और सॉफ्टवेयर का उपयोग किया जाता है। डेटा को संग्रहीत करने के लिए डेटाबेस का उपयोग किया जाता है, जो एक विशेष प्रकार का सॉफ्टवेयर है।"
+        ],
+        "pEn": [
+          "In digital banking, computer and software are used to store and process data. Databases are used to store data, which is a type of software."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के फायदे और नुकसान",
+        "hEn": "The Benefits and Drawbacks of Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के कई फायदे हैं, जैसे कि समय और पैसे बचाना, सुविधा और सुरक्षा। लेकिन इसके कुछ नुकसान भी हैं, जैसे कि डेटा सुरक्षा की चिंता और तकनीकी समस्याएं।"
+        ],
+        "pEn": [
+          "Digital banking has several benefits, such as saving time and money, convenience, and security. However, it also has some drawbacks, such as data security concerns and technical issues."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए सही व्यक्ति",
+        "hEn": "The Right Person for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए सही व्यक्ति वह है जो तकनीकी रूप से साक्षर है, जो डिजिटल बैंकिंग के फायदे और नुकसान को समझता है, और जो डेटा सुरक्षा की चिंता करता है।"
+        ],
+        "pEn": [
+          "The right person for digital banking is someone who is technically literate, understands the benefits and drawbacks of digital banking, and is concerned about data security."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए सही उपकरण",
+        "hEn": "The Right Tools for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए सही उपकरण वह है जो डेटा संग्रहीत करने और प्रसंस्करण करने के लिए उपयुक्त है, जैसे कि कंप्यूटर, सॉफ्टवेयर, और डेटाबेस।"
+        ],
+        "pEn": [
+          "The right tools for digital banking are those that are suitable for storing and processing data, such as computer, software, and database."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए सही स्थिति",
+        "hEn": "The Right Situation for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए सही स्थिति वह है जिसमें डेटा संग्रहीत करने और प्रसंस्करण करने के लिए पर्याप्त संसाधन उपलब्ध हों, जैसे कि अच्छी गति की इंटरनेट सुविधा और सुरक्षित डेटा संग्रहण स्थान।"
+        ],
+        "pEn": [
+          "The right situation for digital banking is one in which there are sufficient resources available for storing and processing data, such as good internet speed and secure data storage facilities."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए सही समय",
+        "hEn": "The Right Time for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए सही समय वह है जिसमें डेटा संग्रहीत करने और प्रसंस्करण करने के लिए पर्याप्त समय उपलब्ध हो, जैसे कि दिन के समय के दौरान जब इंटरनेट सुविधा अच्छी होती है।"
+        ],
+        "pEn": [
+          "The right time for digital banking is one in which there is sufficient time available for storing and processing data, such as during the day when internet speed is good."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए सही वातावरण",
+        "hEn": "The Right Environment for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए सही वातावरण वह है जिसमें डेटा संग्रहीत करने और प्रसंस्करण करने के लिए पर्याप्त सुरक्षा और सुविधा उपलब्ध हो, जैसे कि सुरक्षित डेटा संग्रहण स्थान और अच्छी गति की इंटरनेट सुविधा।"
+        ],
+        "pEn": [
+          "The right environment for digital banking is one in which there is sufficient security and convenience available for storing and processing data, such as secure data storage facilities and good internet speed."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए सही तकनीक",
+        "hEn": "The Right Technology for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए सही तकनीक वह है जो डेटा संग्रहीत करने और प्रसंस्करण करने के लिए उपयुक्त हो, जैसे कि कंप्यूटर, सॉफ्टवेयर, और डेटाबेस।"
+        ],
+        "pEn": [
+          "The right technology for digital banking is one that is suitable for storing and processing data, such as computer, software, and database."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए सही संसाधन",
+        "hEn": "The Right Resources for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए सही संसाधन वह है जो डेटा संग्रहीत करने और प्रसंस्करण करने के लिए पर्याप्त हो, जैसे कि अच्छी गति की इंटरनेट सुविधा, सुरक्षित डेटा संग्रहण स्थान, और पर्याप्त सॉफ्टवेयर और हार्डवेयर।"
+        ],
+        "pEn": [
+          "The right resources for digital banking are those that are sufficient for storing and processing data, such as good internet speed, secure data storage facilities, and sufficient software and hardware."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए सही नीति",
+        "hEn": "The Right Policy for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए सही नीति वह है जो डेटा संग्रहीत करने और प्रसंस्करण करने के लिए उपयुक्त हो, जैसे कि डेटा सुरक्षा नीति, गोपनीयता नीति, और सुरक्षा नीति।"
+        ],
+        "pEn": [
+          "The right policy for digital banking is one that is suitable for storing and processing data, such as data security policy, privacy policy, and security policy."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए क्या करना चाहिए",
+        "hEn": "What to Do on Monday Morning for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए क्या करना चाहिए, वह यह है कि डेटा संग्रहीत करने और प्रसंस्करण करने के लिए पर्याप्त समय और संसाधनों का इंतजार करना, और सुरक्षित डेटा संग्रहण स्थान और अच्छी गति की इंटरनेट सुविधा का उपयोग करना।"
+        ],
+        "pEn": [
+          "What to do on Monday morning for digital banking is to wait for sufficient time and resources to store and process data, and to use secure data storage facilities and good internet speed."
+        ]
+      },
+      {
+        "hHi": "डिजिटल बैंकिंग के लिए क्या नहीं करना चाहिए",
+        "hEn": "What Not to Do on Monday Morning for Digital Banking",
+        "pHi": [
+          "डिजिटल बैंकिंग के लिए क्या नहीं करना चाहिए, वह यह है कि डेटा संग्रहीत करने और प्रसंस्करण करने के लिए पर्याप्त समय और संसाधनों का इंतजार नहीं करना, और सुरक्षित डेटा संग्रहण स्थान और अच्छी गति की इंटरनेट सुविधा का उपयोग नहीं करना।"
+        ],
+        "pEn": [
+          "What not to do on Monday morning for digital banking is to not wait for sufficient time and resources to store and process data, and not to use secure data storage facilities and good internet speed."
+        ]
+      }
+    ]
   }
 ]
