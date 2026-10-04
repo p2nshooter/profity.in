@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Profity.in">
-  <defs>
-    <linearGradient id="g" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#1f7a4d"/>
-      <stop offset="1" stop-color="#34c77b"/>
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="14" fill="#07271a"/>
-  <!-- upward growth line -->
-  <polyline points="12,44 26,32 34,38 52,16" fill="none" stroke="url(#g)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <polyline points="44,16 52,16 52,24" fill="none" stroke="url(#g)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- rupee mark -->
-  <text x="14" y="26" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#f6d98a">₹</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path d="M32 3 59 30H45v31H19V30H5Z" fill="#ff8a1f" stroke="#c25400" stroke-width="2.5" stroke-linejoin="round"/><text x="32" y="53" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="24" fill="#fff">₹</text><rect x="19" y="30" width="26" height="4" fill="#138808"/></svg>
