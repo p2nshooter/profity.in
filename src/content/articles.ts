@@ -1,6 +1,5 @@
 import { ARTICLES_BATCH2 } from './articles-batch2';
 import { ARTICLES_BATCH3 } from './articles-batch3';
-import AUTO_ARTICLES from "./auto-articles.json";
 import { applyExpansions } from './expansions';
 /**
  * Profity.in — original bilingual personal-finance library for India.
@@ -839,8 +838,8 @@ export function getArticlesByCategory(cat: CatSlug): Article[] {
 ARTICLES.push(...ARTICLES_BATCH2);
 ARTICLES.push(...ARTICLES_BATCH3);
 
-// Autonomous content bot output (committed by the ulyah.com Orchestra).
-ARTICLES.push(...(AUTO_ARTICLES as unknown as Article[]));
+// Machine-written articles are no longer published here: hand-written only.
+// The 16 that were removed redirect to a hand-written guide or desk (next.config.js).
 
 // Hand-written additive expansions. Sections are only ever appended; no
 // existing article is edited, replaced or merged.
