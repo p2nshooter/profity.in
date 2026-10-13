@@ -1,5 +1,6 @@
 import { ARTICLES_BATCH2 } from './articles-batch2';
 import { ARTICLES_BATCH3 } from './articles-batch3';
+import { ARTICLES_BATCH4 } from './articles-batch4';
 import { applyExpansions } from './expansions';
 /**
  * Profity.in — original bilingual personal-finance library for India.
@@ -837,6 +838,9 @@ export function getArticlesByCategory(cat: CatSlug): Article[] {
 // Batch 2 merges into the same library; all lists sort by date.
 ARTICLES.push(...ARTICLES_BATCH2);
 ARTICLES.push(...ARTICLES_BATCH3);
+
+// Batch 4 — five new hand-written guides (13 Oct 2026).
+ARTICLES.push(...ARTICLES_BATCH4);
 
 // Machine-written articles are no longer published here: hand-written only.
 // The 16 that were removed redirect to a hand-written guide or desk (next.config.js).
