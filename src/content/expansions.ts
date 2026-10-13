@@ -6082,6 +6082,13 @@ export function applyExpansions(all: Article[]): void {
   for (const exp of EXPANSIONS) {
     const article = bySlug.get(exp.slug);
     if (!article) continue;
-    article.sections.push(...exp.sections);
+    // Added sections belong in the body: when the article closes with an
+    // "In short" / conclusion section (possibly followed by a last tip),
+    // insert before it rather than after the summary.
+    const close = article.sections.findIndex(
+      (sec, i) => i >= article.sections.length - 3 && /^(in short|conclusion|summary|to sum up|the bottom line)\b/i.test(sec.hEn.trim())
+    );
+    if (close >= 0) article.sections.splice(close, 0, ...exp.sections);
+    else article.sections.push(...exp.sections);
   }
 }
