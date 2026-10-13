@@ -6075,6 +6075,1522 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'sip-mutual-fund-guide',
+    sections: [
+      {
+        hHi: 'स्टेप-अप SIP: आय के साथ बढ़ती बचत',
+        hEn: 'The step-up SIP: savings that grow with income',
+        pHi: [
+          'ज़्यादातर लोग SIP शुरू करते समय जो राशि तय करते हैं, वही सालों तक चलती रहती है, जबकि उनकी आय बढ़ती जाती है। कई फ़ंड कंपनियाँ “स्टेप-अप” या “टॉप-अप” SIP की सुविधा देती हैं, जिसमें हर साल SIP की राशि एक तय प्रतिशत या तय रक़म से अपने आप बढ़ जाती है।',
+          'यह छोटा-सा बदलाव लंबी अवधि में बहुत बड़ा फ़र्क़ पैदा करता है, क्योंकि बढ़ी हुई राशि भी चक्रवृद्धि में जुड़ती जाती है। एक सरल नियम है: हर वेतन वृद्धि के साथ SIP भी बढ़ाइए, कम से कम वेतन वृद्धि के प्रतिशत जितना।',
+        ],
+        pEn: [
+          'Most people keep the SIP amount they chose at the start for years, even as their income rises. Many fund houses offer a “step-up” or “top-up” SIP, in which the instalment rises automatically each year by a set percentage or a set amount.',
+          'This small change makes a very large difference over the long run, because the increased amounts compound too. A simple rule: raise your SIP with every pay rise, at least by the same percentage as the raise.',
+        ],
+      },
+      {
+        hHi: 'बंद करने के बजाय “पॉज़”',
+        hEn: '“Pause” instead of stopping',
+        pHi: [
+          'कभी-कभी कुछ महीनों के लिए पैसे की तंगी आ जाती है: नौकरी बदलना, अस्पताल का ख़र्च या कोई बड़ा भुगतान। ऐसे में बहुत-से लोग SIP पूरी तरह बंद कर देते हैं और फिर दोबारा शुरू करना भूल जाते हैं। कई फ़ंड कंपनियाँ कुछ महीनों के लिए SIP “पॉज़” करने की सुविधा देती हैं, जिसके बाद वह अपने आप फिर शुरू हो जाती है।',
+          'अस्थायी परेशानी में यह रास्ता बेहतर है, क्योंकि आदत टूटती नहीं। फ़ोलियो में नामांकन और संपर्क विवरण भी हमेशा अद्यतन रखिए, ताकि किसी अनहोनी में परिवार को पैसा पाने में परेशानी न हो।',
+        ],
+        pEn: [
+          'Sometimes money is tight for a few months: a change of job, a hospital bill or a large payment. Many people then stop the SIP altogether and forget to restart it. Many fund houses offer a facility to “pause” a SIP for a few months, after which it resumes automatically.',
+          'For a temporary difficulty this route is better, because the habit is not broken. Keep the nomination and contact details in your folio up to date as well, so that the family faces no difficulty claiming the money if something happens.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'ppf-account-complete-guide',
+    sections: [
+      {
+        hHi: 'संपत्ति-विभाजन में PPF की जगह',
+        hEn: 'Where PPF sits in an asset allocation',
+        pHi: [
+          'PPF को एक अकेले उत्पाद की तरह नहीं, बल्कि पूरी योजना के “सुरक्षित हिस्से” की तरह देखना उपयोगी है। जिन लोगों का कुछ पैसा इक्विटी म्यूचुअल फ़ंड में है, उनके लिए PPF लंबी अवधि का स्थिर, कर-मुक्त संतुलन है, जो बाज़ार गिरने पर भी नहीं डगमगाता। इक्विटी और PPF का अनुपात उम्र, आय और जोखिम सहने की क्षमता से तय होता है।',
+          'इस नज़र से देखने का एक फ़ायदा है: बाज़ार के बुरे साल में जब इक्विटी हिस्सा गिरता है, तो PPF के कारण कुल पोर्टफ़ोलियो का झटका कम होता है, और निवेशक घबराकर ग़लत फ़ैसले लेने से बचता है।',
+        ],
+        pEn: [
+          'It helps to see PPF not as a standalone product but as the “safe portion” of a whole plan. For people who hold some money in equity mutual funds, PPF provides a stable, tax-free long-term balance that does not waver when the market falls. The split between equity and PPF is set by age, income and tolerance for risk.',
+          'Seeing it this way has a benefit: in a bad year for the market, when the equity portion falls, PPF softens the blow to the whole portfolio, and the investor is less likely to make panicky decisions.',
+        ],
+      },
+      {
+        hHi: 'ऑनलाइन जमा और विवरण पर नज़र',
+        hEn: 'Depositing online and checking the statement',
+        pHi: [
+          'अगर PPF खाता बैंक में है, तो ज़्यादातर बैंक नेट बैंकिंग या ऐप से जमा करने और खाते का विवरण देखने की सुविधा देते हैं; डाकघर खातों के लिए भी डाक विभाग की ऑनलाइन सेवाएँ उपलब्ध हैं। ऑनलाइन जमा से अप्रैल की शुरुआत में या महीने की पाँच तारीख़ से पहले जमा करना आसान हो जाता है।',
+          'साल में एक बार खाते का विवरण ज़रूर देखिए: जमा राशियाँ सही दर्ज हैं या नहीं, ब्याज जुड़ा या नहीं, और नामांकन सही है या नहीं। ग़लती दिखे, तो तुरंत शाखा को लिखित में बताइए; बरसों बाद सुधार कराना कहीं कठिन होता है।',
+        ],
+        pEn: [
+          'If your PPF account is with a bank, most banks let you deposit and view the statement through net banking or the app; the postal department also offers online services for post office accounts. Online deposits make it easy to pay at the start of April or before the fifth of the month.',
+          'Check the statement once a year: whether the deposits are recorded correctly, whether interest has been credited, and whether the nomination is right. If you spot an error, tell the branch in writing at once; correcting it years later is far harder.',
+        ],
+      },
+      {
+        hHi: 'नामांकन: पाँच मिनट का काम',
+        hEn: 'Nomination: a five-minute task',
+        pHi: [
+          'PPF खाते में नामांकन दर्ज कराना पाँच मिनट का काम है, पर इसकी अनदेखी परिवार को महीनों की काग़ज़ी कार्रवाई में डाल सकती है। खाता पुराना है और नामांकन नहीं है, तो आज ही शाखा या ऑनलाइन सेवा से जोड़िए।',
+        ],
+        pEn: [
+          'Registering a nomination on a PPF account takes five minutes, but neglecting it can drag a family through months of paperwork. If your account is old and has no nomination, add one today at the branch or through the online service.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'emergency-fund-kaise-banaye',
+    sections: [
+      {
+        hHi: 'जीवन बदले, तो कोष भी बदले',
+        hEn: 'When life changes, the fund should too',
+        pHi: [
+          'आपात कोष एक बार बनाकर भूल जाने वाली चीज़ नहीं। शादी, बच्चे का जन्म, नया घर लेकर EMI शुरू होना, नौकरी बदलना या माता-पिता की ज़िम्मेदारी बढ़ना, ये सब हर महीने के ज़रूरी ख़र्च को बदल देते हैं। ऐसे हर बदलाव के बाद अपने मासिक ख़र्च का नया हिसाब लगाइए और देखिए कि कोष अब भी उतने महीनों के लिए पर्याप्त है या नहीं।',
+          'एक आसान आदत है साल में एक बार, जैसे अपने जन्मदिन पर, कोष की समीक्षा करना। जो काम हर साल एक ही दिन होता है, वह भूलता नहीं।',
+        ],
+        pEn: [
+          'An emergency fund is not something to build once and forget. Marriage, the birth of a child, a new home with an EMI, a change of job or growing responsibility for parents all change the essential monthly outgoings. After each such change, recalculate your monthly expenses and see whether the fund still covers the same number of months.',
+          'An easy habit is to review the fund once a year, say on your birthday. A task done on the same day every year is not forgotten.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'credit-score-improve-guide',
+    sections: [
+      {
+        hHi: 'चार ब्यूरो, और हर साल मुफ़्त रिपोर्ट',
+        hEn: 'Four bureaus, and a free report every year',
+        pHi: [
+          'भारत में चार क्रेडिट सूचना कंपनियाँ हैं: TransUnion CIBIL, Equifax, Experian और CRIF High Mark। हर एक के पास आपकी क्रेडिट जानकारी अलग-अलग हो सकती है, इसलिए उनके स्कोर भी थोड़े अलग हो सकते हैं। रिज़र्व बैंक के निर्देशों के अनुसार हर कंपनी साल में एक बार आपकी पूरी क्रेडिट रिपोर्ट मुफ़्त देती है।',
+          'इस सुविधा का इस्तेमाल कीजिए: साल में चार बार, हर तीन महीने में एक ब्यूरो की रिपोर्ट लेकर आप पूरे साल अपनी रिपोर्ट पर नज़र रख सकते हैं। अपनी रिपोर्ट ख़ुद देखना “सॉफ़्ट इन्क्वायरी” है, जिससे स्कोर पर कोई असर नहीं पड़ता। स्कोर पर असर तब पड़ता है जब कोई ऋणदाता लोन या कार्ड के आवेदन पर आपकी रिपोर्ट देखता है, और कम समय में ऐसी बहुत सी जाँचें स्कोर को नुक़सान पहुँचा सकती हैं।',
+        ],
+        pEn: [
+          'India has four credit information companies: TransUnion CIBIL, Equifax, Experian and CRIF High Mark. Each may hold slightly different information about you, so their scores can differ a little too. Under the Reserve Bank’s directions, each company provides your full credit report free once a year.',
+          'Use the facility: by taking one bureau’s report every three months, four times a year, you can watch your report all year round. Checking your own report is a “soft inquiry”, which does not affect the score. The score is affected when a lender pulls your report on a loan or card application, and many such checks in a short time can hurt it.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'term-insurance-guide',
+    sections: [
+      {
+        hHi: 'सच बताइए: धारा 45 और दावा',
+        hEn: 'Tell the truth: Section 45 and the claim',
+        pHi: [
+          'टर्म बीमा के दावे अस्वीकार होने का एक बड़ा कारण प्रस्ताव फ़ॉर्म में बीमारी, धूम्रपान, शराब या पहले से ली गई पॉलिसियों के बारे में जानकारी छिपाना है। बीमा अधिनियम की धारा 45 के अनुसार पॉलिसी शुरू होने के तीन साल बाद बीमा कंपनी किसी भी आधार पर उस पर सवाल नहीं उठा सकती। लेकिन पहले तीन साल में ग़लत या छिपाई गई जानकारी दावे को ख़ारिज करा सकती है।',
+          'इसलिए फ़ॉर्म ख़ुद भरिए या हर उत्तर ख़ुद पढ़कर जाँचिए, एजेंट के भरोसे मत छोड़िए। ज़्यादा प्रीमियम सच बताने की क़ीमत है, और यह क़ीमत उस दिन बहुत छोटी लगती है जिस दिन परिवार को दावे की ज़रूरत पड़ती है।',
+        ],
+        pEn: [
+          'A major reason term insurance claims are rejected is concealment, in the proposal form, of illnesses, smoking, alcohol or existing policies. Under Section 45 of the Insurance Act, an insurer cannot question a policy on any ground once three years have passed from its start. But in the first three years, wrong or concealed information can get a claim rejected.',
+          'So fill in the form yourself, or read and check every answer yourself; do not leave it to the agent. A higher premium is the price of honesty, and that price looks very small on the day the family needs the claim.',
+        ],
+      },
+      {
+        hHi: 'MWP अधिनियम के तहत पॉलिसी',
+        hEn: 'A policy under the MWP Act',
+        pHi: [
+          'विवाहित पुरुष अपनी टर्म पॉलिसी “विवाहित महिला संपत्ति अधिनियम” (MWPA) के तहत ले सकते हैं, जिसमें लाभार्थी पत्नी और/या बच्चे होते हैं। ऐसी पॉलिसी की राशि सीधे उन्हीं को मिलती है, और उस पर बीमित व्यक्ति के क़र्ज़दाताओं या दूसरे दावेदारों का अधिकार नहीं बनता। जिनके पास व्यापार या बड़े लोन हैं, उनके लिए यह परिवार की सुरक्षा का एक उपयोगी तरीक़ा है। यह विकल्प पॉलिसी लेते समय ही चुनना होता है, बाद में नहीं।',
+        ],
+        pEn: [
+          'Married men can take their term policy under the Married Women’s Property Act (MWPA), naming the wife and/or children as beneficiaries. The proceeds of such a policy go directly to them, and the insured’s creditors or other claimants gain no right over it. For people with a business or large loans, it is a useful way to protect the family. The option must be chosen when the policy is taken, not later.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sip-mutual-fund-guide',
+    sections: [
+      {
+        hHi: 'रोज़ का NAV नहीं, लक्ष्य देखिए',
+        hEn: 'Watch the goal, not the daily NAV',
+        pHi: [
+          'SIP शुरू करने के बाद ऐप पर रोज़ NAV देखना चिंता बढ़ाता है और कुछ नहीं देता। साल में एक-दो बार यह देखिए कि आप अपने लक्ष्य की ओर सही गति से बढ़ रहे हैं या नहीं, और ज़रूरत हो तो राशि बदलिए। बाक़ी समय SIP को अपना काम करने दीजिए।',
+        ],
+        pEn: [
+          'Checking the NAV in the app every day after starting a SIP adds anxiety and nothing else. Once or twice a year, check whether you are moving towards your goal at the right pace, and change the amount if needed. The rest of the time, let the SIP do its work.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'credit-score-improve-guide',
+    sections: [
+      {
+        hHi: 'स्टेटमेंट की तारीख़ से पहले भुगतान',
+        hEn: 'Paying before the statement date',
+        pHi: [
+          'कार्ड कंपनियाँ आम तौर पर स्टेटमेंट बनने के दिन का बकाया ब्यूरो को भेजती हैं। अगर किसी महीने ख़र्च ज़्यादा हुआ है, तो स्टेटमेंट की तारीख़ से पहले उसका कुछ हिस्सा चुका देने से रिपोर्ट में दिखने वाला उपयोग-अनुपात कम रहता है, और स्कोर पर उसका दबाव घटता है।',
+        ],
+        pEn: [
+          'Card companies usually report the balance on the day the statement is generated. If spending has been high in a given month, paying part of it before the statement date keeps the utilisation shown in the report lower, easing the pressure on your score.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'old-vs-new-tax-regime',
+    sections: [
+      {
+        hHi: 'पति-पत्नी अलग-अलग चुन सकते हैं',
+        hEn: 'Spouses can choose differently',
+        pHi: [
+          'कर व्यवस्था का चुनाव हर करदाता अपने लिए अलग करता है, परिवार के लिए नहीं। इसलिए एक ही घर में पति एक व्यवस्था और पत्नी दूसरी चुन सकते हैं। जिसके नाम पर होम लोन, बड़ा किराया या बीमा प्रीमियम जैसी कटौतियाँ हैं, उसके लिए पुरानी व्यवस्था बेहतर हो सकती है, जबकि कम कटौतियों वाले जीवनसाथी के लिए नई।',
+          'इसलिए परिवार की योजना बनाते समय दोनों की गणना अलग-अलग कीजिए। कई बार यह भी देखने लायक़ है कि कोई कटौती वाला ख़र्च, जैसे स्वास्थ्य बीमा का प्रीमियम, किसके खाते से चुकाया जाए ताकि उसका पूरा लाभ मिल सके।',
+        ],
+        pEn: [
+          'Each taxpayer chooses a regime individually, not for the family. So in one household the husband can choose one regime and the wife the other. The spouse with deductions such as a home loan, high rent or insurance premiums may be better off in the old regime, while the one with few deductions may prefer the new.',
+          'So when planning as a family, calculate for each person separately. It is also worth considering which of you should pay a deductible expense, such as a health insurance premium, so that its full benefit is used.',
+        ],
+      },
+      {
+        hHi: 'एक आम भ्रम: “नई व्यवस्था में कोई छूट नहीं”',
+        hEn: 'A common myth: “the new regime allows nothing”',
+        pHi: [
+          'बहुत-से लोग मानते हैं कि नई कर व्यवस्था में कोई भी कटौती नहीं मिलती। यह पूरी तरह सच नहीं है। वेतनभोगियों के लिए मानक कटौती नई व्यवस्था में भी है, और नियोक्ता द्वारा कर्मचारी के NPS खाते में किए गए योगदान पर मिलने वाली कटौती भी इसमें उपलब्ध है। कुछ दूसरी छूटें भी नियमों के अनुसार मिलती हैं।',
+          'इसलिए तुलना करते समय नई व्यवस्था को “शून्य कटौती” मानकर मत चलिए; दोनों व्यवस्थाओं में मिलने वाली वास्तविक कटौतियों की सूची बनाइए। ये नियम बजट के साथ बदलते रहते हैं, इसलिए हर साल नवीनतम नियम आयकर विभाग की वेबसाइट पर देखिए।',
+        ],
+        pEn: [
+          'Many people believe the new tax regime allows no deductions at all. That is not entirely true. The standard deduction for salaried employees exists in the new regime too, and the deduction for an employer’s contribution to the employee’s NPS account is also available. Some other exemptions apply as per the rules.',
+          'So do not treat the new regime as “zero deductions” when comparing; list the deductions actually available under each. These rules change with budgets, so check the latest on the Income Tax Department’s website every year.',
+        ],
+      },
+      {
+        hHi: 'जीवन बदले, तो हिसाब दोबारा',
+        hEn: 'When life changes, recalculate',
+        pHi: [
+          'जो व्यवस्था पिछले साल सही थी, वह इस साल भी सही हो, यह ज़रूरी नहीं। होम लोन चुक जाना, बच्चों की स्कूल फ़ीस बंद होना, किराये के घर से अपने घर में जाना, या वेतन में बड़ी वृद्धि, ये सब गणना बदल देते हैं। ऐसे किसी भी बदलाव वाले साल में तुलना दोबारा कीजिए।',
+        ],
+        pEn: [
+          'The regime that suited you last year need not suit you this year. Paying off a home loan, the end of children’s school fees, moving from a rented home to your own, or a large rise in salary all change the arithmetic. In any year with such a change, redo the comparison.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'upi-fraud-se-bachav',
+    sections: [
+      {
+        hHi: 'नक़ली भुगतान का स्क्रीनशॉट',
+        hEn: 'The fake payment screenshot',
+        pHi: [
+          'दुकानदारों और ऑनलाइन बेचने वालों के साथ एक आम चाल है: ग्राहक “भुगतान हो गया” का स्क्रीनशॉट दिखाता है, जो असल में बनाया या संपादित किया गया होता है, और सामान लेकर चला जाता है। कभी-कभी “पेमेंट पेंडिंग है, थोड़ी देर में आ जाएगा” कहा जाता है।',
+          'बचाव सरल है: भुगतान की पुष्टि हमेशा अपने बैंक ऐप, UPI ऐप के लेन-देन इतिहास या साउंडबॉक्स की आवाज़ से कीजिए, ग्राहक के फ़ोन की स्क्रीन से नहीं। जब तक पैसा आपके खाते में दिख न जाए, सामान मत सौंपिए। यह नियम परिवार के उन सदस्यों को भी समझाइए जो दुकान या काउंटर सँभालते हैं।',
+        ],
+        pEn: [
+          'A common trick on shopkeepers and online sellers: the customer shows a “payment done” screenshot that is actually fabricated or edited, and leaves with the goods. Sometimes the line is “the payment is pending, it will arrive shortly”.',
+          'The defence is simple: always confirm payment through your own bank app, your UPI app’s transaction history or the soundbox announcement, never from the customer’s phone screen. Do not hand over goods until the money shows in your account. Explain this rule to family members who mind the shop or counter as well.',
+        ],
+      },
+      {
+        hHi: 'सिम स्वैप: अचानक नेटवर्क ग़ायब',
+        hEn: 'SIM swap: the network suddenly vanishes',
+        pHi: [
+          'कुछ ठग किसी व्यक्ति के नाम पर नक़ली दस्तावेज़ों से उसका डुप्लीकेट सिम निकलवा लेते हैं। जैसे ही नया सिम चालू होता है, असली फ़ोन से नेटवर्क चला जाता है, और बैंक के OTP ठग के पास पहुँचने लगते हैं। इसलिए अगर बिना किसी कारण आपके फ़ोन से अचानक नेटवर्क ग़ायब हो जाए और देर तक न लौटे, तो इसे हल्के में मत लीजिए।',
+          'तुरंत अपनी टेलीकॉम कंपनी से संपर्क कीजिए और पूछिए कि क्या आपके नंबर पर सिम बदलने का कोई अनुरोध हुआ है, और ज़रूरत हो तो बैंक को सूचित करके नेट बैंकिंग और कार्ड अस्थायी रूप से रुकवाइए। अपने ईमेल पर भी बैंक के अलर्ट चालू रखिए, ताकि फ़ोन बंद होने पर भी लेन-देन की सूचना मिले।',
+        ],
+        pEn: [
+          'Some fraudsters use forged documents to obtain a duplicate SIM in a person’s name. As soon as the new SIM is activated, the genuine phone loses its network, and bank OTPs start reaching the fraudster. So if your phone suddenly loses its network for no reason and it does not return for a long time, do not take it lightly.',
+          'Contact your telecom operator at once and ask whether a SIM change has been requested on your number, and if necessary inform your bank and have net banking and cards temporarily blocked. Keep bank alerts switched on for your email too, so that you are informed of transactions even when the phone is out.',
+        ],
+      },
+      {
+        hHi: '“टास्क” वाली ठगी',
+        hEn: 'The “task” scam',
+        pHi: [
+          'सोशल मीडिया या मैसेजिंग ऐप पर संदेश आता है: “घर बैठे कमाइए, बस वीडियो लाइक कीजिए या होटल की समीक्षा लिखिए”। शुरू में कुछ छोटे काम करवाकर सचमुच कुछ सौ रुपये भेजे जाते हैं, ताकि भरोसा बने। फिर कहा जाता है कि बड़ी कमाई वाले “प्रीमियम टास्क” के लिए पहले पैसे जमा करने होंगे। जमा किया पैसा कभी वापस नहीं आता।',
+          'नियम एक ही है: जो काम आपको कमाई देने के नाम पर पहले पैसे माँगे, वह काम नहीं, ठगी है। ऐसे समूहों से तुरंत बाहर निकलिए और दूसरों को भी चेताइए।',
+        ],
+        pEn: [
+          'A message arrives on social media or a messaging app: “Earn from home, just like videos or write hotel reviews”. At first a few small tasks are set and a few hundred rupees really are paid, to build trust. Then you are told that “premium tasks” with bigger earnings require a deposit first. The money deposited never comes back.',
+          'The rule is single and simple: work that asks you to pay first in the name of earning is not work but fraud. Leave such groups at once and warn others too.',
+        ],
+      },
+      {
+        hHi: 'संदिग्ध कॉल और संदेश की शिकायत',
+        hEn: 'Reporting suspicious calls and messages',
+        pHi: [
+          'धोखाधड़ी हो जाए तो हेल्पलाइन 1930 और cybercrime.gov.in पर शिकायत कीजिए। लेकिन अगर अभी केवल संदिग्ध कॉल, संदेश या लिंक आया है, तो दूरसंचार विभाग के “संचार साथी” पोर्टल पर “चक्षु” सुविधा से उसकी सूचना दी जा सकती है। आपकी एक सूचना ऐसे नंबरों को बंद करवाने में मदद करती है, जो शायद अगले दिन किसी और को निशाना बनाते।',
+        ],
+        pEn: [
+          'If fraud has happened, complain on the helpline 1930 and at cybercrime.gov.in. But if so far only a suspicious call, message or link has arrived, you can report it through the “Chakshu” facility on the Department of Telecommunications’ Sanchar Saathi portal. Your one report helps shut down numbers that might have targeted someone else the next day.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'gold-investment-options-india',
+    sections: [
+      {
+        hHi: 'हॉलमार्क और HUID: गहने की शुद्धता का प्रमाण',
+        hEn: 'Hallmark and HUID: proof of a jewel’s purity',
+        pHi: [
+          'भारत में सोने के गहनों पर भारतीय मानक ब्यूरो (BIS) का हॉलमार्क अनिवार्य है, और हर हॉलमार्क वाले गहने पर छह अंकों और अक्षरों वाला एक विशिष्ट पहचान कोड, HUID, होता है। गहना ख़रीदते समय यह कोड देखिए और बिल पर लिखवाइए। BIS के मोबाइल ऐप से इस कोड की जाँच करके गहने की शुद्धता और हॉलमार्क केंद्र का विवरण देखा जा सकता है।',
+          'बिल में सोने का वज़न, शुद्धता (जैसे 22 कैरेट), उस दिन का भाव, बनाने का शुल्क और कर अलग-अलग लिखवाइए। यह बिल बाद में गहना बेचने या बदलने पर आपकी सबसे बड़ी सुरक्षा है।',
+        ],
+        pEn: [
+          'In India the Bureau of Indian Standards (BIS) hallmark is mandatory on gold jewellery, and every hallmarked piece carries a unique six-character identification code, the HUID. When buying jewellery, look for this code and have it written on the bill. Checking the code in the BIS mobile app shows the purity and the details of the hallmarking centre.',
+          'Have the bill list the gold weight, purity (such as 22 carat), the day’s rate, the making charge and the tax separately. That bill is your greatest protection when you later sell or exchange the piece.',
+        ],
+      },
+      {
+        hHi: 'SGB: नई किश्तों की स्थिति जाँचिए',
+        hEn: 'SGBs: check whether new tranches are being issued',
+        pHi: [
+          'सॉवरेन गोल्ड बॉन्ड नई किश्तों में तभी ख़रीदे जा सकते हैं जब सरकार उन्हें जारी करे, और हाल के समय में नई किश्तें नियमित रूप से नहीं आई हैं। पहले जारी हुए बॉन्ड शेयर बाज़ार में ख़रीदे-बेचे जा सकते हैं, पर वहाँ उनका भाव माँग और आपूर्ति से तय होता है और तरलता कम हो सकती है। इसलिए SGB की योजना बनाने से पहले रिज़र्व बैंक की वेबसाइट पर देखिए कि नई किश्त उपलब्ध है या नहीं।',
+        ],
+        pEn: [
+          'Sovereign Gold Bonds can be bought in new tranches only when the government issues them, and in recent times new tranches have not appeared regularly. Previously issued bonds can be bought and sold on the stock exchange, but there their price is set by supply and demand, and liquidity can be thin. So before planning around SGBs, check the Reserve Bank’s website for whether a new tranche is available.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'health-insurance-family-guide',
+    sections: [
+      {
+        hHi: 'पोर्टेबिलिटी: कंपनी बदलें, प्रतीक्षा-अवधि नहीं',
+        hEn: 'Portability: change the insurer, keep the waiting credit',
+        pHi: [
+          'अगर आपकी बीमा कंपनी की सेवा या दावे का अनुभव ख़राब है, तो आप पॉलिसी दूसरी कंपनी में “पोर्ट” कर सकते हैं। बीमा नियामक IRDAI के नियमों के अनुसार पोर्ट करते समय पहले से पूरी की गई प्रतीक्षा-अवधियों का लाभ, जैसे पहले से मौजूद बीमारियों की प्रतीक्षा, नई पॉलिसी में भी मिलता है, कम से कम पुरानी बीमा राशि तक।',
+          'पोर्ट करने का आवेदन नवीनीकरण की तारीख़ से पर्याप्त पहले देना होता है, और नई कंपनी अपनी शर्तों पर प्रस्ताव का मूल्यांकन करती है। पुरानी पॉलिसी तब तक बंद मत कीजिए जब तक नई कंपनी लिखित में स्वीकृति न दे दे।',
+        ],
+        pEn: [
+          'If your insurer’s service or claims experience is poor, you can “port” the policy to another insurer. Under the rules of IRDAI, the insurance regulator, the credit for waiting periods already served, such as the wait for pre-existing conditions, carries over to the new policy, at least up to the old sum insured.',
+          'The porting application has to be made well before the renewal date, and the new insurer assesses the proposal on its own terms. Do not let the old policy lapse until the new insurer has accepted in writing.',
+        ],
+      },
+      {
+        hHi: 'मोरेटोरियम: लगातार बीमा का इनाम',
+        hEn: 'The moratorium: the reward for continuous cover',
+        pHi: [
+          'नियमों के अनुसार, एक तय संख्या में वर्षों तक लगातार स्वास्थ्य बीमा बने रहने के बाद, जिसे मोरेटोरियम अवधि कहा जाता है, बीमा कंपनी जानकारी न बताने के आधार पर दावे पर सवाल नहीं उठा सकती, धोखाधड़ी के सिद्ध मामलों को छोड़कर। यह नियम लगातार बीमा बनाए रखने का बड़ा कारण है: पॉलिसी को टूटने मत दीजिए, और नवीनीकरण की तारीख़ से पहले प्रीमियम चुका दीजिए।',
+          'शिकायत हो, तो पहले बीमा कंपनी के शिकायत अधिकारी से, फिर IRDAI के “बीमा भरोसा” पोर्टल या बीमा लोकपाल से संपर्क कीजिए।',
+        ],
+        pEn: [
+          'Under the rules, once health cover has run continuously for a set number of years, known as the moratorium period, the insurer cannot contest a claim on the ground of non-disclosure, except in proven cases of fraud. The rule is a strong reason to keep cover continuous: never let the policy break, and pay the premium before the renewal date.',
+          'If you have a complaint, approach the insurer’s grievance officer first, then IRDAI’s “Bima Bharosa” portal or the Insurance Ombudsman.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'fd-vs-debt-funds',
+    sections: [
+      {
+        hHi: 'स्मॉल फ़ाइनेंस बैंक और कंपनी FD',
+        hEn: 'Small finance banks and company FDs',
+        pHi: [
+          'स्मॉल फ़ाइनेंस बैंक अक्सर बड़े बैंकों से कुछ ज़्यादा FD ब्याज देते हैं। ये रिज़र्व बैंक से लाइसेंस प्राप्त बैंक हैं, और इनकी जमा पर भी DICGC का प्रति व्यक्ति, प्रति बैंक ₹5 लाख तक का बीमा लागू होता है। इसलिए इस सीमा के भीतर इनमें FD रखना कई लोगों के लिए उचित है, बशर्ते राशि कई बैंकों में बँटी हो।',
+          'कंपनी FD, यानी ग़ैर-बैंकिंग वित्तीय कंपनियों या दूसरी कंपनियों की जमा योजनाएँ, अलग श्रेणी हैं। उन पर DICGC बीमा नहीं होता, और उनकी सुरक्षा कंपनी की वित्तीय हालत पर निर्भर है। ऊँचे ब्याज के लालच में इनमें बड़ी राशि लगाने से पहले उनकी क्रेडिट रेटिंग देखिए, और कभी भी ऐसी कंपनी में पैसा मत लगाइए जिसकी रेटिंग या पंजीकरण की जानकारी न मिले।',
+        ],
+        pEn: [
+          'Small finance banks often pay slightly higher FD interest than large banks. They are banks licensed by the Reserve Bank, and deposits with them are also covered by DICGC insurance up to ₹5 lakh per depositor per bank. So keeping FDs with them within that limit is reasonable for many people, provided the money is spread across several banks.',
+          'Company FDs, the deposit schemes of non-banking financial companies or other companies, are a different category. They carry no DICGC insurance, and their safety depends on the company’s financial health. Before putting a large sum into them for a higher rate, look at their credit rating, and never put money into a company whose rating or registration you cannot find.',
+        ],
+      },
+      {
+        hHi: 'डेट फ़ंड का कर: नियम बदले हैं',
+        hEn: 'Debt fund tax: the rules have changed',
+        pHi: [
+          '2023 के बाद ख़रीदी गई कई डेट फ़ंड इकाइयों पर लंबी अवधि के कर-लाभ हटा दिए गए, और उनसे होने वाला लाभ निवेशक की कर-श्रेणी के अनुसार कर-योग्य हो गया। इससे FD और डेट फ़ंड के बीच कर का अंतर पहले से काफ़ी कम हो गया है। पुराने लेख या सलाह जो डेट फ़ंड को “कर-बचत” के कारण FD से बेहतर बताते हैं, आज की स्थिति में लागू नहीं हो सकते।',
+          'इसलिए आज दोनों के बीच चुनाव का आधार मुख्य रूप से तरलता, जोखिम और सुविधा है, कर कम। नियम आगे भी बदल सकते हैं, इसलिए कोई बड़ा फ़ैसला करने से पहले नवीनतम कर नियम ज़रूर जाँचिए।',
+        ],
+        pEn: [
+          'For many debt fund units bought after 2023, the long-term tax benefits were withdrawn, and gains from them became taxable at the investor’s slab rate. That has narrowed the tax difference between FDs and debt funds considerably. Older articles or advice calling debt funds better than FDs “for tax saving” may not apply today.',
+          'So today the choice between the two rests mainly on liquidity, risk and convenience, and less on tax. Rules may change again, so check the latest tax rules before any large decision.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'nps-retirement-guide',
+    sections: [
+      {
+        hHi: 'कर के दो अलग दरवाज़े',
+        hEn: 'Two separate tax doors',
+        pHi: [
+          'NPS में कर-लाभ दो रास्तों से आता है। पहला, अपने योगदान पर: पुरानी कर व्यवस्था में धारा 80C की सीमा के अलावा धारा 80CCD(1B) के तहत ₹50,000 तक की अतिरिक्त कटौती मिलती है, जो इसे कई लोगों के लिए आकर्षक बनाती है। दूसरा, नियोक्ता के योगदान पर: धारा 80CCD(2) के तहत नियोक्ता द्वारा कर्मचारी के NPS में डाला गया योगदान तय सीमा तक कटौती योग्य है, और यह लाभ नई कर व्यवस्था में भी उपलब्ध है।',
+          'इसलिए जो लोग नई व्यवस्था चुनते हैं, उनके लिए भी नियोक्ता के ज़रिए NPS योगदान एक उपयोगी रास्ता हो सकता है। अपने HR विभाग से पूछिए कि क्या वेतन ढाँचे में यह विकल्प है। सीमाएँ और नियम बजट के साथ बदलते हैं, इसलिए हर साल ताज़ा नियम देखिए।',
+        ],
+        pEn: [
+          'NPS tax benefits come through two routes. First, on your own contribution: under the old tax regime there is an additional deduction of up to ₹50,000 under Section 80CCD(1B), over and above the Section 80C limit, which makes it attractive for many people. Second, on the employer’s contribution: under Section 80CCD(2), the employer’s contribution to the employee’s NPS is deductible up to a set limit, and this benefit is available under the new regime as well.',
+          'So even for those who choose the new regime, NPS contributions through the employer can be a useful route. Ask your HR department whether the salary structure offers the option. Limits and rules change with budgets, so check the current rules each year.',
+        ],
+      },
+      {
+        hHi: 'बीच में आंशिक निकासी',
+        hEn: 'Partial withdrawal along the way',
+        pHi: [
+          'NPS लंबी अवधि के लिए है, पर नियम कुछ ख़ास ज़रूरतों के लिए आंशिक निकासी की अनुमति देते हैं, जैसे बच्चों की उच्च शिक्षा या विवाह, पहला घर ख़रीदना या बनवाना, और गंभीर बीमारी का इलाज। इसके लिए खाता कुछ वर्ष पुराना होना चाहिए, निकासी अपने योगदान के एक हिस्से तक सीमित है, और पूरी अवधि में सीमित बार ही की जा सकती है।',
+          'यह सुविधा आपात कोष का विकल्प नहीं है; यह उन बड़ी, पहले से दिखने वाली ज़रूरतों के लिए एक सुरक्षा-वाल्व है। इसका इस्तेमाल सोच-समझकर कीजिए, क्योंकि हर निकासी सेवानिवृत्ति की राशि को कम करती है।',
+        ],
+        pEn: [
+          'NPS is meant for the long term, but the rules allow partial withdrawals for certain needs, such as children’s higher education or marriage, buying or building a first home, and treatment of serious illness. The account must be a few years old, the withdrawal is limited to a portion of your own contributions, and it can be made only a limited number of times over the whole term.',
+          'The facility is not a substitute for an emergency fund; it is a safety valve for large, foreseeable needs. Use it with care, because every withdrawal reduces the retirement corpus.',
+        ],
+      },
+      {
+        hHi: 'बच्चों के लिए NPS वात्सल्य',
+        hEn: 'NPS Vatsalya for children',
+        pHi: [
+          '2024 में “NPS वात्सल्य” शुरू हुई, जिसमें माता-पिता या अभिभावक नाबालिग बच्चे के नाम पर NPS खाता खोलकर उसमें योगदान कर सकते हैं। बच्चे के वयस्क होने पर यह खाता सामान्य NPS खाते में बदला जा सकता है। इसका उद्देश्य बहुत जल्दी शुरुआत करके चक्रवृद्धि का लंबा लाभ देना है।',
+          'यह विकल्प उन परिवारों के लिए सोचने लायक़ है जिनकी अपनी सेवानिवृत्ति, बीमा और आपात कोष पहले से मज़बूत हैं। पहले अपनी नींव पक्की कीजिए; बच्चे की सेवानिवृत्ति की योजना उसके बाद आती है। नियमों का विवरण PFRDA की वेबसाइट पर देखिए।',
+        ],
+        pEn: [
+          '“NPS Vatsalya”, launched in 2024, lets parents or guardians open an NPS account in a minor child’s name and contribute to it. When the child becomes an adult, the account can be converted into a regular NPS account. The aim is to start very early and give compounding a long runway.',
+          'The option is worth considering for families whose own retirement savings, insurance and emergency fund are already strong. Make your own foundation secure first; a child’s retirement planning comes after that. See PFRDA’s website for the details of the rules.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'elss-tax-saving-funds',
+    sections: [
+      {
+        hHi: 'एक ELSS काफ़ी है',
+        hEn: 'One ELSS is enough',
+        pHi: [
+          'हर साल मार्च में नया ELSS फ़ंड चुनने की आदत से कुछ सालों में पोर्टफ़ोलियो में पाँच-छह ELSS फ़ंड जमा हो जाते हैं, जिनकी होल्डिंग्स काफ़ी हद तक एक जैसी होती हैं। इससे विविधता नहीं बढ़ती, केवल हिसाब-किताब उलझता है। एक अच्छा, लगातार प्रदर्शन वाला ELSS फ़ंड चुनिए और उसी में साल भर SIP चलाइए।',
+          'अगर आपके पास पहले से एक फ़्लेक्सी-कैप या लार्ज-कैप फ़ंड है, तो दोनों के पोर्टफ़ोलियो की तुलना कीजिए। अगर उनकी शीर्ष होल्डिंग्स लगभग वही हैं, तो आपका इक्विटी हिस्सा जितना विविध दिखता है, उतना है नहीं।',
+        ],
+        pEn: [
+          'The habit of picking a new ELSS fund every March leaves a portfolio, within a few years, holding five or six ELSS funds whose holdings largely overlap. That adds no diversification; it only complicates the record-keeping. Choose one good, consistent ELSS fund and run a SIP in it through the year.',
+          'If you already hold a flexi-cap or large-cap fund, compare the two portfolios. If their top holdings are nearly the same, your equity portion is less diversified than it looks.',
+        ],
+      },
+      {
+        hHi: 'इक्विटी की पहली सीढ़ी',
+        hEn: 'A first step into equity',
+        pHi: [
+          'बहुत-से लोगों के लिए ELSS शेयर बाज़ार से पहली मुलाक़ात होती है, क्योंकि कर बचाने की ज़रूरत उन्हें इस ओर ले आती है। तीन साल का लॉक-इन यहाँ एक अनपेक्षित फ़ायदा देता है: बाज़ार गिरने पर भी निवेशक घबराकर पैसा नहीं निकाल सकता, और अक्सर तीन साल बाद देखता है कि गिरावट स्थायी नहीं थी।',
+          'इस अनुभव का इस्तेमाल सीखने के लिए कीजिए। अपने ELSS के उतार-चढ़ाव पर नज़र रखिए, अपनी भावनाएँ नोट कीजिए, और देखिए कि लंबी अवधि में क्या होता है। यही सीख आगे दूसरे इक्विटी निवेशों में धैर्य रखने में मदद करती है।',
+        ],
+        pEn: [
+          'For many people ELSS is their first encounter with the stock market, because the need to save tax brings them to it. The three-year lock-in brings an unexpected benefit here: even when the market falls, the investor cannot pull out in panic, and often finds after three years that the fall was not permanent.',
+          'Use the experience to learn. Watch your ELSS rise and fall, note your own feelings, and see what happens over the longer run. That lesson later helps you stay patient with other equity investments.',
+        ],
+      },
+      {
+        hHi: 'नामांकन और विवरण',
+        hEn: 'Nomination and statements',
+        pHi: [
+          'ELSS फ़ोलियो में नामांकन ज़रूर जोड़िए, और हर साल अपना समेकित खाता विवरण (CAS) देखिए, जिसमें आपके सभी म्यूचुअल फ़ंड एक जगह दिखते हैं। लॉक-इन कब ख़त्म होता है, यह हर SIP किश्त के लिए अलग है, और CAS से यह समझना आसान होता है।',
+        ],
+        pEn: [
+          'Always add a nomination to your ELSS folio, and look at your Consolidated Account Statement (CAS) every year, which shows all your mutual funds in one place. The lock-in ends at a different time for each SIP instalment, and the CAS makes that easier to follow.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'home-loan-prepay-or-invest',
+    sections: [
+      {
+        hHi: 'फ़्लोटिंग दर और चुपचाप बढ़ती अवधि',
+        hEn: 'Floating rates and the silently lengthening tenure',
+        pHi: [
+          'अक्टूबर 2019 से बैंकों के नए फ़्लोटिंग दर वाले खुदरा लोन रेपो रेट जैसे बाहरी बेंचमार्क से जुड़े हैं। रेपो रेट बढ़ने पर लोन की दर बढ़ती है, और कई बैंक EMI बढ़ाने के बजाय लोन की अवधि बढ़ा देते हैं। कई उधारकर्ताओं को सालों बाद पता चलता है कि उनका बीस साल का लोन अब छब्बीस-सत्ताईस साल का हो गया है।',
+          'रिज़र्व बैंक ने 2023 में बैंकों से कहा कि दरें बदलने पर ग्राहक को साफ़ जानकारी दें और EMI बढ़ाने, अवधि बढ़ाने या आंशिक भुगतान जैसे विकल्प चुनने का मौक़ा दें। साल में एक बार अपने लोन का विवरण माँगकर बची अवधि और बची राशि ज़रूर देखिए। अवधि बढ़ गई हो, तो छोटा-सा पूर्व-भुगतान या EMI में थोड़ी बढ़ोतरी कुल ब्याज में बड़ी बचत कर सकती है।',
+        ],
+        pEn: [
+          'Since October 2019, banks’ new floating-rate retail loans have been linked to an external benchmark such as the repo rate. When the repo rate rises, the loan rate rises, and many banks lengthen the loan rather than raise the EMI. Many borrowers discover years later that their twenty-year loan has become twenty-six or twenty-seven years long.',
+          'In 2023 the Reserve Bank told banks to inform customers clearly when rates change and to let them choose between options such as a higher EMI, a longer tenure or a part-prepayment. Ask for your loan statement once a year and check the remaining tenure and outstanding amount. If the tenure has grown, a small prepayment or a modest rise in the EMI can save a great deal of total interest.',
+        ],
+      },
+      {
+        hHi: 'बैलेंस ट्रांसफ़र: कब फ़ायदेमंद',
+        hEn: 'Balance transfer: when it pays',
+        pHi: [
+          'अगर आपके लोन की दर नए ग्राहकों को दी जा रही दरों से काफ़ी ऊँची है, तो पहले अपने ही बैंक से दर कम करने की बात कीजिए; कई बैंक एक छोटे शुल्क पर ऐसा कर देते हैं। बात न बने, तो दूसरे बैंक में लोन “बैलेंस ट्रांसफ़र” करने का विकल्प है। लेकिन उसमें प्रोसेसिंग शुल्क, क़ानूनी शुल्क और काग़ज़ी काम लगता है, इसलिए यह तभी फ़ायदेमंद है जब बची अवधि लंबी हो और दरों का अंतर इतना हो कि बचत इन ख़र्चों से साफ़ ज़्यादा रहे।',
+        ],
+        pEn: [
+          'If your loan rate is well above the rates being offered to new customers, first ask your own bank to lower it; many banks do so for a small fee. If that fails, there is the option of a “balance transfer” of the loan to another bank. But it involves processing fees, legal charges and paperwork, so it pays only when the remaining tenure is long and the rate gap is wide enough for the saving to clearly exceed those costs.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'budget-50-30-20-rule',
+    sections: [
+      {
+        hHi: 'जीवनसाथी के साथ बजट की बातचीत',
+        hEn: 'The budget conversation with a spouse',
+        pHi: [
+          'जिन परिवारों में दोनों कमाते हैं, वहाँ बजट अक्सर इसलिए नहीं चलता कि किसी ने बैठकर साझा योजना नहीं बनाई। महीने में एक बार, बीस-तीस मिनट, दोनों मिलकर देखिए कि पिछले महीने पैसा कहाँ गया, अगले महीने कौन-से बड़े ख़र्च आने वाले हैं, और बचत के लक्ष्य कहाँ तक पहुँचे।',
+          'बातचीत को आरोप की तरह नहीं, योजना की तरह रखिए। कई जोड़े “तुम्हारा, मेरा और हमारा” तरीक़ा अपनाते हैं: घर के साझा ख़र्च और बचत के लिए एक साझा खाता, और हर व्यक्ति के लिए एक छोटी निजी राशि, जिसके ख़र्च पर कोई सवाल नहीं। इससे स्वतंत्रता भी रहती है और साझा लक्ष्य भी।',
+        ],
+        pEn: [
+          'In households where both partners earn, a budget often fails simply because nobody sat down to make a shared plan. Once a month, for twenty or thirty minutes, look together at where the money went last month, which big expenses are coming next month, and how far the savings goals have come.',
+          'Keep the conversation a planning session, not an accusation. Many couples use a “yours, mine and ours” approach: a joint account for shared household expenses and savings, and a small personal amount for each person, spent without questions. It keeps both independence and shared goals.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'emergency-fund-kitna-chahiye',
+    sections: [
+      {
+        hHi: 'शेयर और लंबी अवधि के निवेश इसमें नहीं गिने जाते',
+        hEn: 'Shares and long-term investments do not count',
+        pHi: [
+          'एक आम ग़लती है अपने इक्विटी म्यूचुअल फ़ंड या शेयरों को आपात कोष मान लेना: “ज़रूरत पड़ी तो बेच दूँगा”। मुश्किल यह है कि आपात स्थितियाँ अक्सर उसी समय आती हैं जब बाज़ार भी गिरा होता है, जैसे आर्थिक मंदी में नौकरी जाना। तब मजबूरी में घाटे पर बेचना पड़ता है।',
+          'इसी तरह PPF, NPS या लॉक-इन वाले निवेश भी आपात कोष नहीं हैं, क्योंकि उनसे पैसा जल्दी नहीं निकलता। आपात कोष केवल वह पैसा है जो बचत खाते, स्वीप-इन FD या लिक्विड फ़ंड जैसी जगह पर हो, और एक-दो दिन में बिना नुक़सान के हाथ में आ सके।',
+        ],
+        pEn: [
+          'A common mistake is to treat your equity mutual funds or shares as the emergency fund: “I’ll sell if I need to”. The trouble is that emergencies often arrive just when the market has fallen too, such as losing a job in a downturn. Then you are forced to sell at a loss.',
+          'In the same way, PPF, NPS or other locked-in investments are not an emergency fund, because money does not come out of them quickly. The emergency fund is only money held in a savings account, a sweep-in FD or a liquid fund, which can be in hand within a day or two without loss.',
+        ],
+      },
+      {
+        hHi: 'एक, तीन, छह: सीढ़ी-दर-सीढ़ी लक्ष्य',
+        hEn: 'One, three, six: a target in steps',
+        pHi: [
+          'छह महीने के ख़र्च का लक्ष्य शुरुआत में बहुत बड़ा लगता है, और कई लोग इसी कारण शुरू ही नहीं करते। इसे तीन छोटे पड़ावों में बाँटिए: पहले एक महीने का ख़र्च, फिर तीन महीने का, फिर छह का। हर पड़ाव पूरा होने पर अपने आप को छोटा-सा इनाम दीजिए। एक महीने का कोष भी एक अचानक आए बिल को क़र्ज़ बनने से रोक देता है, और यही पहली जीत आगे बढ़ने की प्रेरणा देती है।',
+        ],
+        pEn: [
+          'A target of six months’ expenses looks enormous at first, and many people never start for that reason. Break it into three smaller stages: first one month’s expenses, then three, then six. Give yourself a small reward at each stage. Even a one-month fund stops a sudden bill from turning into debt, and that first win is what gives the motivation to keep going.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'elss-tax-saving-funds',
+    sections: [
+      {
+        hHi: 'साल की शुरुआत में योजना',
+        hEn: 'Plan at the start of the year',
+        pHi: [
+          'ELSS की SIP अप्रैल में शुरू कीजिए, मार्च की भागदौड़ में नहीं। तब पूरे साल की कर-बचत अपने आप हो जाती है, और बाज़ार के भाव का जोखिम भी बारह महीनों में बँट जाता है।',
+        ],
+        pEn: [
+          'Start the ELSS SIP in April, not in the March rush. The whole year’s tax saving then happens by itself, and the risk of market prices is spread across twelve months.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'budget-50-30-20-rule',
+    sections: [
+      {
+        hHi: 'तीन महीने का प्रयोग',
+        hEn: 'A three-month experiment',
+        pHi: [
+          'किसी भी बजट को पहले महीने से परफ़ेक्ट होने की उम्मीद मत रखिए। तीन महीने को प्रयोग मानिए: पहला महीना केवल यह देखने के लिए कि पैसा असल में कहाँ जाता है, दूसरा अनुपात तय करने के लिए, और तीसरा उन्हें निभाने के लिए। तीसरे महीने के अंत तक ज़्यादातर लोगों को एक ऐसा ढाँचा मिल जाता है जो उनकी असल ज़िंदगी में चल सके।',
+        ],
+        pEn: [
+          'Do not expect any budget to be perfect from the first month. Treat three months as an experiment: the first month only to see where the money really goes, the second to set the ratios, and the third to keep to them. By the end of the third month most people have a framework that can work in their real lives.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'emergency-fund-kitna-chahiye',
+    sections: [
+      {
+        hHi: 'एक लिखी हुई परिभाषा',
+        hEn: 'A written definition',
+        pHi: [
+          'परिवार के साथ बैठकर लिख लीजिए कि “आपात स्थिति” किसे मानेंगे: नौकरी जाना, बीमारी, ज़रूरी मरम्मत। जो इस सूची में नहीं, उसके लिए यह कोष नहीं है।',
+        ],
+        pEn: [
+          'Sit with the family and write down what counts as an “emergency”: losing a job, illness, essential repairs. Anything not on that list is not what this fund is for.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sip-band-karne-ki-galti',
+    sections: [
+      {
+        hHi: '2020 की गिरावट: एक ताज़ा उदाहरण',
+        hEn: 'The 2020 crash: a recent example',
+        pHi: [
+          'मार्च 2020 में महामारी के डर से भारतीय शेयर बाज़ार कुछ ही हफ़्तों में बहुत तेज़ी से गिरा; निफ़्टी 50 सूचकांक अपने जनवरी के शिखर से लगभग अड़तीस प्रतिशत नीचे चला गया। उस समय बहुत से निवेशकों ने डरकर अपनी SIP बंद कर दीं। लेकिन बाज़ार ने लगभग एक साल के भीतर न केवल नुक़सान की भरपाई की, बल्कि नए ऊँचे स्तर भी छू लिए।',
+          'जिन लोगों की SIP उन महीनों में चलती रही, उन्होंने सबसे सस्ते भाव पर सबसे ज़्यादा इकाइयाँ ख़रीदीं, और अगले साल उन्हीं इकाइयों ने उनके पोर्टफ़ोलियो को सबसे ज़्यादा बढ़ाया। यह हर गिरावट में ऐसा ही होगा, यह कोई गारंटी नहीं; पर यह उदाहरण दिखाता है कि डर के समय रुकना अक्सर सबसे महँगा फ़ैसला होता है।',
+        ],
+        pEn: [
+          'In March 2020, amid pandemic fear, the Indian stock market fell very sharply within weeks; the Nifty 50 index dropped roughly thirty-eight per cent from its January peak. Many investors stopped their SIPs in fright. Yet within about a year the market had not only recovered the loss but reached new highs.',
+          'Those whose SIPs kept running through those months bought the most units at the lowest prices, and in the following year those very units lifted their portfolios the most. There is no guarantee that every fall will play out the same way; but the example shows that stopping in a moment of fear is often the costliest decision.',
+        ],
+      },
+      {
+        hHi: 'रोकने से पहले एक बातचीत',
+        hEn: 'One conversation before stopping',
+        pHi: [
+          'अगर गिरावट के समय मन SIP रोकने का करे, तो फ़ैसला करने से पहले किसी भरोसेमंद व्यक्ति से बात कीजिए: अपने सलाहकार से, या परिवार के किसी ऐसे सदस्य से जो लंबी अवधि का निवेशक रहा हो। अपने लक्ष्य, उसकी अवधि और आपात कोष की स्थिति उनके सामने रखिए। अक्सर यह बातचीत ही दिखा देती है कि रुकने का कारण पैसे की असली ज़रूरत नहीं, केवल डर है।',
+        ],
+        pEn: [
+          'If during a fall you feel like stopping your SIP, talk to someone you trust before deciding: your adviser, or a family member who has been a long-term investor. Lay out your goal, its time horizon and the state of your emergency fund. Often that conversation alone shows that the reason for stopping is not a real need for money, only fear.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'bacchon-ko-paise-ki-samajh',
+    sections: [
+      {
+        hHi: 'त्योहार और शगुन के पैसे',
+        hEn: 'Festival and gift money',
+        pHi: [
+          'दिवाली, ईद, जन्मदिन या शादियों में बच्चों को रिश्तेदारों से शगुन के पैसे मिलते हैं। अक्सर माता-पिता यह पैसा ख़ुद रख लेते हैं, और बच्चा सीखने का एक बड़ा मौक़ा खो देता है। इसके बजाय बच्चे के साथ बैठकर तय कीजिए कि इसका कितना हिस्सा ख़र्च वाली गुल्लक में, कितना बचत में और कितना देने वाली गुल्लक में जाएगा।',
+          'बड़ी राशि हो, तो उसका एक हिस्सा बच्चे के नाम के बचत खाते में जमा कराइए और उसे पासबुक में राशि जुड़ती दिखाइए। जब बच्चा अपने पैसे के बारे में ख़ुद फ़ैसला करता है, तो वह उसका मूल्य कहीं गहराई से समझता है।',
+        ],
+        pEn: [
+          'At Diwali, Eid, birthdays or weddings, children receive gift money from relatives. Parents often keep this money themselves, and the child loses a big chance to learn. Instead, sit with the child and decide together how much goes into the spending jar, how much into savings and how much into the giving jar.',
+          'If the sum is large, deposit part of it in a savings account in the child’s name and show them the amount added in the passbook. When a child decides for themselves about their own money, they understand its value far more deeply.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'chaiwale-ki-kahani-compounding',
+    sections: [
+      {
+        hHi: 'अपनी तीस साल की कहानी लिखिए',
+        hEn: 'Write your own thirty-year story',
+        pHi: [
+          'इस कहानी को पढ़ने के बाद एक छोटा अभ्यास कीजिए। एक काग़ज़ पर अपनी मासिक आय और ज़रूरी ख़र्च लिखिए, और उनके बीच का अंतर निकालिए। फिर सोचिए कि उस अंतर का कितना हिस्सा हर महीने अपने आप किसी लंबी अवधि वाले निवेश में जा सकता है, बिना जीवन को कठिन बनाए। चाहे वह राशि छोटी लगे, उसे लिख लीजिए।',
+          'अब किसी भी ऑनलाइन SIP कैलकुलेटर में उस राशि को बीस और तीस साल के लिए, एक सावधान, कम मानी गई दर पर डालकर देखिए। जो संख्या आएगी, वह कोई वादा नहीं, केवल एक संभावना है। लेकिन वही संख्या अक्सर वह प्रेरणा बनती है जो पहला क़दम उठवाती है, और चायवाले की कहानी का असली सबक़ भी यही था: शुरुआत छोटी हो सकती है, पर रुकनी नहीं चाहिए।',
+        ],
+        pEn: [
+          'After reading this story, try a small exercise. On a sheet of paper write your monthly income and essential expenses, and work out the gap between them. Then consider how much of that gap could go automatically each month into a long-term investment without making life hard. However small the amount looks, write it down.',
+          'Now put that amount into any online SIP calculator for twenty and thirty years, at a cautious, conservative rate. The number that appears is not a promise, only a possibility. But that number is often the spark that gets the first step taken, and that was the real lesson of the chaiwala’s story: the start can be small, but it should not stop.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'five-modern-upi-scams-three-questions',
+    sections: [
+      {
+        hHi: 'दुकान के QR कोड पर चिपका दूसरा QR',
+        hEn: 'A second QR stuck over the shop’s QR',
+        pHi: [
+          'कुछ जगहों पर ठग दुकानों, पेट्रोल पंपों या पार्किंग में लगे QR कोड के ऊपर अपना QR कोड चिपका देते हैं। ग्राहक स्कैन करके भुगतान करता है, और पैसा दुकानदार के बजाय ठग के खाते में चला जाता है। दुकानदार को पता तब चलता है जब दिन के अंत में हिसाब नहीं मिलता।',
+          'ग्राहक के तौर पर बचाव सरल है: स्कैन करने के बाद, भुगतान से पहले, स्क्रीन पर दिखने वाला नाम ज़रूर पढ़िए। अगर वह दुकान या व्यक्ति के नाम से मेल न खाए, तो भुगतान मत कीजिए और दुकानदार को बताइए। दुकानदार के तौर पर अपने QR स्टैंड को रोज़ एक नज़र देखिए, और साउंडबॉक्स या ऐप की सूचना से ही भुगतान की पुष्टि कीजिए।',
+        ],
+        pEn: [
+          'In some places fraudsters stick their own QR code over the codes displayed at shops, petrol pumps or car parks. The customer scans and pays, and the money goes to the fraudster rather than the shopkeeper. The shopkeeper only finds out when the day’s accounts do not add up.',
+          'As a customer the defence is simple: after scanning and before paying, always read the name shown on the screen. If it does not match the shop or person, do not pay, and tell the shopkeeper. As a shopkeeper, glance at your QR stand every day, and confirm payments only through the soundbox or app notification.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'credit-score-samjhiye',
+    sections: [
+      {
+        hHi: 'बिना इतिहास वालों के लिए FD पर कार्ड',
+        hEn: 'An FD-backed card for those with no history',
+        pHi: [
+          'जिनका कोई क्रेडिट इतिहास नहीं, जैसे नई नौकरी वाले युवा या पहली बार औपचारिक बैंकिंग में आए लोग, उनके लिए लोन या कार्ड मिलना कठिन होता है, क्योंकि ऋणदाता के पास परखने को कुछ नहीं। एक सुरक्षित रास्ता है “सिक्योर्ड” क्रेडिट कार्ड, जो बैंक में रखी FD के बदले मिलता है, और जिसकी सीमा FD की राशि का एक हिस्सा होती है।',
+          'इस कार्ड से छोटे, नियमित ख़र्च कीजिए और हर महीने पूरा बिल समय पर चुकाइए। कुछ महीनों में आपकी क्रेडिट रिपोर्ट में एक साफ़, भरोसेमंद इतिहास बनने लगता है। ध्यान रहे, यह कार्ड भी असली क्रेडिट कार्ड है; बिल न चुकाने पर ब्याज और स्कोर का नुक़सान दोनों होते हैं।',
+        ],
+        pEn: [
+          'For people with no credit history, such as young people in their first job or those new to formal banking, getting a loan or card is hard, because the lender has nothing to judge them by. One safe route is a “secured” credit card, issued against a fixed deposit with the bank, with a limit set at a portion of the FD.',
+          'Use the card for small, regular spending and pay the full bill on time every month. Within a few months a clean, reliable history begins to form in your credit report. Remember that this is still a real credit card; leaving the bill unpaid brings both interest and damage to the score.',
+        ],
+      },
+      {
+        hHi: 'रिपोर्ट में ग़लती: शिकायत की समय-सीमा',
+        hEn: 'An error in the report: the time limit for complaints',
+        pHi: [
+          'अगर रिपोर्ट में कोई ऐसा लोन दिखे जो आपका नहीं, या चुकाए गए लोन को बकाया दिखाया गया हो, तो संबंधित क्रेडिट ब्यूरो की वेबसाइट पर विवाद दर्ज कीजिए और साथ में ऋणदाता को भी लिखिए। रिज़र्व बैंक के निर्देशों के अनुसार ऐसी शिकायतों का समाधान तय समय में होना चाहिए, और देरी होने पर ग्राहक को मुआवज़ा देने की व्यवस्था भी है।',
+          'शिकायत करते समय लोन बंद होने का प्रमाणपत्र (NOC), भुगतान की रसीदें और खाता विवरण साथ रखिए। समाधान न मिले, तो रिज़र्व बैंक की एकीकृत लोकपाल योजना के तहत शिकायत की जा सकती है, क्योंकि क्रेडिट सूचना कंपनियाँ भी उसके दायरे में हैं।',
+        ],
+        pEn: [
+          'If the report shows a loan that is not yours, or a repaid loan shown as outstanding, raise a dispute on the bureau’s website and write to the lender as well. Under the Reserve Bank’s directions such complaints must be resolved within a set time, and there is provision for compensating the customer for delay.',
+          'When complaining, keep the loan closure certificate (NOC), payment receipts and account statements to hand. If it is not resolved, you can complain under the Reserve Bank’s Integrated Ombudsman Scheme, which covers credit information companies as well.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'term-insurance-kyon-kaafi-hai',
+    sections: [
+      {
+        hHi: 'ऑनलाइन टर्म प्लान: वही बीमा, कम ख़र्च',
+        hEn: 'Online term plans: the same cover, lower cost',
+        pHi: [
+          'कई बीमा कंपनियाँ अपनी वेबसाइट पर सीधे टर्म प्लान बेचती हैं, जिनका प्रीमियम अक्सर एजेंट के ज़रिए बिकने वाले समान प्लान से कम होता है, क्योंकि उनमें वितरण का ख़र्च कम है। दावे के नियम और बीमा का वादा वही रहता है। ऑनलाइन ख़रीदते समय भी फ़ॉर्म की हर जानकारी सच-सच भरिए, मेडिकल जाँच ईमानदारी से कराइए, और पॉलिसी दस्तावेज़ मिलते ही पूरा पढ़िए।',
+        ],
+        pEn: [
+          'Many insurers sell term plans directly on their websites, often at a lower premium than a similar plan sold through an agent, because distribution costs are lower. The claim rules and the promise of cover stay the same. Even when buying online, fill in every detail truthfully, take the medical test honestly, and read the policy document in full as soon as it arrives.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'lifestyle-inflation-hindi',
+    sections: [
+      {
+        hHi: 'सब्सक्रिप्शन का चुपचाप जमा होता बोझ',
+        hEn: 'The quietly accumulating weight of subscriptions',
+        pHi: [
+          'जीवनशैली की महँगाई अब अक्सर बड़ी ख़रीदारी से नहीं, छोटी मासिक सदस्यताओं से आती है: कई वीडियो और संगीत ऐप, क्लाउड स्टोरेज, जिम, फ़ूड डिलीवरी की सदस्यता। हर एक अकेले छोटी लगती है, पर साल भर में जोड़ने पर रक़म चौंकाने वाली हो सकती है, और कई का हम महीनों से इस्तेमाल ही नहीं कर रहे होते।',
+          'साल में दो बार अपने बैंक और कार्ड विवरण से सभी स्वचालित भुगतानों की सूची बनाइए और हर एक से पूछिए: पिछले महीने मैंने इसका कितना इस्तेमाल किया? जो जवाब “लगभग नहीं” हो, उसे बंद कीजिए। बचा पैसा सीधे SIP या आपात कोष में भेजिए, ताकि वह फिर किसी नई सदस्यता में न बदल जाए।',
+        ],
+        pEn: [
+          'Lifestyle inflation now often comes not from big purchases but from small monthly subscriptions: several video and music apps, cloud storage, the gym, food-delivery memberships. Each looks small alone, but added up over a year the total can be startling, and we have not used several of them for months.',
+          'Twice a year, list every automatic payment from your bank and card statements and ask of each: how much did I use this last month? Cancel any whose answer is “hardly at all”. Send the money saved straight to a SIP or the emergency fund, so that it does not turn into another subscription.',
+        ],
+      },
+      {
+        hHi: 'बड़े अपग्रेड से पहले एक साल',
+        hEn: 'A year before any big upgrade',
+        pHi: [
+          'बड़ी कार, बड़ा घर या महँगे स्कूल जैसे अपग्रेड अक्सर वेतन वृद्धि के तुरंत बाद होते हैं, और उनके साथ आने वाले स्थायी ख़र्च, जैसे EMI, बीमा, रखरखाव और फ़ीस, सालों तक चलते हैं। एक उपयोगी नियम है: किसी भी बड़े अपग्रेड से पहले नई आय के साथ एक साल जीकर देखिए, और उस साल अपग्रेड की संभावित EMI जितनी रक़म हर महीने बचाइए। अगर एक साल आराम से निकल जाए, तो फ़ैसला सुरक्षित है, और बची रक़म डाउन-पेमेंट बन जाती है।',
+        ],
+        pEn: [
+          'Upgrades such as a bigger car, a bigger home or an expensive school often follow right after a pay rise, and the permanent costs that come with them, EMIs, insurance, upkeep and fees, run for years. A useful rule: before any big upgrade, live with the new income for a year, and during that year save each month the amount the upgrade’s EMI would cost. If the year passes comfortably, the decision is safe, and the money saved becomes the down-payment.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'tax-regime-kaise-chunein',
+    sections: [
+      {
+        hHi: 'व्यापार या पेशे की आय वालों के लिए अधिक सावधानी',
+        hEn: 'More care for those with business or professional income',
+        pHi: [
+          'वेतनभोगी और केवल पेंशन या ब्याज वाली आय वाले लोग हर साल रिटर्न भरते समय कर व्यवस्था बदल सकते हैं। लेकिन जिनकी आय में व्यापार या पेशे से होने वाली आय है, जैसे डॉक्टर, वकील, सलाहकार या दुकानदार, उनके लिए व्यवस्था बदलने के अवसर बहुत सीमित हैं, और एक बार का फ़ैसला कई वर्षों तक साथ रहता है।',
+          'इसलिए ऐसे करदाताओं को चुनाव से पहले केवल इस साल नहीं, अगले कुछ वर्षों का अनुमान लगाना चाहिए: क्या होम लोन आने वाला है, क्या कटौतियाँ बढ़ेंगी या घटेंगी। इस स्थिति में किसी चार्टर्ड अकाउंटेंट या कर-सलाहकार से बात करना बहुत सलाह योग्य है।',
+        ],
+        pEn: [
+          'Salaried people and those with only pension or interest income can switch regimes each year when filing their return. But those whose income includes business or professional income, such as doctors, lawyers, consultants or shopkeepers, have very limited chances to switch, and a single decision stays with them for years.',
+          'So such taxpayers should look not only at this year but at the next few before choosing: is a home loan coming, will deductions rise or fall? In this situation, talking to a chartered accountant or tax adviser is strongly advisable.',
+        ],
+      },
+      {
+        hHi: 'हर साल की एक कर-फ़ाइल',
+        hEn: 'A tax file for every year',
+        pHi: [
+          'हर वित्त वर्ष के लिए एक फ़ोल्डर बनाइए, काग़ज़ी या डिजिटल, जिसमें फ़ॉर्म 16, बैंक का ब्याज प्रमाणपत्र, निवेश और बीमा के प्रमाण, किराये की रसीदें, फ़ॉर्म 26AS और AIS की प्रति, और भरे गए रिटर्न की पावती हो। साथ में एक पन्ने पर दोनों व्यवस्थाओं की तुलना और आपका फ़ैसला लिख लीजिए।',
+          'यह फ़ाइल अगले साल की तुलना को दस मिनट का काम बना देती है, और अगर कभी आयकर विभाग से कोई नोटिस आए, तो सब कुछ एक जगह मिल जाता है। ऐसे काग़ज़ कम से कम कुछ वर्षों तक सँभालकर रखिए।',
+        ],
+        pEn: [
+          'Make a folder, paper or digital, for each financial year, holding Form 16, bank interest certificates, proofs of investment and insurance, rent receipts, copies of Form 26AS and the AIS, and the acknowledgement of the return filed. Add a single page comparing the two regimes and recording your decision.',
+          'The file turns next year’s comparison into a ten-minute task, and if a notice ever arrives from the Income Tax Department, everything is in one place. Keep such papers safely for at least several years.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sip-band-karne-ki-galti',
+    sections: [
+      {
+        hHi: 'ऐप से नोटिफ़िकेशन बंद कीजिए',
+        hEn: 'Turn off the app notifications',
+        pHi: [
+          'गिरावट के दिनों में निवेश ऐप की हर सूचना एक नया डर लाती है। लंबी अवधि की SIP के लिए बाज़ार की रोज़ की सूचनाएँ बंद कर दीजिए, और पोर्टफ़ोलियो महीने में एक बार ही देखिए। कम देखना अक्सर बेहतर फ़ैसलों की पहली शर्त है।',
+        ],
+        pEn: [
+          'In a falling market every alert from an investment app brings a fresh fright. For a long-term SIP, switch off daily market notifications and look at the portfolio only once a month. Looking less is often the first condition for deciding better.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'bacchon-ko-paise-ki-samajh',
+    sections: [
+      {
+        hHi: 'छोटी ग़लतियाँ, सस्ते सबक़',
+        hEn: 'Small mistakes, cheap lessons',
+        pHi: [
+          'अगर बच्चा अपनी जेब-ख़र्च की पूरी राशि किसी ऐसी चीज़ पर उड़ा दे जो दो दिन में टूट जाए, तो उसे तुरंत बचाइए मत, और नई राशि भी मत दीजिए। सौ रुपये की यह ग़लती उसे जो सिखाती है, वह बड़े होकर लाखों की ग़लती से बचा सकती है। बाद में शांति से पूछिए कि अगली बार वह क्या अलग करेगा।',
+        ],
+        pEn: [
+          'If a child blows all their pocket money on something that breaks in two days, do not rescue them at once, and do not hand over more money. What that hundred-rupee mistake teaches can save them from a mistake worth lakhs as adults. Later, calmly ask what they would do differently next time.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'chaiwale-ki-kahani-compounding',
+    sections: [
+      {
+        hHi: 'आदत का बहीखाता',
+        hEn: 'A ledger of the habit',
+        pHi: [
+          'चायवाले की तरह एक छोटी कॉपी रखिए, जिसमें हर महीने केवल एक पंक्ति लिखी जाए: इस महीने कितना बचाया और निवेश किया। सालों बाद यह कॉपी केवल संख्याएँ नहीं, आपके धैर्य की कहानी बन जाती है।',
+        ],
+        pEn: [
+          'Like the chaiwala, keep a small notebook with a single line each month: how much was saved and invested this month. Years later the notebook becomes not just numbers but the story of your patience.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'five-modern-upi-scams-three-questions',
+    sections: [
+      {
+        hHi: 'तीन सवाल पूरे परिवार को सिखाइए',
+        hEn: 'Teach the three questions to the whole family',
+        pHi: [
+          'ये तीन सवाल तभी काम करते हैं जब घर का हर सदस्य उन्हें जानता हो, ख़ासकर बुज़ुर्ग और किशोर, जिन्हें ठग सबसे ज़्यादा निशाना बनाते हैं। उन्हें एक काग़ज़ पर लिखकर फ़ोन के पास रखिए, और परिवार के व्हाट्सऐप समूह में भी साझा कीजिए।',
+        ],
+        pEn: [
+          'These three questions work only when every member of the household knows them, especially the elderly and teenagers, whom fraudsters target most. Write them on a sheet of paper kept near the phone, and share them in the family WhatsApp group too.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'term-insurance-kyon-kaafi-hai',
+    sections: [
+      {
+        hHi: 'हर पाँच साल में कवर की समीक्षा',
+        hEn: 'Review the cover every five years',
+        pHi: [
+          'शादी, बच्चे, होम लोन या आय में बड़ी वृद्धि के बाद पहले तय किया गया बीमा कवर कम पड़ सकता है। हर पाँच साल, या किसी बड़े बदलाव के बाद, कवर का हिसाब दोबारा लगाइए, और ज़रूरत हो तो एक अतिरिक्त टर्म पॉलिसी लीजिए।',
+        ],
+        pEn: [
+          'After marriage, children, a home loan or a large rise in income, the cover chosen earlier may fall short. Every five years, or after any major change, recalculate the cover, and take an additional term policy if needed.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'tax-regime-kaise-chunein',
+    sections: [
+      {
+        hHi: 'अंतिम शब्द',
+        hEn: 'A last word',
+        pHi: [
+          'जो व्यवस्था कम कर दिलाए और आपको ग़लत निवेश के लिए मजबूर न करे, वही आपके लिए सही है।',
+        ],
+        pEn: [
+          'The right regime for you is the one that costs less tax without pushing you into the wrong investments.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'gullak-se-demat-tak-teen-padav',
+    sections: [
+      {
+        hHi: 'माता-पिता की निगरानी में डिजिटल भुगतान',
+        hEn: 'Digital payments under a parent’s watch',
+        pHi: [
+          'किशोरों को पहला डिजिटल अनुभव देने के कुछ सुरक्षित रास्ते हैं। कुछ UPI ऐप “UPI सर्किल” जैसी सुविधा देते हैं, जिसमें मुख्य खाताधारक, जैसे माता-पिता, परिवार के किसी दूसरे सदस्य को तय सीमा के भीतर अपने खाते से भुगतान करने की अनुमति दे सकता है, और हर भुगतान उसे दिखता है। कई बैंक नाबालिगों के लिए ख़ास खाते भी देते हैं, जिनमें लेन-देन की सीमाएँ कम होती हैं।',
+          'जो भी तरीक़ा चुनें, शुरुआत में सीमा छोटी रखिए और महीने के अंत में बच्चे के साथ बैठकर हर ख़र्च देखिए। उद्देश्य निगरानी नहीं, बातचीत है: किसी ख़र्च पर डाँटने के बजाय पूछिए कि वह ज़रूरत थी या चाहत, और क्या वह पैसा किसी बेहतर काम आ सकता था। धीरे-धीरे भरोसे के साथ सीमा बढ़ाइए।',
+        ],
+        pEn: [
+          'There are a few safe ways to give teenagers their first digital experience. Some UPI apps offer a facility such as “UPI Circle”, in which the primary account holder, such as a parent, can let another family member make payments from their account within a set limit, with every payment visible to them. Many banks also offer special accounts for minors with lower transaction limits.',
+          'Whichever route you choose, keep the limit small at first and sit with your child at the end of the month to go through every expense. The aim is conversation, not surveillance: instead of scolding over a purchase, ask whether it was a need or a want, and whether the money could have done something better. Raise the limit gradually as trust grows.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'index-fund-vs-active-fund',
+    sections: [
+      {
+        hHi: 'इंडेक्स फ़ंड या ETF?',
+        hEn: 'Index fund or ETF?',
+        pHi: [
+          'एक ही सूचकांक में दो तरह से निवेश हो सकता है: इंडेक्स फ़ंड, जिसकी इकाइयाँ फ़ंड कंपनी से सीधे दिन के NAV पर ख़रीदी-बेची जाती हैं, और ETF (एक्सचेंज ट्रेडेड फ़ंड), जो शेयर की तरह स्टॉक एक्सचेंज पर दिन भर ख़रीदा-बेचा जाता है और जिसके लिए डीमैट खाता चाहिए। ETF का ख़र्च अनुपात अक्सर और कम होता है, लेकिन ख़रीदते-बेचते समय ब्रोकरेज और भाव का अंतर लगता है।',
+          'एक व्यावहारिक बात भी ध्यान रखिए: कुछ ETF में ख़रीद-बिक्री कम होती है, जिससे उनका बाज़ार भाव असल मूल्य से थोड़ा अलग चल सकता है। नियमित SIP करने वालों के लिए इंडेक्स फ़ंड आम तौर पर सरल है; जिनके पास डीमैट खाता है और जो कभी-कभी एकमुश्त निवेश करते हैं, उनके लिए अच्छी तरलता वाला ETF विकल्प हो सकता है।',
+        ],
+        pEn: [
+          'You can invest in the same index in two ways: an index fund, whose units are bought and sold directly with the fund house at the day’s NAV, and an ETF (exchange-traded fund), which trades on the stock exchange like a share throughout the day and needs a demat account. ETFs often have even lower expense ratios, but buying and selling involves brokerage and the spread between prices.',
+          'Keep one practical point in mind too: some ETFs trade thinly, so their market price can drift slightly from their true value. For regular SIP investors an index fund is usually simpler; for those with a demat account who sometimes invest lump sums, a liquid ETF can be an option.',
+        ],
+      },
+      {
+        hHi: 'कौन-सा सूचकांक?',
+        hEn: 'Which index?',
+        pHi: [
+          'भारत में सबसे जाने-माने सूचकांक हैं NSE का निफ़्टी 50, जिसमें पचास बड़ी कंपनियाँ हैं, और BSE का सेंसेक्स, जिसमें तीस। ये दोनों बड़ी कंपनियों का प्रतिनिधित्व करते हैं और ज़्यादातर नए निवेशकों के लिए शुरुआत की स्वाभाविक जगह हैं। इनके अलावा निफ़्टी नेक्स्ट 50 जैसे सूचकांक अगली पचास बड़ी कंपनियों को, और मिडकैप व स्मॉलकैप सूचकांक मध्यम व छोटी कंपनियों को दर्शाते हैं, जिनमें उतार-चढ़ाव ज़्यादा होता है।',
+          'बहुत-से अलग-अलग सूचकांक फ़ंड लेने से विविधता नहीं, अक्सर दोहराव बढ़ता है। एक व्यापक बड़ी कंपनियों वाला सूचकांक फ़ंड बहुत से लोगों के लिए इक्विटी हिस्से की मज़बूत नींव है, और उसके ऊपर कुछ जोड़ना है या नहीं, यह जोखिम सहने की क्षमता पर निर्भर है।',
+        ],
+        pEn: [
+          'India’s best-known indices are the NSE’s Nifty 50, made up of fifty large companies, and the BSE’s Sensex, made up of thirty. Both represent large companies and are the natural starting point for most new investors. Beyond them, indices such as the Nifty Next 50 cover the next fifty large companies, and midcap and smallcap indices represent mid-sized and small companies, with bigger swings.',
+          'Buying many different index funds often adds overlap rather than diversification. A single broad large-company index fund is a strong foundation for the equity portion for many people, and whether to add anything on top depends on one’s tolerance for risk.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'asset-allocation-basics-india',
+    sections: [
+      {
+        hHi: 'पूरे परिवार को एक पोर्टफ़ोलियो मानिए',
+        hEn: 'Treat the whole household as one portfolio',
+        pHi: [
+          'अक्सर परिवार के अलग-अलग सदस्यों के नाम पर अलग निवेश होते हैं: पति के नाम पर म्यूचुअल फ़ंड, पत्नी के नाम पर FD, माता-पिता के नाम पर डाकघर योजनाएँ। हर व्यक्ति का हिस्सा अलग से ठीक लग सकता है, पर पूरे परिवार का मिला-जुला अनुपात बहुत ज़्यादा सुरक्षित या बहुत ज़्यादा जोखिम वाला हो सकता है।',
+          'साल में एक बार सभी खातों की एक सूची बनाइए और देखिए कि पूरे परिवार का पैसा इक्विटी, डेट, सोने और नक़दी में किस अनुपात में है। संतुलन उसी स्तर पर सुधारिए। कर के कारण कभी-कभी कोई निवेश किसी ख़ास सदस्य के नाम पर रखना बेहतर होता है, पर अनुपात का फ़ैसला पूरे घर के स्तर पर होना चाहिए।',
+        ],
+        pEn: [
+          'Investments are often held in different family members’ names: mutual funds in the husband’s name, FDs in the wife’s, post office schemes in the parents’. Each person’s share may look fine on its own, but the combined split for the whole family can be far too cautious or far too risky.',
+          'Once a year, list every account and see in what proportion the family’s money sits in equity, debt, gold and cash. Correct the balance at that level. For tax reasons it is sometimes better to hold an investment in a particular member’s name, but the allocation decision should be made for the household as a whole.',
+        ],
+      },
+      {
+        hHi: 'आपात कोष विभाजन से बाहर',
+        hEn: 'The emergency fund sits outside the allocation',
+        pHi: [
+          'संपत्ति-विभाजन का हिसाब लगाते समय आपात कोष को अलग रखिए। वह किसी लक्ष्य या रिटर्न के लिए नहीं, सुरक्षा के लिए है, और उसे इक्विटी-डेट अनुपात में गिनने से तस्वीर बिगड़ती है। पहले आपात कोष पूरा कीजिए, फिर बचे हुए निवेश पर अनुपात तय कीजिए।',
+        ],
+        pEn: [
+          'When working out your asset allocation, keep the emergency fund separate. It exists for safety, not for any goal or return, and counting it in the equity-debt split distorts the picture. Complete the emergency fund first, then set the allocation for the rest of your investments.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sovereign-gold-bonds-guide',
+    sections: [
+      {
+        hHi: 'परिपक्वता पर क्या होता है',
+        hEn: 'What happens at maturity',
+        pHi: [
+          'SGB की अवधि आठ साल है। परिपक्वता पर बॉन्ड की राशि उस समय के सोने के भाव के आधार पर तय होकर सीधे आपके पंजीकृत बैंक खाते में आती है; आपको सोना नहीं, रुपये मिलते हैं। अवधि के दौरान निर्गम मूल्य पर ढाई प्रतिशत सालाना ब्याज छमाही किस्तों में मिलता है, जो कर-योग्य है।',
+          'व्यक्तिगत निवेशकों के लिए परिपक्वता पर होने वाला पूँजीगत लाभ कर-मुक्त है, जो इस बॉन्ड की बड़ी ख़ूबी है। इसलिए जो इसे पूरी अवधि तक रख सकते हैं, उन्हें सबसे ज़्यादा फ़ायदा होता है। बैंक खाते का विवरण बदलें, तो उसे बॉन्ड के रिकॉर्ड में भी अद्यतन कराइए, ताकि परिपक्वता की राशि सही खाते में पहुँचे।',
+        ],
+        pEn: [
+          'An SGB runs for eight years. At maturity the redemption amount is set by the gold price at that time and is credited directly to your registered bank account; you receive rupees, not gold. During the term, interest of 2.5 per cent a year on the issue price is paid in half-yearly instalments, and it is taxable.',
+          'For individual investors, the capital gain on redemption at maturity is tax-free, which is a major strength of the bond. Those who can hold it for the full term benefit most. If you change your bank account, update it in the bond records too, so that the maturity amount reaches the right account.',
+        ],
+      },
+      {
+        hHi: 'बाज़ार से ख़रीदने से पहले तीन जाँचें',
+        hEn: 'Three checks before buying in the market',
+        pHi: [
+          'जब नई किश्तें नहीं आ रही हों, तो पहले जारी हुए SGB स्टॉक एक्सचेंज से ख़रीदे जा सकते हैं। ऐसा करने से पहले तीन बातें देखिए। पहली, भाव: बॉन्ड उस समय के सोने के भाव से कितने प्रीमियम या छूट पर बिक रहा है। दूसरी, बची अवधि: परिपक्वता में कितने साल बचे हैं, क्योंकि कर-मुक्त लाभ पूरी अवधि तक रखने पर मिलता है। तीसरी, तरलता: उस शृंखला में रोज़ कितनी ख़रीद-बिक्री होती है।',
+          'कम तरलता वाली शृंखला में बेचते समय उचित भाव मिलना कठिन हो सकता है। इसलिए बाज़ार से ख़रीदा गया SGB उसी पैसे के लिए है जिसे आप परिपक्वता तक रख सकें।',
+        ],
+        pEn: [
+          'When no new tranches are being issued, previously issued SGBs can be bought on the stock exchange. Before doing so, check three things. First, the price: the premium or discount at which the bond trades against the current gold price. Second, the remaining term: how many years are left to maturity, since the tax-free gain comes with holding to the end. Third, liquidity: how much daily trading there is in that series.',
+          'In a thinly traded series a fair price can be hard to get when you sell. So an SGB bought in the market is for money you can hold to maturity.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'reit-investment-india',
+    sections: [
+      {
+        hHi: 'InvIT: REIT का चचेरा भाई',
+        hEn: 'InvITs: the REIT’s cousin',
+        pHi: [
+          'REIT जैसी ही एक दूसरी संरचना है InvIT, यानी इन्फ़्रास्ट्रक्चर इन्वेस्टमेंट ट्रस्ट, जो दफ़्तरों की जगह सड़कों, बिजली की लाइनों, गैस पाइपलाइनों या दूरसंचार टावरों जैसी संपत्तियों से होने वाली आय निवेशकों में बाँटता है। यह भी SEBI के नियमों के तहत है और स्टॉक एक्सचेंज पर ख़रीदा-बेचा जाता है।',
+          'InvIT की आय टोल, बिजली ढुलाई के शुल्क या किराये जैसे स्रोतों से आती है, और उसके जोखिम अलग हैं: टोल सड़क का अनुबंध एक तय अवधि के बाद ख़त्म हो सकता है, और ब्याज दरों का असर इन पर भी पड़ता है। इसलिए InvIT को REIT का विकल्प नहीं, एक अलग संपत्ति मानकर उसके दस्तावेज़ ध्यान से पढ़िए।',
+        ],
+        pEn: [
+          'A structure similar to the REIT is the InvIT, the Infrastructure Investment Trust, which distributes to investors the income from assets such as roads, power transmission lines, gas pipelines or telecom towers instead of offices. It too is governed by SEBI rules and trades on the stock exchange.',
+          'An InvIT’s income comes from sources such as tolls, transmission charges or rents, and its risks are different: a toll-road concession can end after a fixed period, and interest rates affect these trusts too. So treat an InvIT not as a substitute for a REIT but as a separate asset, and read its documents carefully.',
+        ],
+      },
+      {
+        hHi: 'छोटे और मध्यम REIT',
+        hEn: 'Small and medium REITs',
+        pHi: [
+          '2024 में SEBI ने “छोटे और मध्यम REIT” (SM REIT) के लिए नियम बनाए, ताकि वे ऑनलाइन मंच, जो किसी इमारत में “आंशिक स्वामित्व” बेचते थे, एक नियंत्रित ढाँचे में आएँ। इससे छोटे निवेशकों के लिए कुछ सुरक्षा बढ़ी है, लेकिन ऐसे उत्पादों में अक्सर कम संपत्तियाँ, कम विविधता और कम तरलता होती है।',
+          'अगर कोई मंच “किराये से तय ऊँची आय” का वादा करे, तो पूछिए कि वह SEBI में पंजीकृत है या नहीं, संपत्ति किसकी है, किरायेदार कौन हैं, और पैसा निकालना हो तो कैसे निकलेगा। जवाब साफ़ न हों, तो दूर रहिए।',
+        ],
+        pEn: [
+          'In 2024 SEBI framed rules for “small and medium REITs” (SM REITs), so that online platforms which had been selling “fractional ownership” of buildings came into a regulated structure. That has added some protection for small investors, but such products often hold fewer properties, with less diversification and less liquidity.',
+          'If a platform promises “fixed high income from rent”, ask whether it is registered with SEBI, who owns the property, who the tenants are, and how you would get your money out. If the answers are not clear, stay away.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'rupee-cost-averaging-explained',
+    sections: [
+      {
+        hHi: 'मासिक, साप्ताहिक या दैनिक?',
+        hEn: 'Monthly, weekly or daily?',
+        pHi: [
+          'कई फ़ंड कंपनियाँ साप्ताहिक या दैनिक SIP का विकल्प भी देती हैं, और कुछ लोग मानते हैं कि ज़्यादा बार ख़रीदने से औसत बेहतर होगा। लंबी अवधि में मासिक, साप्ताहिक और दैनिक SIP के नतीजों में अंतर आम तौर पर बहुत छोटा रहता है, क्योंकि बाज़ार के बड़े उतार-चढ़ाव महीनों और सालों में होते हैं, दिनों में नहीं।',
+          'इसलिए सबसे अच्छा विकल्प वह है जो सबसे सरल हो और आपकी आय के साथ चले। ज़्यादातर वेतनभोगियों के लिए वेतन आने के एक-दो दिन बाद की मासिक SIP सबसे स्वाभाविक है। बार-बार के छोटे लेन-देन रिकॉर्ड रखना भी कठिन बनाते हैं।',
+        ],
+        pEn: [
+          'Many fund houses also offer weekly or daily SIPs, and some people believe that buying more often will give a better average. Over long periods the difference between monthly, weekly and daily SIPs usually turns out to be very small, because the market’s big swings play out over months and years, not days.',
+          'So the best choice is the simplest one that moves with your income. For most salaried people a monthly SIP a day or two after payday is the most natural. Frequent small transactions also make record-keeping harder.',
+        ],
+      },
+      {
+        hHi: 'सबसे बुरी ख़बरों वाले दिन ख़रीदारी',
+        hEn: 'Buying on the days of the worst headlines',
+        pHi: [
+          'रुपया-लागत औसत की सबसे बड़ी ताक़त मनोवैज्ञानिक है: SIP उस दिन भी ख़रीदती है जिस दिन अख़बार की सुर्ख़ियाँ सबसे डरावनी हों, और जिस दिन कोई इंसान अपनी मर्ज़ी से कभी ख़रीदने की हिम्मत न करता। यह स्वचालन ही उस भावना को हटा देता है जो निवेशकों को ऊँचे भाव पर ख़रीदने और नीचे भाव पर बेचने को मजबूर करती है।',
+        ],
+        pEn: [
+          'The greatest strength of rupee-cost averaging is psychological: a SIP buys even on the day the newspaper headlines are most frightening, the very day nobody would dare to buy of their own accord. That automation removes the emotion that drives investors to buy high and sell low.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'gullak-se-demat-tak-teen-padav',
+    sections: [
+      {
+        hHi: 'पहली ग़लती पर डाँट नहीं, बातचीत',
+        hEn: 'Conversation, not scolding, after the first mistake',
+        pHi: [
+          'किशोर से पहली डिजिटल ग़लती होगी ही: कोई अनचाही सदस्यता, कोई जल्दबाज़ी की ख़रीदारी। उस समय डाँटने से वह अगली ग़लती छिपाना सीखता है। बेहतर है शांति से बैठकर समझाना कि क्या हुआ और अगली बार क्या जाँचना है, ताकि वह परेशानी में सबसे पहले आपके पास आए।',
+        ],
+        pEn: [
+          'A teenager will make a first digital mistake: an unwanted subscription, a hasty purchase. Scolding at that moment teaches them to hide the next mistake. It is better to sit calmly, explain what happened and what to check next time, so that they come to you first when in trouble.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'index-fund-vs-active-fund',
+    sections: [
+      {
+        hHi: 'दोनों साथ भी रह सकते हैं',
+        hEn: 'The two can live together',
+        pHi: [
+          'यह बहस अक्सर “या तो यह, या वह” बना दी जाती है, जबकि बहुत-से निवेशक दोनों रखते हैं: बड़ी कंपनियों के लिए सस्ता इंडेक्स फ़ंड, जहाँ सक्रिय फ़ंडों के लिए बेंचमार्क को पीछे छोड़ना कठिन रहा है, और मध्यम या छोटी कंपनियों जैसे क्षेत्रों में किसी अच्छे सक्रिय फ़ंड का छोटा हिस्सा। ऐसा ढाँचा लागत भी कम रखता है और चुनाव की स्वतंत्रता भी देता है। जो भी चुनें, उसे साल में एक बार बेंचमार्क से तुलना करके परखिए।',
+        ],
+        pEn: [
+          'The debate is often framed as “either this or that”, yet many investors hold both: a low-cost index fund for large companies, where active funds have found it hard to beat the benchmark, and a smaller share in a good active fund in areas such as mid-sized or small companies. Such a structure keeps costs low while leaving room for choice. Whatever you choose, judge it against its benchmark once a year.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'asset-allocation-basics-india',
+    sections: [
+      {
+        hHi: 'हर दस साल पर एक बड़ा बदलाव',
+        hEn: 'A larger shift every decade',
+        pHi: [
+          'हर साल के छोटे पुनर्संतुलन के अलावा जीवन के हर बड़े चरण पर पूरे विभाजन पर नए सिरे से सोचिए: पहली नौकरी, शादी, बच्चों का आना, बच्चों की उच्च शिक्षा, और सेवानिवृत्ति से दस साल पहले का दौर। लक्ष्य जितना पास आता है, उसके लिए रखे पैसे का उतना हिस्सा धीरे-धीरे सुरक्षित साधनों में ले जाना चाहिए, एक झटके में नहीं।',
+        ],
+        pEn: [
+          'Beyond the small rebalancing each year, rethink the whole allocation at every major life stage: the first job, marriage, the arrival of children, their higher education, and the decade before retirement. As a goal comes closer, a growing share of the money set aside for it should move gradually into safer instruments, not all at once.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sovereign-gold-bonds-guide',
+    sections: [
+      {
+        hHi: 'बॉन्ड का रिकॉर्ड सँभालकर रखिए',
+        hEn: 'Keep the bond records safe',
+        pHi: [
+          'SGB डीमैट खाते में या रिज़र्व बैंक के प्रमाणपत्र के रूप में रखा जा सकता है। प्रमाणपत्र वाले बॉन्ड की प्रति, आवंटन की जानकारी और नामांकन का विवरण परिवार को बताकर रखिए, ताकि आठ साल बाद, या किसी अनहोनी में, राशि पाने में कोई परेशानी न हो।',
+        ],
+        pEn: [
+          'An SGB can be held in a demat account or as a Reserve Bank certificate. Keep a copy of a certificate-form bond, the allotment details and the nomination on record and tell the family about them, so that after eight years, or if anything happens, there is no difficulty claiming the money.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'reit-investment-india',
+    sections: [
+      {
+        hHi: 'वितरण का कर-स्वरूप',
+        hEn: 'How distributions are taxed',
+        pHi: [
+          'REIT से मिलने वाला वितरण एक जैसा नहीं होता: उसके हिस्से ब्याज, लाभांश, किराये या पूँजी की वापसी के रूप में हो सकते हैं, और हर हिस्से पर कर अलग ढंग से लगता है। REIT हर वितरण के साथ यह बँटवारा बताता है। अपनी कर-गणना और रिटर्न भरते समय इसी विवरण का इस्तेमाल कीजिए, और नियम बदलते रहते हैं, इसलिए ताज़ा जानकारी ज़रूर देखिए।',
+        ],
+        pEn: [
+          'A REIT’s distribution is not uniform: parts of it can be interest, dividend, rental income or a return of capital, and each part is taxed differently. The REIT states this breakdown with every distribution. Use that breakdown when working out your tax and filing your return, and since the rules keep changing, check the current position.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'rupee-cost-averaging-explained',
+    sections: [
+      {
+        hHi: 'एक छोटी तालिका ख़ुद बनाइए',
+        hEn: 'Make a small table yourself',
+        pHi: [
+          'इस विचार को सच में समझने के लिए एक काग़ज़ पर बारह महीनों की एक काल्पनिक तालिका बनाइए: हर महीने एक ही राशि, और हर महीने अलग NAV, कुछ ऊपर, कुछ नीचे। हर महीने ख़रीदी गई इकाइयाँ गिनिए और साल के अंत में औसत लागत निकालिए। पाँच मिनट का यह अभ्यास दिखा देता है कि गिरते महीनों में ज़्यादा इकाइयाँ कैसे आती हैं।',
+        ],
+        pEn: [
+          'To truly grasp the idea, draw up an imaginary twelve-month table on paper: the same amount every month and a different NAV each month, some higher, some lower. Count the units bought each month and work out the average cost at the year’s end. Five minutes of this shows how more units arrive in the falling months.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'recurring-deposit-guide',
+    sections: [
+      {
+        hHi: 'डाकघर RD और बैंक RD',
+        hEn: 'Post office RD and bank RD',
+        pHi: [
+          'RD दो जगह खुलती है: बैंक में और डाकघर में। डाकघर की RD पाँच साल की तय अवधि की होती है, उसकी ब्याज दर सरकार हर तिमाही तय करती है, और ब्याज तिमाही आधार पर चक्रवृद्धि होता है। बैंक RD की अवधि ज़्यादा लचीली होती है, छह महीने से लेकर कई वर्षों तक, और दर बैंक तय करता है।',
+          'डाकघर RD में कुछ किस्तें जमा होने के बाद जमा राशि के एक हिस्से तक ऋण की सुविधा भी है, जो अचानक ज़रूरत में RD तोड़ने से बेहतर विकल्प हो सकता है। कई बैंक भी RD के बदले ऋण या ओवरड्राफ़्ट देते हैं। RD खोलते समय पूछिए कि यह सुविधा है या नहीं और उसकी ब्याज दर क्या है।',
+        ],
+        pEn: [
+          'An RD can be opened in two places: a bank or a post office. A post office RD has a fixed five-year term, its rate is set by the government every quarter, and interest compounds quarterly. A bank RD has more flexible terms, from six months to several years, with the rate set by the bank.',
+          'A post office RD also offers a loan facility up to a portion of the balance once a certain number of instalments have been paid, which can be a better option than breaking the RD in a sudden need. Many banks also lend or offer an overdraft against an RD. When opening one, ask whether the facility exists and at what rate.',
+        ],
+      },
+      {
+        hHi: 'लक्ष्य की तारीख़ से RD की अवधि मिलाइए',
+        hEn: 'Match the RD term to the goal date',
+        pHi: [
+          'RD सबसे अच्छी तब काम करती है जब उसका एक तय लक्ष्य हो: अगले साल की स्कूल फ़ीस, दो साल बाद की बाइक, किसी शादी का ख़र्च। लक्ष्य की तारीख़ से पीछे गिनकर RD की अवधि तय कीजिए, ताकि वह ठीक उसी समय परिपक्व हो। जितनी राशि चाहिए, उसे महीनों की संख्या से भाग देकर मोटा-मोटा किस्त तय कीजिए; ब्याज उस पर अतिरिक्त गद्दी बन जाएगा।',
+          'हर लक्ष्य के लिए अलग RD रखने से हिसाब साफ़ रहता है, और किसी एक RD को समय से पहले तोड़ने का मन भी कम करता है, क्योंकि उसका नाम और उद्देश्य साफ़ होता है।',
+        ],
+        pEn: [
+          'An RD works best when it has a defined goal: next year’s school fees, a motorbike in two years, the cost of a wedding. Count back from the goal date to set the RD’s term, so that it matures exactly when needed. Divide the amount required by the number of months to set a rough instalment; the interest becomes an extra cushion on top.',
+          'Keeping a separate RD for each goal keeps the accounts clear, and makes breaking any one of them early less tempting, because its name and purpose are plain.',
+        ],
+      },
+      {
+        hHi: 'ऑटो-डेबिट से किस्त कभी न चूके',
+        hEn: 'Auto-debit so that no instalment is missed',
+        pHi: [
+          'किस्त चूकने पर कई जगह जुर्माना लगता है, और लगातार कई किस्तें चूकने पर खाता बंद भी हो सकता है। इसलिए RD खोलते समय ही बचत खाते से स्वचालित कटौती का निर्देश दीजिए, और कटौती की तारीख़ वेतन आने के एक-दो दिन बाद रखिए। यह छोटी व्यवस्था RD की पूरी ताक़त, यानी अनुशासन, को बिना किसी मेहनत के बनाए रखती है।',
+        ],
+        pEn: [
+          'Missing an instalment attracts a penalty in many places, and missing several in a row can even close the account. So set up an automatic debit from your savings account when opening the RD, with the debit date a day or two after payday. That small arrangement preserves the RD’s whole strength, discipline, without any effort.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'automate-your-savings-india',
+    sections: [
+      {
+        hHi: 'वेतन से सीधे: स्वैच्छिक भविष्य निधि',
+        hEn: 'Straight from salary: the Voluntary Provident Fund',
+        pHi: [
+          'वेतनभोगियों के लिए बचत को स्वचालित करने का एक तरीक़ा वेतन से ही शुरू होता है। EPF में अनिवार्य बारह प्रतिशत के अलावा कर्मचारी “स्वैच्छिक भविष्य निधि” (VPF) के ज़रिए ज़्यादा योगदान कर सकता है, जिस पर EPF जितना ही ब्याज मिलता है। पैसा वेतन खाते में आने से पहले ही कट जाता है, इसलिए ख़र्च होने का मौक़ा ही नहीं मिलता।',
+          'ध्यान रहे, कर्मचारी के एक साल में एक तय सीमा से ज़्यादा योगदान पर मिलने वाला ब्याज कर-योग्य है, और VPF का पैसा लंबी अवधि के लिए बँधा रहता है। इसलिए यह सेवानिवृत्ति जैसे लंबे, सुरक्षित लक्ष्य के लिए उपयुक्त है, और इसके लिए HR विभाग से फ़ॉर्म भरना होता है।',
+        ],
+        pEn: [
+          'For salaried people one way to automate saving starts with the salary itself. Beyond the mandatory twelve per cent to the EPF, an employee can contribute more through the Voluntary Provident Fund (VPF), which earns the same interest as the EPF. The money is deducted before the salary reaches the bank account, so it never gets the chance to be spent.',
+          'Bear in mind that interest on an employee’s contributions above a set annual limit is taxable, and VPF money stays locked for the long term. So it suits long, safe goals such as retirement, and setting it up means filling in a form with the HR department.',
+        ],
+      },
+      {
+        hHi: 'ई-मैंडेट: कार्ड नहीं, बैंक खाते से',
+        hEn: 'E-mandates: from the bank account, not the card',
+        pHi: [
+          'SIP, बीमा प्रीमियम और बिलों के स्वचालित भुगतान के लिए दो रास्ते होते हैं: बैंक खाते से NACH या UPI ऑटोपे का मैंडेट, और क्रेडिट या डेबिट कार्ड पर स्थायी निर्देश। रिज़र्व बैंक के नियमों के अनुसार कार्ड पर आवर्ती भुगतानों के लिए अतिरिक्त प्रमाणीकरण की शर्तें हैं, और एक तय राशि से बड़े भुगतानों में हर बार पुष्टि माँगी जा सकती है।',
+          'लंबी अवधि की बचत, जैसे SIP या RD, के लिए बैंक खाते से सीधा मैंडेट आम तौर पर ज़्यादा भरोसेमंद है। साल में एक बार अपने सभी सक्रिय मैंडेट की सूची बैंक ऐप में देखिए, और जो पुराने या अनचाहे हैं, उन्हें बंद कीजिए।',
+        ],
+        pEn: [
+          'Automatic payments for SIPs, insurance premiums and bills can run in two ways: a NACH or UPI Autopay mandate from the bank account, or a standing instruction on a credit or debit card. Under the Reserve Bank’s rules, recurring card payments carry additional authentication conditions, and payments above a set amount may require confirmation each time.',
+          'For long-term saving such as a SIP or RD, a direct mandate from the bank account is usually more dependable. Once a year, review the list of all active mandates in your bank app and cancel any that are old or unwanted.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sinking-fund-for-big-expenses',
+    sections: [
+      {
+        hHi: 'कोष का पैसा कहाँ रखें',
+        hEn: 'Where to keep the fund’s money',
+        pHi: [
+          'सिंकिंग फ़ंड का पैसा सुरक्षित और ज़रूरत के समय उपलब्ध होना चाहिए, क्योंकि उसकी तारीख़ पहले से तय है। एक साल के भीतर आने वाले ख़र्चों के लिए अलग बचत खाता या ठीक उसी तारीख़ पर परिपक्व होने वाली RD अच्छी जगह है। ज़्यादा बड़ी राशि और एक-दो साल की अवधि हो, तो FD या कम जोखिम वाले लिक्विड फ़ंड पर विचार किया जा सकता है।',
+          'इसे शेयर बाज़ार में मत रखिए। अगर बीमा प्रीमियम की तारीख़ से ठीक पहले बाज़ार गिरा हुआ हो, तो कोष का मक़सद ही ख़त्म हो जाता है। सिंकिंग फ़ंड का काम निश्चितता है, कमाई नहीं।',
+        ],
+        pEn: [
+          'A sinking fund’s money must be safe and available when needed, because its date is known in advance. For expenses due within a year, a separate savings account or an RD maturing on exactly that date is a good home. For larger sums over a year or two, an FD or a low-risk liquid fund can be considered.',
+          'Do not keep it in the stock market. If the market happens to be down just before the insurance premium falls due, the fund’s whole purpose is lost. A sinking fund’s job is certainty, not earnings.',
+        ],
+      },
+      {
+        hHi: 'चीज़ें बदलने का कोष',
+        hEn: 'A fund for replacing things',
+        pHi: [
+          'कुछ ख़र्च तारीख़ पर नहीं, उम्र पर आते हैं: फ़ोन, लैपटॉप, फ़्रिज, वॉशिंग मशीन, स्कूटर। ये सब किसी न किसी दिन बदलने पड़ते हैं, और अक्सर अचानक ख़राब होकर EMI या क्रेडिट कार्ड की ओर धकेलते हैं। हर बड़ी चीज़ के लिए अंदाज़ा लगाइए कि वह कितने साल चलेगी और नई कितने की आएगी, फिर उस राशि को महीनों में बाँटकर हर महीने अलग रखिए।',
+          'जब वह चीज़ ख़राब होगी, तो ख़र्च “आपात स्थिति” नहीं, एक पहले से तैयार योजना होगा, और आप जल्दबाज़ी में महँगा क़र्ज़ लेने के बजाय सोच-समझकर ख़रीदारी कर पाएँगे।',
+        ],
+        pEn: [
+          'Some expenses arrive not on a date but with age: the phone, laptop, fridge, washing machine, scooter. All of them must be replaced one day, and they often break down suddenly and push you towards an EMI or a credit card. For each major item, estimate how many years it will last and what a new one will cost, then divide that sum by the months and set it aside each month.',
+          'When the item fails, the cost will be a plan already prepared rather than an “emergency”, and you will be able to shop with thought instead of taking expensive credit in a hurry.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'savings-account-smart-use',
+    sections: [
+      {
+        hHi: 'बचत खाते का ब्याज भी कर-योग्य',
+        hEn: 'Savings interest is taxable too',
+        pHi: [
+          'बहुत-से लोग मानते हैं कि बचत खाते का ब्याज कर-मुक्त है। ऐसा नहीं है; यह आय में जुड़ता है। पुरानी कर व्यवस्था में धारा 80TTA के तहत बचत खाते के ब्याज पर ₹10,000 तक की कटौती मिलती है, और वरिष्ठ नागरिकों के लिए धारा 80TTB के तहत जमा पर ब्याज के लिए एक बड़ी कटौती है। नई व्यवस्था में ये कटौतियाँ नहीं मिलतीं।',
+          'रिटर्न भरते समय बचत खाते का ब्याज ज़रूर दिखाइए; यह जानकारी बैंक से आयकर विभाग तक पहुँचती है और AIS में दिखती है। छोटी राशि छोड़ देने से भी नोटिस आ सकता है।',
+        ],
+        pEn: [
+          'Many people believe savings account interest is tax-free. It is not; it is added to income. Under the old tax regime, Section 80TTA allows a deduction of up to ₹10,000 on savings account interest, and for senior citizens Section 80TTB allows a larger deduction on deposit interest. The new regime does not offer these deductions.',
+          'Always show savings account interest when filing your return; the bank reports it to the Income Tax Department and it appears in the AIS. Leaving out even a small amount can bring a notice.',
+        ],
+      },
+      {
+        hHi: 'न्यूनतम शेष और जुर्माने के नियम',
+        hEn: 'Minimum balance and the rules on penalties',
+        pHi: [
+          'कई बचत खातों में औसत न्यूनतम शेष की शर्त होती है, और उससे कम होने पर शुल्क लगता है। रिज़र्व बैंक के निर्देशों के अनुसार बैंक को ग्राहक को पहले सूचित करना होता है, जुर्माना कमी के अनुपात में होना चाहिए, और जुर्माने के कारण खाता शेष ऋणात्मक नहीं होना चाहिए। अगर आपसे इन नियमों के उलट शुल्क लिया गया है, तो बैंक में लिखित शिकायत कीजिए।',
+          'जो लोग न्यूनतम शेष नहीं रख पाते, उनके लिए “बेसिक सेविंग्स बैंक डिपॉज़िट अकाउंट” (BSBDA) एक विकल्प है, जिसमें न्यूनतम शेष की शर्त नहीं होती, हालाँकि कुछ सुविधाओं की सीमाएँ होती हैं।',
+        ],
+        pEn: [
+          'Many savings accounts carry an average minimum balance requirement, with a charge if the balance falls short. Under the Reserve Bank’s directions the bank must inform the customer first, the penalty must be proportionate to the shortfall, and the penalty must not push the account balance into the negative. If you have been charged contrary to these rules, complain to the bank in writing.',
+          'For people who cannot maintain a minimum balance, the Basic Savings Bank Deposit Account (BSBDA) is an option with no minimum balance requirement, though some facilities are limited.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'tax-saving-80c-options',
+    sections: [
+      {
+        hHi: 'बच्चों की ट्यूशन फ़ीस और होम लोन का मूलधन',
+        hEn: 'Children’s tuition fees and home loan principal',
+        pHi: [
+          'धारा 80C की सीमा भरने के लिए नया निवेश ख़रीदने से पहले देखिए कि कौन-से ख़र्च पहले से इसमें गिने जा सकते हैं। भारत में किसी स्कूल, कॉलेज या विश्वविद्यालय में पूर्णकालिक पढ़ाई के लिए दो बच्चों तक की ट्यूशन फ़ीस, यानी केवल ट्यूशन वाला हिस्सा, कटौती के योग्य है। होम लोन के मूलधन का पुनर्भुगतान, और घर ख़रीदने वाले साल में स्टांप ड्यूटी और पंजीकरण शुल्क भी इसी सीमा में आते हैं।',
+          'कई परिवारों में EPF योगदान, ट्यूशन फ़ीस और होम लोन का मूलधन मिलकर ही पूरी सीमा भर देते हैं, और किसी नए “कर-बचत” उत्पाद की ज़रूरत ही नहीं होती।',
+        ],
+        pEn: [
+          'Before buying a new investment to fill the Section 80C limit, see which expenses already count towards it. Tuition fees, the tuition component only, for up to two children in full-time education at a school, college or university in India qualify. Repayment of home loan principal, and the stamp duty and registration charges in the year a home is bought, also fall within the same limit.',
+          'In many families EPF contributions, tuition fees and home loan principal together fill the whole limit, and no new “tax-saving” product is needed at all.',
+        ],
+      },
+      {
+        hHi: 'जीवन बीमा प्रीमियम की एक शर्त',
+        hEn: 'A condition on life insurance premiums',
+        pHi: [
+          'जीवन बीमा का प्रीमियम 80C में गिना जाता है, लेकिन एक शर्त के साथ: 2012 के बाद ली गई पॉलिसियों में, वार्षिक प्रीमियम बीमा राशि के दस प्रतिशत तक ही कटौती के योग्य है। कई बचत-आधारित पॉलिसियों में प्रीमियम बीमा राशि की तुलना में ज़्यादा होता है, और तब पूरा प्रीमियम कटौती में नहीं आता। ऐसी पॉलिसी केवल कर बचाने के लिए लेने से पहले यह हिसाब ज़रूर कीजिए।',
+        ],
+        pEn: [
+          'Life insurance premiums count under 80C, but with a condition: for policies taken after 2012, the annual premium qualifies only up to ten per cent of the sum assured. In many savings-oriented policies the premium is high relative to the cover, and then the full premium does not qualify. Do this arithmetic before buying such a policy just to save tax.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'recurring-deposit-guide',
+    sections: [
+      {
+        hHi: 'RD या SIP: किस लक्ष्य के लिए कौन',
+        hEn: 'RD or SIP: which for which goal',
+        pHi: [
+          'दोनों में हर महीने एक तय राशि जाती है, पर काम अलग है। तीन साल से कम दूर के, तय राशि वाले लक्ष्यों के लिए RD उपयुक्त है, क्योंकि उसकी परिपक्वता राशि पहले से पता होती है। पाँच साल या उससे दूर के लक्ष्यों के लिए, जहाँ महँगाई से आगे निकलना ज़रूरी है, इक्विटी फ़ंड की SIP पर विचार किया जा सकता है, उतार-चढ़ाव की समझ के साथ।',
+        ],
+        pEn: [
+          'Both send a fixed amount every month, but their jobs differ. For goals less than three years away with a fixed amount, an RD suits, because its maturity value is known in advance. For goals five years or more away, where beating inflation matters, an equity fund SIP can be considered, with an understanding of the swings.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'automate-your-savings-india',
+    sections: [
+      {
+        hHi: '“पहले ख़ुद को भुगतान” का नियम',
+        hEn: 'The “pay yourself first” rule',
+        pHi: [
+          'ज़्यादातर लोग महीने के अंत में जो बचता है उसे बचाते हैं, और अक्सर कुछ बचता ही नहीं। स्वचालन इस क्रम को उलट देता है: वेतन आते ही पहले बचत और निवेश की राशि अपने आप निकल जाती है, जैसे वह कोई बिल हो जिसे चुकाना ही है, और बाक़ी पैसे से महीना चलता है।',
+          'शुरुआत में यह थोड़ा तंग लग सकता है, पर कुछ ही महीनों में ख़र्च अपने आप उपलब्ध राशि के हिसाब से ढल जाते हैं। यही इस नियम की ताक़त है: बचत इच्छाशक्ति पर नहीं, व्यवस्था पर टिकती है।',
+        ],
+        pEn: [
+          'Most people save whatever is left at the end of the month, and often nothing is left. Automation reverses the order: as soon as the salary arrives, the saving and investment amounts leave automatically, as if they were a bill that must be paid, and the month runs on what remains.',
+          'At first it can feel a little tight, but within a few months spending adjusts itself to the money available. That is the rule’s strength: saving rests on a system, not on willpower.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'sinking-fund-for-big-expenses',
+    sections: [
+      {
+        hHi: 'साल के अंत में बचा पैसा',
+        hEn: 'Money left over at the year’s end',
+        pHi: [
+          'कभी-कभी कोई ख़र्च अनुमान से कम निकलता है, और सिंकिंग फ़ंड में कुछ पैसा बच जाता है। उसे तुरंत ख़र्च करने के बजाय अगले साल के उसी मद में आगे बढ़ा दीजिए, या किसी ऐसे मद में डालिए जिसका अनुमान कम पड़ा था। साल के अंत में पूरी सूची पर एक बार नज़र डालिए और अगले साल के अनुमान सुधारिए। दो-तीन साल में आपके अनुमान इतने सटीक हो जाते हैं कि बड़े ख़र्च सचमुच “सामान्य” लगने लगते हैं।',
+        ],
+        pEn: [
+          'Sometimes an expense turns out smaller than estimated, and some money is left in the sinking fund. Rather than spending it at once, roll it forward into the same item for next year, or move it to an item whose estimate fell short. At the year’s end, look over the whole list once and refine next year’s estimates. Within two or three years your estimates become accurate enough that big expenses genuinely feel “ordinary”.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'savings-account-smart-use',
+    sections: [
+      {
+        hHi: 'सुरक्षा की सीमा: DICGC',
+        hEn: 'The limit of safety: DICGC',
+        pHi: [
+          'बैंक में रखी जमा पर जमा बीमा और ऋण गारंटी निगम (DICGC) का बीमा होता है, जो प्रति व्यक्ति, प्रति बैंक ₹5 लाख तक है, और इसमें बचत खाता, FD और RD सब मिलाकर गिने जाते हैं। जिनके पास इससे बड़ी नक़दी है, उनके लिए उसे दो-तीन अलग बैंकों में बाँटना एक सरल सुरक्षा उपाय है। एक ही बैंक की अलग-अलग शाखाएँ एक ही बैंक गिनी जाती हैं।',
+        ],
+        pEn: [
+          'Bank deposits are insured by the Deposit Insurance and Credit Guarantee Corporation (DICGC) up to ₹5 lakh per depositor per bank, counting savings, FDs and RDs together. For anyone holding more cash than that, spreading it across two or three different banks is a simple safeguard. Different branches of the same bank count as one bank.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'tax-saving-80c-options',
+    sections: [
+      {
+        hHi: 'नई व्यवस्था में 80C का क्या',
+        hEn: 'What happens to 80C under the new regime',
+        pHi: [
+          'नई कर व्यवस्था में धारा 80C की कटौती नहीं मिलती। इसलिए जो लोग नई व्यवस्था चुनते हैं, उनके लिए केवल कर बचाने के लिए कोई उत्पाद ख़रीदने का कोई अर्थ नहीं रह जाता। PPF, ELSS या सुकन्या जैसे विकल्प तब भी उपयोगी हो सकते हैं, पर उन्हें उनकी अपनी ख़ूबियों, जैसे सुरक्षा, अवधि और रिटर्न, के आधार पर चुनिए, कर-कटौती के आधार पर नहीं।',
+          'हर साल की शुरुआत में पहले यह तय कीजिए कि आप किस व्यवस्था में रहने वाले हैं, और फिर 80C की योजना बनाइए। उल्टा क्रम, यानी पहले मार्च में कर-बचत उत्पाद ख़रीदना और फिर पता चलना कि नई व्यवस्था बेहतर थी, सबसे आम और सबसे महँगी ग़लती है।',
+        ],
+        pEn: [
+          'The new tax regime does not allow the Section 80C deduction. So for those who choose the new regime, buying a product purely to save tax no longer makes sense. Options such as PPF, ELSS or Sukanya can still be useful, but choose them on their own merits, safety, term and return, not on the tax deduction.',
+          'At the start of each year, first decide which regime you will be in, and then plan 80C. The reverse order, buying tax-saving products in March and then discovering the new regime was better, is the most common and most expensive mistake.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'hra-exemption-guide',
+    sections: [
+      {
+        hHi: 'अपने घर में रहते हुए HRA?',
+        hEn: 'HRA while living in your own home?',
+        pHi: [
+          'HRA की छूट तभी मिलती है जब आप सचमुच किराया चुका रहे हों। अगर आप उसी शहर में अपने घर में रहते हैं, तो वेतन में HRA होने के बावजूद छूट नहीं मिलती, और वह पूरी राशि कर-योग्य है। लेकिन अगर आपका अपना घर किसी दूसरे शहर में है और आप नौकरी के शहर में किराये पर रहते हैं, तो नियमों के अनुसार किराये पर HRA छूट ली जा सकती है, और साथ ही दूसरे शहर के घर के होम लोन पर ब्याज की कटौती भी।',
+          'ऐसी स्थिति में दस्तावेज़ और ज़्यादा ज़रूरी हो जाते हैं: किराये का समझौता, रसीदें, मकान मालिक का विवरण, और यह दिखाने वाले काग़ज़ कि आपकी नौकरी उस शहर में है।',
+        ],
+        pEn: [
+          'The HRA exemption is available only when you are genuinely paying rent. If you live in your own home in the same city, there is no exemption even though your salary includes HRA, and the whole amount is taxable. But if your own home is in another city and you rent in the city where you work, the rules allow the HRA exemption on the rent, alongside the interest deduction on the other home’s loan.',
+          'In such a case the paperwork matters even more: the rent agreement, receipts, the landlord’s details, and papers showing that your job is in that city.',
+        ],
+      },
+      {
+        hHi: 'वेतन में HRA न हो तो धारा 80GG',
+        hEn: 'Section 80GG when salary has no HRA',
+        pHi: [
+          'स्व-रोज़गार वाले लोग, या ऐसे कर्मचारी जिनके वेतन में HRA नहीं है, पुरानी कर व्यवस्था में धारा 80GG के तहत चुकाए गए किराये पर एक सीमित कटौती ले सकते हैं। इसकी शर्तें हैं: आपको, आपके जीवनसाथी या नाबालिग बच्चे को उस शहर में घर का मालिकाना हक़ न हो, और एक घोषणा-पत्र भरना होता है। कटौती की सीमाएँ तय हैं और बजट के साथ बदल सकती हैं।',
+        ],
+        pEn: [
+          'Self-employed people, or employees whose salary has no HRA, can claim a limited deduction for rent paid under Section 80GG in the old tax regime. The conditions are that you, your spouse or your minor child must not own a home in that city, and a declaration form has to be filed. The deduction limits are fixed and can change with budgets.',
+        ],
+      },
+      {
+        hHi: 'नई व्यवस्था में HRA नहीं',
+        hEn: 'No HRA under the new regime',
+        pHi: [
+          'नई कर व्यवस्था में HRA छूट उपलब्ध नहीं है। इसलिए ऊँचा किराया चुकाने वाले वेतनभोगियों के लिए पुरानी और नई व्यवस्था की तुलना करते समय HRA छूट अक्सर सबसे बड़ा अंतर बनती है। तुलना से पहले अपने पूरे साल के किराये, वेतन के मूल हिस्से और HRA की राशि से छूट का सही हिसाब लगाइए।',
+        ],
+        pEn: [
+          'The new tax regime does not allow the HRA exemption. So for salaried people paying high rent, the HRA exemption is often the single biggest difference when comparing the old and new regimes. Before comparing, work out the exemption correctly from your full year’s rent, basic salary and HRA amount.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'capital-gains-basics-india',
+    sections: [
+      {
+        hHi: '2018 से पहले ख़रीदे शेयर: ग्रैंडफ़ादरिंग',
+        hEn: 'Shares bought before 2018: grandfathering',
+        pHi: [
+          '2018 में सूचीबद्ध शेयरों और इक्विटी फ़ंडों पर लंबी अवधि के पूँजीगत लाभ पर कर फिर से लगाया गया। उस समय तक के लाभ को कर से बचाने के लिए “ग्रैंडफ़ादरिंग” का नियम बना: 31 जनवरी 2018 से पहले ख़रीदे गए निवेशों के लिए, ख़रीद मूल्य की जगह उस दिन के भाव को लागत माना जा सकता है, अगर वह ज़्यादा हो, कुछ शर्तों के साथ।',
+          'जिनके पास बहुत पुराने शेयर या फ़ंड हैं, उनके लिए यह नियम कर में बड़ा अंतर ला सकता है। बेचने से पहले उस तारीख़ का भाव और अपनी असल ख़रीद लागत, दोनों सँभालकर रखिए, और कर की गणना में इस नियम को ज़रूर लागू करवाइए।',
+        ],
+        pEn: [
+          'In 2018 tax on long-term capital gains from listed shares and equity funds was reintroduced. To spare gains accumulated until then, a “grandfathering” rule was created: for investments bought before 31 January 2018, the price on that date can be taken as the cost instead of the purchase price, where it is higher, subject to conditions.',
+          'For people holding very old shares or funds, this rule can make a large difference to the tax. Before selling, keep both that date’s price and your actual purchase cost on record, and make sure the rule is applied in the tax calculation.',
+        ],
+      },
+      {
+        hHi: 'वार्षिक छूट का सोच-समझकर इस्तेमाल',
+        hEn: 'Using the annual exemption thoughtfully',
+        pHi: [
+          'सूचीबद्ध इक्विटी पर लंबी अवधि के लाभ का एक तय हिस्सा हर वित्त वर्ष कर-मुक्त है। कुछ निवेशक इसका उपयोग करते हैं: साल के अंत से पहले उतना लाभ बुक करते हैं जितना कर-मुक्त सीमा में आए, और उसी पैसे से फिर से निवेश कर देते हैं। इससे उनकी नई लागत ऊँची हो जाती है और भविष्य का कर-योग्य लाभ घटता है।',
+          'यह तरीक़ा तभी समझदारी है जब लेन-देन का ख़र्च और फ़ंड का एग्ज़िट लोड छोटा हो, और आप बेचने व दोबारा ख़रीदने के बीच बाज़ार के भाव के जोखिम को समझते हों। सीमा और नियम बजट के साथ बदलते रहते हैं, इसलिए हर साल ताज़ा नियम देखिए।',
+        ],
+        pEn: [
+          'A set amount of long-term gains on listed equity is tax-free each financial year. Some investors make use of it: before the year ends, they book as much gain as falls within the tax-free limit and reinvest the same money. Their new cost becomes higher, which reduces future taxable gains.',
+          'The approach makes sense only when transaction costs and the fund’s exit load are small, and you understand the market-price risk between selling and buying back. The limit and rules change with budgets, so check the current rules each year.',
+        ],
+      },
+      {
+        hHi: 'घर से जुड़े पुनर्निवेश के प्रावधान',
+        hEn: 'Reinvestment provisions linked to a home',
+        pHi: [
+          'आयकर क़ानून में कुछ प्रावधान हैं जिनके तहत लंबी अवधि का पूँजीगत लाभ तय शर्तों पर किसी आवासीय घर में या कुछ ख़ास बॉन्ड में दोबारा लगाने पर कर से छूट मिल सकती है। इनकी शर्तें, समय-सीमाएँ और अधिकतम राशियाँ बहुत बारीक हैं, और ग़लती होने पर पूरी छूट जा सकती है। किसी घर या ज़मीन की बड़ी बिक्री से पहले किसी चार्टर्ड अकाउंटेंट से सलाह लेना लगभग हमेशा अपनी फ़ीस से ज़्यादा बचाता है।',
+        ],
+        pEn: [
+          'Income tax law contains provisions under which long-term capital gains can be exempt, on set conditions, when reinvested in a residential house or in certain specified bonds. Their conditions, deadlines and maximum amounts are very detailed, and a mistake can lose the whole exemption. Before a large sale of a house or land, advice from a chartered accountant almost always saves more than its fee.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'form-26as-and-ais',
+    sections: [
+      {
+        hHi: 'AIS से PAN के दुरुपयोग का पता',
+        hEn: 'Spotting PAN misuse through the AIS',
+        pHi: [
+          'AIS केवल रिटर्न भरने का औज़ार नहीं, आपकी वित्तीय पहचान की सुरक्षा का भी आईना है। अगर उसमें कोई ऐसा बड़ा लेन-देन, खाता, ब्याज या संपत्ति की ख़रीद दिखे जिसके बारे में आपको कुछ पता नहीं, तो यह संकेत हो सकता है कि किसी ने आपके PAN का दुरुपयोग किया है, जैसे किसी फ़र्ज़ी खाते या लोन के लिए।',
+          'ऐसी स्थिति में AIS पोर्टल पर उस जानकारी पर अपनी प्रतिक्रिया दर्ज कीजिए, संबंधित संस्था से संपर्क कीजिए, और ज़रूरत हो तो साइबर अपराध पोर्टल पर शिकायत कीजिए। साथ ही अपनी क्रेडिट रिपोर्ट भी देखिए, ताकि पता चले कि आपके नाम पर कोई अनजाना लोन तो नहीं।',
+        ],
+        pEn: [
+          'The AIS is not only a tool for filing returns but also a mirror for protecting your financial identity. If it shows a large transaction, account, interest or property purchase you know nothing about, it may be a sign that someone has misused your PAN, for instance for a fake account or loan.',
+          'In that case, record your feedback on that information in the AIS portal, contact the institution concerned, and complain on the cybercrime portal if needed. Check your credit report as well, to see whether any unknown loan exists in your name.',
+        ],
+      },
+      {
+        hHi: 'पहले से भरा रिटर्न: आँख मूँदकर मत मानिए',
+        hEn: 'The pre-filled return: do not accept it blindly',
+        pHi: [
+          'आयकर पोर्टल रिटर्न का बड़ा हिस्सा AIS और फ़ॉर्म 26AS की जानकारी से पहले ही भर देता है। यह सुविधा समय बचाती है, पर उसे बिना जाँचे जमा करना जोखिम भरा है। किसी आय के दो बार गिने जाने, ग़लत श्रेणी में दिखने, या आपकी कोई आय छूट जाने की संभावना रहती है, जैसे किसी ऐसे बैंक का ब्याज जिसने जानकारी नहीं भेजी।',
+          'रिटर्न जमा करने से पहले हर पहले से भरी संख्या को अपने दस्तावेज़ों से मिलाइए: फ़ॉर्म 16, बैंक के ब्याज प्रमाणपत्र और पूँजीगत लाभ के विवरण। अंतिम ज़िम्मेदारी करदाता की है, पोर्टल की नहीं।',
+        ],
+        pEn: [
+          'The income tax portal pre-fills much of the return from the AIS and Form 26AS. The facility saves time, but submitting it unchecked is risky. Income may be counted twice, shown under the wrong head, or some of your income may be missing, such as interest from a bank that did not report it.',
+          'Before submitting the return, match every pre-filled number against your own documents: Form 16, bank interest certificates and capital gains statements. The final responsibility lies with the taxpayer, not the portal.',
+        ],
+      },
+      {
+        hHi: 'हर साल जून-जुलाई की आदत',
+        hEn: 'A June–July habit every year',
+        pHi: [
+          'वित्त वर्ष ख़त्म होने के बाद, आम तौर पर जून और जुलाई तक, ज़्यादातर संस्थाओं की जानकारी AIS में आ जाती है। रिटर्न भरने से पहले उसी समय AIS और फ़ॉर्म 26AS डाउनलोड करके अपनी कर-फ़ाइल में रखिए। साल दर साल यह संग्रह आपकी आय का एक भरोसेमंद रिकॉर्ड बन जाता है।',
+        ],
+        pEn: [
+          'After the financial year ends, most institutions’ information reaches the AIS by around June and July. Before filing, download the AIS and Form 26AS at that time and keep them in your tax file. Year after year that collection becomes a dependable record of your income.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'insurance-vs-investment',
+    sections: [
+      {
+        hHi: 'ULIP: लॉक-इन और शुल्क',
+        hEn: 'ULIPs: lock-in and charges',
+        pHi: [
+          'यूनिट लिंक्ड बीमा योजना (ULIP) बीमा और बाज़ार-आधारित निवेश को एक साथ जोड़ती है। इसमें पाँच साल का लॉक-इन होता है, और प्रीमियम से कई तरह के शुल्क कटते हैं: प्रीमियम आवंटन, बीमा (मॉर्टैलिटी) शुल्क, फ़ंड प्रबंधन शुल्क और पॉलिसी प्रशासन शुल्क। शुरुआती वर्षों में ये शुल्क रिटर्न पर बड़ा असर डाल सकते हैं।',
+          'ULIP लेने से पहले उसके “बेनिफ़िट इलस्ट्रेशन” में हर शुल्क देखिए, और उसकी तुलना एक अलग टर्म पॉलिसी और उसी रक़म की म्यूचुअल फ़ंड SIP के कुल ख़र्च से कीजिए। अक्सर अलग-अलग रखना सस्ता और ज़्यादा पारदर्शी निकलता है।',
+        ],
+        pEn: [
+          'A Unit Linked Insurance Plan (ULIP) combines insurance with market-linked investment. It carries a five-year lock-in, and several charges are deducted from the premium: premium allocation, mortality (insurance) charges, fund management charges and policy administration charges. In the early years these charges can weigh heavily on returns.',
+          'Before taking a ULIP, look at every charge in its “benefit illustration”, and compare the total cost with a separate term policy plus a mutual fund SIP of the same amount. Keeping the two separate often turns out cheaper and more transparent.',
+        ],
+      },
+      {
+        hHi: 'बड़े प्रीमियम पर परिपक्वता कर-योग्य',
+        hEn: 'Maturity taxable on large premiums',
+        pHi: [
+          'बहुत-से लोग जीवन बीमा पॉलिसी इसलिए लेते हैं कि परिपक्वता राशि कर-मुक्त होगी। हाल के वर्षों में नियम बदले हैं: एक तय सीमा से ज़्यादा वार्षिक प्रीमियम वाली नई पॉलिसियों की परिपक्वता राशि अब कर-योग्य हो सकती है, ULIP और पारंपरिक पॉलिसियों के लिए अलग-अलग सीमाओं के साथ। मृत्यु पर मिलने वाली राशि पर यह नियम आम तौर पर लागू नहीं होता।',
+          'इसलिए “कर-मुक्त रिटर्न” के वादे पर बड़ी पॉलिसी लेने से पहले मौजूदा नियम लिखित में पूछिए और किसी स्वतंत्र सलाहकार से जाँच करवाइए।',
+        ],
+        pEn: [
+          'Many people take life insurance policies because the maturity amount will be tax-free. The rules have changed in recent years: the maturity proceeds of new policies with annual premiums above a set limit can now be taxable, with separate limits for ULIPs and traditional policies. The rule does not generally apply to the amount paid on death.',
+          'So before taking a large policy on the promise of a “tax-free return”, ask for the current rules in writing and have them checked by an independent adviser.',
+        ],
+      },
+      {
+        hHi: '“टर्म लीजिए और बाक़ी निवेश कीजिए” का ईमानदार रूप',
+        hEn: 'The honest version of “buy term and invest the rest”',
+        pHi: [
+          'यह सलाह तभी काम करती है जब “बाक़ी” सचमुच निवेश हो। अगर टर्म पॉलिसी से बचा पैसा हर महीने अपने आप SIP या PPF में न जाए, तो वह धीरे-धीरे ख़र्च में घुल जाता है, और व्यक्ति न बीमा-बचत योजना वाली बचत कर पाता है, न अलग निवेश। इसलिए टर्म पॉलिसी लेते ही उसी दिन, बचने वाली राशि के लिए एक स्वचालित SIP शुरू कर दीजिए।',
+        ],
+        pEn: [
+          'The advice works only if “the rest” really is invested. If the money saved by choosing a term policy does not go automatically into a SIP or PPF every month, it slowly dissolves into spending, and the person ends up with neither the savings of an insurance-savings plan nor a separate investment. So on the day you buy the term policy, start an automatic SIP for the amount saved.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'motor-insurance-basics',
+    sections: [
+      {
+        hHi: 'नए वाहन पर लंबी अवधि का थर्ड-पार्टी बीमा',
+        hEn: 'Long-term third-party cover on new vehicles',
+        pHi: [
+          '2018 से नई कारों के लिए तीन साल और नए दोपहिया वाहनों के लिए पाँच साल का थर्ड-पार्टी बीमा ख़रीद के समय ही अनिवार्य है। इसलिए नई गाड़ी के साथ मिली पॉलिसी में थर्ड-पार्टी हिस्सा कई साल का होता है, जबकि अपने वाहन के नुक़सान वाला “ओन डैमेज” हिस्सा अक्सर एक साल का होता है और हर साल नवीनीकृत करना पड़ता है।',
+          'यह अंतर समझना ज़रूरी है, क्योंकि कई लोग मान लेते हैं कि पूरा बीमा कई साल का है, और ओन डैमेज का नवीनीकरण भूल जाते हैं। फिर दुर्घटना में अपनी गाड़ी का नुक़सान बिना बीमा के उठाना पड़ता है। अपनी पॉलिसी में दोनों हिस्सों की समाप्ति तारीख़ें अलग-अलग देखिए।',
+        ],
+        pEn: [
+          'Since 2018, three years of third-party cover for new cars and five years for new two-wheelers has been compulsory at the time of purchase. So the policy that comes with a new vehicle has a multi-year third-party portion, while the “own damage” portion, covering damage to your own vehicle, is often for one year and must be renewed annually.',
+          'Understanding the difference matters, because many people assume the whole cover runs for several years and forget to renew own damage. Then, after an accident, they bear the damage to their own vehicle uninsured. Check the expiry dates of the two portions separately in your policy.',
+        ],
+      },
+      {
+        hHi: 'मालिक-चालक का व्यक्तिगत दुर्घटना कवर',
+        hEn: 'The owner-driver’s personal accident cover',
+        pHi: [
+          'मोटर बीमा के साथ वाहन के मालिक-चालक के लिए एक अनिवार्य व्यक्तिगत दुर्घटना कवर होता है, जो दुर्घटना में मृत्यु या स्थायी पूर्ण विकलांगता पर एक तय राशि देता है। जिनके पास पहले से पर्याप्त व्यक्तिगत दुर्घटना बीमा है, उनके लिए नियमों में कुछ छूट है, पर ज़्यादातर लोगों के लिए यह कवर बना रहना चाहिए। साथ बैठने वालों के लिए अलग से कवर ऐड-ऑन के रूप में लिया जा सकता है।',
+        ],
+        pEn: [
+          'Motor insurance carries a compulsory personal accident cover for the owner-driver, paying a set amount on death or permanent total disability in an accident. The rules allow some exemption for people who already hold adequate personal accident insurance, but for most people the cover should remain. Cover for passengers can be added separately as an add-on.',
+        ],
+      },
+      {
+        hHi: 'गाड़ी बेचें, NCB साथ ले जाएँ',
+        hEn: 'Sell the car, keep the NCB',
+        pHi: [
+          'नो-क्लेम बोनस (NCB) वाहन का नहीं, मालिक का होता है। गाड़ी बेचते समय बीमा पॉलिसी नए मालिक के नाम स्थानांतरित होती है, पर आपका जमा NCB आपके साथ रहता है। इसके लिए बीमा कंपनी से “NCB रिटेंशन” या बचत का प्रमाणपत्र लीजिए, और अगली गाड़ी की पॉलिसी में उसे लागू करवाइए। कई साल का NCB ओन डैमेज प्रीमियम में अच्छी-ख़ासी छूट देता है, और यह जानकारी न होने से बहुत-से लोग उसे यूँ ही छोड़ देते हैं।',
+        ],
+        pEn: [
+          'The no-claim bonus (NCB) belongs to the owner, not the vehicle. When you sell a car the policy transfers to the new owner, but your accumulated NCB stays with you. Ask the insurer for an “NCB retention” certificate and have it applied to your next vehicle’s policy. Several years of NCB give a sizeable discount on the own-damage premium, and many people simply abandon it for want of knowing.',
+        ],
+      },
+      {
+        hHi: 'उपयोग-आधारित बीमा',
+        hEn: 'Usage-based insurance',
+        pHi: [
+          'बीमा नियामक ने कंपनियों को “पे-ऐज़-यू-ड्राइव” जैसे विकल्प देने की अनुमति दी है, जिनमें प्रीमियम इस पर निर्भर होता है कि आप वाहन कितना चलाते हैं, और कुछ में ड्राइविंग के तरीक़े पर भी। जो लोग साल में बहुत कम गाड़ी चलाते हैं, उनके लिए यह किफ़ायती हो सकता है। शर्तें, निगरानी के तरीक़े और सीमा पार करने पर क्या होगा, यह ध्यान से पढ़िए।',
+        ],
+        pEn: [
+          'The insurance regulator has allowed companies to offer options such as “pay as you drive”, in which the premium depends on how much you use the vehicle, and in some cases on how you drive. For people who drive very little in a year this can be economical. Read the conditions, the monitoring method and what happens if you exceed the limit carefully.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'insurance-claim-process-tips',
+    sections: [
+      {
+        hHi: 'कैशलेस दावों की नई समय-सीमाएँ',
+        hEn: 'New time limits for cashless claims',
+        pHi: [
+          'बीमा नियामक IRDAI ने 2024 में स्वास्थ्य बीमा के लिए ग्राहक-हित वाले नियम मज़बूत किए, जिनमें कैशलेस अनुरोध पर बहुत कम समय में निर्णय और अस्पताल से छुट्टी के समय अंतिम मंज़ूरी के लिए कुछ घंटों की समय-सीमा शामिल है। देरी होने पर अतिरिक्त अस्पताल शुल्क का बोझ बीमा कंपनी पर डालने की बात भी नियमों में है।',
+          'व्यवहार में इसका लाभ उठाने के लिए अस्पताल के बीमा डेस्क से छुट्टी की प्रक्रिया जल्दी शुरू करवाइए, सभी दस्तावेज़ तैयार रखिए, और अगर मंज़ूरी में अनुचित देर हो, तो उसका समय और विवरण लिखकर रखिए। यही नोट बाद में शिकायत का आधार बनते हैं।',
+        ],
+        pEn: [
+          'In 2024 IRDAI, the insurance regulator, strengthened customer-focused rules for health insurance, including very short timelines for deciding cashless requests and a limit of a few hours for final approval at discharge. The rules also provide for extra hospital charges caused by delay to be borne by the insurer.',
+          'To benefit in practice, ask the hospital’s insurance desk to start the discharge process early, keep all documents ready, and if approval is unreasonably delayed, note down the times and details. Those notes later become the basis of a complaint.',
+        ],
+      },
+      {
+        hHi: 'दावे की डायरी',
+        hEn: 'A claim diary',
+        pHi: [
+          'दावे के दौरान हर बातचीत लिखिए: तारीख़, समय, किससे बात हुई, क्या कहा गया, और कोई संदर्भ संख्या। हर ईमेल और दस्तावेज़ की प्रति एक फ़ोल्डर में रखिए। दावे लंबे चलते हैं, और कई बार अलग-अलग अधिकारी अलग बातें कहते हैं; लिखा हुआ रिकॉर्ड इन उलझनों को सुलझाने का सबसे भरोसेमंद तरीक़ा है।',
+        ],
+        pEn: [
+          'During a claim, note every conversation: date, time, who you spoke to, what was said, and any reference number. Keep a copy of every email and document in one folder. Claims can run long, and different officials sometimes say different things; a written record is the most reliable way to resolve such confusion.',
+        ],
+      },
+      {
+        hHi: 'शिकायत की सीढ़ी',
+        hEn: 'The ladder of complaints',
+        pHi: [
+          'दावा अस्वीकार हो या उसमें अनुचित कटौती हो, तो पहले बीमा कंपनी के शिकायत निवारण अधिकारी को लिखित शिकायत दीजिए। तय समय में संतोषजनक जवाब न मिले, तो IRDAI के “बीमा भरोसा” पोर्टल पर शिकायत दर्ज कीजिए, और उसके बाद अपने क्षेत्र के बीमा लोकपाल के पास, जहाँ शिकायत का कोई शुल्क नहीं है। हर चरण पर अस्वीकृति पत्र, पॉलिसी दस्तावेज़ और दावे के काग़ज़ साथ रखिए।',
+        ],
+        pEn: [
+          'If a claim is rejected or unfairly reduced, first complain in writing to the insurer’s grievance redressal officer. If there is no satisfactory reply within the set time, register a complaint on IRDAI’s “Bima Bharosa” portal, and after that with the Insurance Ombudsman for your area, where there is no fee for complaining. At each step, keep the rejection letter, policy documents and claim papers to hand.',
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
