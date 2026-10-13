@@ -7591,6 +7591,1019 @@ export const EXPANSIONS: Expansion[] = [
       },
     ],
   },
+  {
+    slug: 'sinking-fund-for-big-expenses',
+    sections: [
+      {
+        hHi: 'नाम रखिए',
+        hEn: 'Give each pot a name',
+        pHi: [
+          'हर कोष को एक साफ़ नाम दीजिए, जैसे “स्कूल फ़ीस जून” या “गाड़ी का बीमा मार्च”। नाम वाले पैसे को किसी और काम में ख़र्च करना मन को कठिन लगता है।',
+        ],
+        pEn: [
+          'Give each fund a clear name, such as “school fees June” or “car insurance March”. Money with a name on it feels much harder to spend on something else.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'savings-account-smart-use',
+    sections: [
+      {
+        hHi: 'ऑटो-स्वीप की सीमा तय कीजिए',
+        hEn: 'Set the auto-sweep threshold',
+        pHi: [
+          'स्वीप सुविधा में वह सीमा ख़ुद तय कीजिए जिसके ऊपर की राशि FD में जाए, ताकि खाते में महीने भर के ख़र्च जितना पैसा हमेशा रहे और बाक़ी अपने आप बेहतर ब्याज कमाए।',
+        ],
+        pEn: [
+          'In the sweep facility, set the threshold yourself above which money moves into an FD, so that the account always holds a month’s spending and the rest earns better interest automatically.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'tax-saving-80c-options',
+    sections: [
+      {
+        hHi: 'एक याद दिलाना',
+        hEn: 'A reminder',
+        pHi: [
+          'कर बचाना लक्ष्य का साधन है, लक्ष्य नहीं।',
+        ],
+        pEn: [
+          'Saving tax is a means to a goal, not the goal itself.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'hra-exemption-guide',
+    sections: [
+      {
+        hHi: 'साल की शुरुआत में घोषणा',
+        hEn: 'Declare at the start of the year',
+        pHi: [
+          'वित्त वर्ष की शुरुआत में ही नियोक्ता को किराये की अनुमानित राशि बताइए, ताकि हर महीने का TDS सही कटे और साल के अंत में अचानक बड़ी कटौती न हो।',
+        ],
+        pEn: [
+          'Tell your employer your expected rent at the start of the financial year, so that the monthly TDS is right and no sudden large deduction arrives at the year’s end.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'capital-gains-basics-india',
+    sections: [
+      {
+        hHi: 'म्यूचुअल फ़ंड का पूँजीगत लाभ विवरण',
+        hEn: 'The mutual fund capital gains statement',
+        pHi: [
+          'म्यूचुअल फ़ंड रजिस्ट्रार साल के अंत में एक “पूँजीगत लाभ विवरण” देते हैं, जिसमें हर बिक्री का अल्पकालिक और दीर्घकालिक लाभ अलग-अलग दिखता है। रिटर्न भरते समय इसी विवरण का इस्तेमाल कीजिए; हाथ से हिसाब लगाने में ग़लती की संभावना बहुत ज़्यादा है।',
+        ],
+        pEn: [
+          'Mutual fund registrars provide a “capital gains statement” at the year’s end, showing the short-term and long-term gain on every redemption separately. Use that statement when filing your return; calculating by hand invites mistakes.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'form-26as-and-ais',
+    sections: [
+      {
+        hHi: 'TDS कटा पर जमा नहीं हुआ?',
+        hEn: 'TDS deducted but not deposited?',
+        pHi: [
+          'कभी-कभी वेतन पर्ची या किराये की रसीद में TDS कटा दिखता है, पर फ़ॉर्म 26AS में नहीं। इसका अर्थ है कि कटौती करने वाले ने कर सरकार के पास जमा नहीं किया या उसका रिटर्न ग़लत भरा। इस स्थिति में आपको उस कर का क्रेडिट नहीं मिलता, जब तक रिकॉर्ड ठीक न हो।',
+          'ऐसे में नियोक्ता या कटौती करने वाले से लिखित में संपर्क कीजिए और उनसे संशोधित TDS रिटर्न भरने को कहिए। रिटर्न भरने से पहले यह जाँच इसीलिए ज़रूरी है।',
+        ],
+        pEn: [
+          'Sometimes a payslip or rent receipt shows TDS deducted, but Form 26AS does not. It means the deductor did not deposit the tax with the government or filed their return wrongly. In that case you do not get credit for the tax until the record is fixed.',
+          'Contact the employer or deductor in writing and ask them to file a corrected TDS return. That is exactly why this check matters before filing.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'insurance-vs-investment',
+    sections: [
+      {
+        hHi: 'पॉलिसी बेचने वाले से तीन सवाल',
+        hEn: 'Three questions for anyone selling a policy',
+        pHi: [
+          'पहला: अगर मैं आज मर जाऊँ, तो परिवार को कितनी राशि मिलेगी? दूसरा: अगर मैं जीवित रहूँ, तो परिपक्वता पर कितनी राशि मिलेगी, और उसकी वार्षिक दर कितनी बनती है? तीसरा: अगर मुझे तीसरे साल में पैसा चाहिए, तो कितना मिलेगा? इन तीन सवालों के लिखित जवाब किसी भी मिली-जुली पॉलिसी की असली तस्वीर दिखा देते हैं।',
+        ],
+        pEn: [
+          'First: if I died today, how much would my family receive? Second: if I survive, how much will I get at maturity, and what annual rate does that work out to? Third: if I needed the money in year three, how much would I get? Written answers to these three questions show the true picture of any mixed policy.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'motor-insurance-basics',
+    sections: [
+      {
+        hHi: 'प्रदूषण प्रमाणपत्र और दावा',
+        hEn: 'The pollution certificate and the claim',
+        pHi: [
+          'वैध प्रदूषण नियंत्रण (PUC) प्रमाणपत्र रखना क़ानूनन ज़रूरी है, और उसकी कमी पर चालान हो सकता है। एक आम डर यह है कि PUC न होने पर बीमा दावा अपने आप ख़ारिज हो जाएगा। बीमा नियामक ने स्पष्ट किया है कि केवल PUC न होने के आधार पर दावा ख़ारिज नहीं किया जाना चाहिए। फिर भी PUC हमेशा वैध रखिए; क़ानून का पालन और परेशानी से बचाव, दोनों के लिए।',
+        ],
+        pEn: [
+          'Holding a valid pollution under control (PUC) certificate is a legal requirement, and lacking one can bring a fine. A common fear is that a missing PUC will automatically get an insurance claim rejected. The insurance regulator has clarified that a claim should not be rejected solely because a PUC was missing. Still, always keep the PUC valid, both to obey the law and to avoid trouble.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'insurance-claim-process-tips',
+    sections: [
+      {
+        hHi: 'जीवन बीमा दावा: परिवार के लिए तैयारी',
+        hEn: 'Life insurance claims: preparing the family',
+        pHi: [
+          'जीवन बीमा का दावा उस समय करना पड़ता है जब परिवार सबसे ज़्यादा दुख में होता है, और काग़ज़ ढूँढना सबसे कठिन लगता है। इसलिए आज ही एक काग़ज़ पर अपनी सभी पॉलिसियों की सूची लिखिए: कंपनी, पॉलिसी संख्या, बीमा राशि, नामांकित व्यक्ति, और एजेंट या शाखा का संपर्क। इसे उस जगह रखिए जिसकी जानकारी जीवनसाथी या किसी भरोसेमंद सदस्य को हो।',
+          'दावे के लिए आम तौर पर मृत्यु प्रमाणपत्र, पॉलिसी दस्तावेज़, नामांकित व्यक्ति का पहचान-पत्र और बैंक विवरण, और कुछ मामलों में अस्पताल या पुलिस के काग़ज़ माँगे जाते हैं। ज़्यादातर बीमा कंपनियाँ दावा ऑनलाइन भी स्वीकार करती हैं। जितनी जल्दी सूचना दी जाए, प्रक्रिया उतनी आसान रहती है।',
+        ],
+        pEn: [
+          'A life insurance claim has to be made when the family is in the deepest grief, and finding papers feels hardest of all. So today, write a list of all your policies on one sheet: insurer, policy number, sum assured, nominee, and the agent or branch contact. Keep it somewhere your spouse or a trusted family member knows about.',
+          'A claim usually requires the death certificate, the policy document, the nominee’s identity proof and bank details, and in some cases hospital or police papers. Most insurers also accept claims online. The sooner the insurer is informed, the smoother the process.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'credit-card-smart-use',
+    sections: [
+      {
+        hHi: 'ब्याज-मुक्त अवधि कैसे काम करती है',
+        hEn: 'How the interest-free period works',
+        pHi: [
+          'क्रेडिट कार्ड की “ब्याज-मुक्त अवधि” ख़रीद की तारीख़ पर निर्भर है। बिलिंग चक्र की शुरुआत में की गई ख़रीद पर भुगतान की आख़िरी तारीख़ तक लगभग डेढ़ महीना मिल सकता है, जबकि चक्र के अंत में की गई ख़रीद पर कुछ ही हफ़्ते। लेकिन यह लाभ तभी मिलता है जब पिछला पूरा बिल समय पर चुकाया गया हो।',
+          'अगर आप पिछले महीने का कुछ हिस्सा बकाया छोड़ देते हैं, तो नई ख़रीद पर भी ख़रीद के दिन से ही ब्याज लगने लगता है, और ब्याज-मुक्त अवधि ख़त्म हो जाती है। यही कारण है कि “थोड़ा-सा बकाया” भी बहुत महँगा पड़ता है।',
+        ],
+        pEn: [
+          'A credit card’s “interest-free period” depends on the date of purchase. A purchase made early in the billing cycle can get about a month and a half until the payment due date, while one made at the end of the cycle gets only a few weeks. But the benefit applies only if the previous bill was paid in full and on time.',
+          'If you leave part of last month’s bill unpaid, new purchases too start attracting interest from the day of purchase, and the interest-free period disappears. That is why even “a small balance” turns out very expensive.',
+        ],
+      },
+      {
+        hHi: 'कार्ड से नक़द निकालना: सबसे महँगा लेन-देन',
+        hEn: 'Cash withdrawals on a card: the costliest transaction',
+        pHi: [
+          'क्रेडिट कार्ड से ATM पर नक़द निकालने पर आम तौर पर एक शुल्क लगता है, और ब्याज निकासी के दिन से ही शुरू हो जाता है, कोई ब्याज-मुक्त अवधि नहीं मिलती। इसलिए यह आपात स्थिति का भी आख़िरी विकल्प होना चाहिए। विदेश में कार्ड इस्तेमाल करने पर विदेशी मुद्रा मार्कअप भी लगता है, जो बिल में अलग से दिखता है।',
+        ],
+        pEn: [
+          'Withdrawing cash from an ATM on a credit card usually incurs a fee, and interest starts from the day of withdrawal, with no interest-free period. So it should be the last resort even in an emergency. Using a card abroad also attracts a foreign currency markup, shown separately on the bill.',
+        ],
+      },
+      {
+        hHi: 'कार्ड बंद करने का आपका अधिकार',
+        hEn: 'Your right to close a card',
+        pHi: [
+          'रिज़र्व बैंक के निर्देशों के अनुसार, अगर आपके सारे बकाये चुका दिए गए हैं, तो कार्ड बंद करने का अनुरोध कुछ कार्य-दिवसों के भीतर पूरा होना चाहिए, और देरी होने पर कार्ड कंपनी को हर दिन के लिए ग्राहक को एक तय राशि देनी होती है। कोई भी कार्ड आपकी सहमति के बिना जारी या सक्रिय नहीं किया जा सकता।',
+          'कार्ड बंद करते समय लिखित पुष्टि माँगिए, और अगले महीने का क्रेडिट रिपोर्ट देखकर पक्का कीजिए कि खाता “बंद” दिख रहा है। बंद करने से पहले उस कार्ड से जुड़े सभी स्वचालित भुगतान दूसरी जगह स्थानांतरित कर दीजिए।',
+        ],
+        pEn: [
+          'Under the Reserve Bank’s directions, once all your dues are paid, a request to close a card must be completed within a few working days, and if there is delay the card issuer must pay the customer a set amount for each day. No card can be issued or activated without your consent.',
+          'When closing a card, ask for written confirmation, and check the next month’s credit report to make sure the account shows as “closed”. Before closing, move every automatic payment linked to that card elsewhere.',
+        ],
+      },
+      {
+        hHi: 'एक या दो कार्ड काफ़ी हैं',
+        hEn: 'One or two cards are enough',
+        pHi: [
+          'हर नए ऑफ़र के साथ नया कार्ड लेना आसान है, पर हर कार्ड का एक बिल, एक भुगतान तारीख़ और भूल जाने का एक मौक़ा है। ज़्यादातर लोगों के लिए एक या दो कार्ड, जिनका पूरा बिल हर महीने स्वचालित रूप से चुकता हो, सबसे सुरक्षित व्यवस्था है।',
+        ],
+        pEn: [
+          'Taking a new card with every offer is easy, but each card is one more bill, one more due date and one more chance to forget. For most people one or two cards, each paid in full automatically every month, is the safest arrangement.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'minimum-due-trap',
+    sections: [
+      {
+        hHi: 'नई ख़रीद पर भी तुरंत ब्याज',
+        hEn: 'Immediate interest on new purchases too',
+        pHi: [
+          'न्यूनतम राशि चुकाने का सबसे कम समझा जाने वाला असर यह है कि जब तक पिछला बकाया पूरा नहीं चुकता, नई ख़रीदारियों पर भी ब्याज-मुक्त अवधि नहीं मिलती। यानी आज की चाय, पेट्रोल और किराने पर भी उसी दिन से ब्याज शुरू हो जाता है। कई लोग इसे महीनों तक नहीं समझते और सोचते हैं कि केवल पुराना बकाया ही ब्याज कमा रहा है।',
+          'इसके ऊपर ब्याज और शुल्कों पर GST भी लगता है, जिससे असल लागत और बढ़ जाती है। इसलिए न्यूनतम राशि चुकाने वाले महीनों में कार्ड का इस्तेमाल बंद कर देना सबसे पहला क़दम है।',
+        ],
+        pEn: [
+          'The least understood effect of paying only the minimum is that, until the previous balance is cleared in full, new purchases get no interest-free period either. Today’s tea, petrol and groceries start attracting interest from the same day. Many people do not realise this for months and think only the old balance is earning interest.',
+          'On top of that, GST is charged on interest and fees, pushing the real cost higher still. So in months when only the minimum is being paid, stopping use of the card is the very first step.',
+        ],
+      },
+      {
+        hHi: 'नियम क्या कहते हैं',
+        hEn: 'What the rules say',
+        pHi: [
+          'रिज़र्व बैंक के क्रेडिट कार्ड निर्देशों के अनुसार न्यूनतम देय राशि इस तरह तय होनी चाहिए कि बकाया लगातार बढ़ता न जाए, यानी केवल न्यूनतम चुकाने पर भी मूलधन धीरे-धीरे घटे। कार्ड कंपनियों को बिल में यह भी बताना होता है कि केवल न्यूनतम राशि चुकाने पर पूरा बकाया चुकाने में कितना समय और कितना ब्याज लगेगा।',
+          'अपने अगले बिल में यह जानकारी ढूँढिए और पढ़िए। वह एक संख्या, जो बताती है कि केवल न्यूनतम चुकाने पर बकाया ख़त्म होने में कितने साल लगेंगे, अक्सर सबसे असरदार चेतावनी होती है।',
+        ],
+        pEn: [
+          'Under the Reserve Bank’s credit card directions, the minimum amount due must be set so that the balance does not keep growing; paying only the minimum should still reduce the principal slowly. Card issuers must also state on the bill how long it would take, and how much interest it would cost, to clear the balance by paying only the minimum.',
+          'Look for that information on your next bill and read it. That one number, the years it would take to clear the balance on minimum payments alone, is often the most powerful warning there is.',
+        ],
+      },
+      {
+        hHi: 'EMI में बदलने का विकल्प: सोच-समझकर',
+        hEn: 'Converting to EMI: think it through',
+        pHi: [
+          'कई कार्ड कंपनियाँ बड़े बकाये को कम ब्याज वाली EMI में बदलने का विकल्प देती हैं। यह कार्ड के सामान्य ब्याज से सस्ता हो सकता है, पर प्रोसेसिंग शुल्क, GST और कभी-कभी पूर्व-भुगतान शुल्क जोड़कर असल लागत देखिए। EMI में बदलने के बाद भी कार्ड की सीमा उतनी घट जाती है, इसलिए उसी कार्ड पर नया ख़र्च मत कीजिए।',
+          'अगर बकाया बड़ा है, तो एक कम ब्याज वाला पर्सनल लोन लेकर कार्ड का पूरा बकाया एक बार में चुकाना भी एक रास्ता हो सकता है, बशर्ते उसके बाद कार्ड पर फिर से बकाया न बने। सबसे बड़ा जोखिम यही है: बकाया चुकाकर फिर से उसी आदत में लौटना।',
+        ],
+        pEn: [
+          'Many card issuers offer to convert a large balance into EMIs at a lower rate. That can be cheaper than the card’s normal interest, but add up the processing fee, GST and sometimes a prepayment charge to see the real cost. After conversion the card limit is reduced by the same amount, so do not run up new spending on that card.',
+          'If the balance is large, taking a lower-rate personal loan to clear the card in one go can also be a route, provided no new balance builds up on the card afterwards. That is the biggest risk of all: clearing the debt and then slipping back into the same habit.',
+        ],
+      },
+      {
+        hHi: 'क्रेडिट रिपोर्ट पर असर',
+        hEn: 'The effect on the credit report',
+        pHi: [
+          'केवल न्यूनतम चुकाने से भुगतान “देर से” दर्ज नहीं होता, लेकिन बड़ा बकाया बना रहने से कार्ड का उपयोग-अनुपात ऊँचा दिखता है, जो स्कोर को नीचे खींचता है। बकाया घटते ही यह असर धीरे-धीरे कम होता है, इसलिए हर महीने न्यूनतम से जितना ज़्यादा हो सके, उतना चुकाइए।',
+        ],
+        pEn: [
+          'Paying only the minimum does not record the payment as “late”, but a large outstanding balance makes the card’s utilisation look high, which pulls the score down. As the balance falls the effect fades, so each month pay as much above the minimum as you can.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'personal-loan-emi-basics',
+    sections: [
+      {
+        hHi: 'की फ़ैक्ट स्टेटमेंट (KFS): लोन का एक-पन्ने का सच',
+        hEn: 'The Key Fact Statement (KFS): a loan’s one-page truth',
+        pHi: [
+          'रिज़र्व बैंक के निर्देशों के अनुसार बैंकों और ग़ैर-बैंकिंग वित्तीय कंपनियों को खुदरा लोन देने से पहले उधारकर्ता को एक “की फ़ैक्ट स्टेटमेंट” देना होता है, जिसमें सालाना प्रतिशत दर (APR), सभी शुल्क, किस्तों की संख्या और राशि, और वसूली से जुड़ी जानकारी एक जगह, सरल भाषा में होती है। APR में ब्याज के साथ प्रोसेसिंग शुल्क जैसे ख़र्च भी जुड़े होते हैं, इसलिए यह लोन की असली लागत के क़रीब है।',
+          'किसी भी लोन पर हस्ताक्षर करने से पहले KFS माँगिए और पढ़िए। दो प्रस्तावों की तुलना ब्याज दर से नहीं, APR से कीजिए। जो संस्था KFS देने में आनाकानी करे, उससे लोन लेने से पहले दो बार सोचिए।',
+        ],
+        pEn: [
+          'Under the Reserve Bank’s directions, banks and non-banking finance companies must give the borrower a “Key Fact Statement” before a retail loan, setting out the annual percentage rate (APR), all charges, the number and amount of instalments, and recovery-related information in one place, in plain language. The APR includes costs such as the processing fee alongside interest, so it comes close to the loan’s true cost.',
+          'Before signing for any loan, ask for the KFS and read it. Compare two offers by APR, not by interest rate. Think twice before borrowing from any institution that hesitates to provide a KFS.',
+        ],
+      },
+      {
+        hHi: 'डिजिटल लोन ऐप: पाँच जाँचें',
+        hEn: 'Digital loan apps: five checks',
+        pHi: [
+          'फ़ोन पर मिनटों में लोन देने वाले ऐप सुविधाजनक हैं, पर इनमें कई अवैध ऐप भी हैं जो ऊँचा ब्याज वसूलते हैं और वसूली के लिए धमकी या संपर्कों को परेशान करने जैसे तरीक़े अपनाते हैं। पहली जाँच: ऐप किस रिज़र्व बैंक-विनियमित बैंक या NBFC के ज़रिए लोन दे रहा है, यह साफ़ लिखा हो। दूसरी: लोन की राशि सीधे आपके बैंक खाते में आए, किसी तीसरे खाते से नहीं।',
+          'तीसरी: लोन से पहले KFS मिले। चौथी: ऐप आपके फ़ोन के संपर्क, तस्वीरें या फ़ाइलें देखने की अनुमति न माँगे। पाँचवीं: नियमों के तहत डिजिटल लोन में एक “कूलिंग-ऑफ़” अवधि होती है, जिसमें आप मूलधन और उस अवधि का अनुपातिक ब्याज चुकाकर बिना जुर्माने के लोन से बाहर निकल सकते हैं। इनमें से कोई भी शर्त पूरी न हो, तो वह ऐप छोड़ दीजिए।',
+        ],
+        pEn: [
+          'Apps that lend within minutes on your phone are convenient, but among them are many illegal apps that charge very high interest and use threats or harassment of contacts to recover money. First check: the app should state clearly which Reserve Bank-regulated bank or NBFC is actually lending. Second: the loan amount should arrive directly in your bank account, not through a third party’s account.',
+          'Third: you should receive a KFS before the loan. Fourth: the app should not ask for permission to access your phone’s contacts, photos or files. Fifth: under the rules digital loans carry a “cooling-off” period during which you can exit the loan without penalty by repaying the principal and the proportionate interest for that period. If any of these conditions is not met, leave that app alone.',
+        ],
+      },
+      {
+        hHi: 'पूर्व-भुगतान शुल्क: फ़्लोटिंग और फ़िक्स्ड',
+        hEn: 'Prepayment charges: floating and fixed',
+        pHi: [
+          'रिज़र्व बैंक के नियमों के अनुसार व्यक्तियों को व्यापार के अलावा उद्देश्यों के लिए दिए गए फ़्लोटिंग दर वाले टर्म लोन पर बैंक पूर्व-भुगतान या समय से पहले बंद करने का शुल्क नहीं ले सकते। लेकिन ज़्यादातर पर्सनल लोन तय (फ़िक्स्ड) दर पर होते हैं, और उन पर अक्सर पूर्व-भुगतान शुल्क लगता है। लोन लेते समय ही KFS में यह शुल्क देखिए, ताकि बाद में बोनस या बचत से लोन जल्दी चुकाने की योजना बनाते समय कोई आश्चर्य न हो।',
+        ],
+        pEn: [
+          'Under the Reserve Bank’s rules, banks cannot charge prepayment or foreclosure fees on floating-rate term loans given to individuals for purposes other than business. But most personal loans are at a fixed rate, and they often carry a prepayment charge. Check the charge in the KFS when taking the loan, so there is no surprise later when you plan to repay early from a bonus or savings.',
+        ],
+      },
+      {
+        hHi: 'लोन से पहले एक हफ़्ता',
+        hEn: 'A week before any loan',
+        pHi: [
+          'ज़रूरी चिकित्सा जैसी आपात स्थितियों को छोड़कर, किसी भी पर्सनल लोन के फ़ैसले से पहले एक हफ़्ता रुकिए। उस हफ़्ते में देखिए कि क्या ख़र्च टाला जा सकता है, बचत से आंशिक रूप से पूरा हो सकता है, या कम ब्याज वाला कोई दूसरा रास्ता है, जैसे FD के बदले ऋण। कई बार एक हफ़्ते की यह दूरी ही बताती है कि लोन की ज़रूरत थी ही नहीं।',
+        ],
+        pEn: [
+          'Apart from genuine emergencies such as medical needs, wait a week before deciding on any personal loan. In that week, see whether the expense can be postponed, partly met from savings, or covered by a cheaper route such as a loan against an FD. Often that week’s distance alone shows that the loan was never needed.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'cibil-score-myths',
+    sections: [
+      {
+        hHi: 'मिथक: लोन जल्दी चुकाने से स्कोर गिरता है',
+        hEn: 'Myth: repaying a loan early lowers the score',
+        pHi: [
+          'कुछ लोग इस डर से लोन जल्दी नहीं चुकाते कि खाता बंद होने से स्कोर गिर जाएगा। सच यह है कि समय पर चुकाया और पूरी तरह बंद किया गया लोन आपकी रिपोर्ट में एक अच्छे रिकॉर्ड के रूप में बना रहता है। खाते के बंद होने से कुछ समय के लिए हल्का-सा उतार-चढ़ाव दिख सकता है, पर ब्याज की बचत उसके मुक़ाबले कहीं बड़ी है। बंद करते समय बैंक से “नो ड्यूज़” प्रमाणपत्र लेना और रिपोर्ट में खाता “बंद” दिखना पक्का करना ज़रूरी है।',
+        ],
+        pEn: [
+          'Some people avoid repaying a loan early for fear that closing the account will lower their score. In truth, a loan repaid on time and fully closed stays in your report as a good record. Closing it may cause a slight, temporary movement, but the interest saved is far larger. When closing, get a “no dues” certificate from the bank and make sure the report shows the account as “closed”.',
+        ],
+      },
+      {
+        hHi: 'मिथक: ज़्यादा आय मतलब ज़्यादा स्कोर',
+        hEn: 'Myth: higher income means a higher score',
+        pHi: [
+          'क्रेडिट रिपोर्ट में आपकी आय दर्ज ही नहीं होती; स्कोर केवल आपके क़र्ज़ के व्यवहार से बनता है: आपने समय पर चुकाया या नहीं, कितनी सीमा इस्तेमाल की, खातों की उम्र और प्रकार क्या है। इसलिए कम आय वाला व्यक्ति, जो हमेशा समय पर भुगतान करता है, ऊँची आय वाले उस व्यक्ति से बेहतर स्कोर रख सकता है जो बार-बार देर करता है। हाँ, लोन देते समय ऋणदाता आपकी आय अलग से देखता है, पर वह स्कोर का हिस्सा नहीं है।',
+        ],
+        pEn: [
+          'Your income is not recorded in your credit report at all; the score is built only from your borrowing behaviour: whether you paid on time, how much of your limits you used, and the age and mix of your accounts. So a person on a modest income who always pays on time can hold a better score than a high earner who is repeatedly late. A lender does look at your income separately when lending, but it is not part of the score.',
+        ],
+      },
+      {
+        hHi: 'मिथक: डेबिट कार्ड से क्रेडिट इतिहास बनता है',
+        hEn: 'Myth: using a debit card builds credit history',
+        pHi: [
+          'डेबिट कार्ड से आप अपना ही पैसा ख़र्च करते हैं, इसलिए उसके लेन-देन क्रेडिट ब्यूरो को नहीं जाते और स्कोर पर कोई असर नहीं डालते। क्रेडिट इतिहास केवल उधार के व्यवहार से बनता है: लोन, क्रेडिट कार्ड, या कुछ “अभी ख़रीदें, बाद में चुकाएँ” जैसी सुविधाएँ, जो किसी विनियमित संस्था के ज़रिए हों।',
+        ],
+        pEn: [
+          'With a debit card you spend your own money, so its transactions do not go to the credit bureaus and have no effect on the score. Credit history is built only from borrowing behaviour: loans, credit cards, or certain “buy now, pay later” facilities provided through a regulated institution.',
+        ],
+      },
+      {
+        hHi: 'मिथक: गारंटर बनने से कोई फ़र्क़ नहीं पड़ता',
+        hEn: 'Myth: standing guarantor makes no difference',
+        pHi: [
+          'किसी रिश्तेदार या दोस्त के लोन में गारंटर बनना अक्सर एक औपचारिकता लगता है। लेकिन वह लोन आपकी क्रेडिट रिपोर्ट में भी दिखता है, और अगर मूल उधारकर्ता किस्तें चूकता है, तो उसका असर आपके स्कोर पर भी पड़ता है, और क़ानूनी रूप से भुगतान की ज़िम्मेदारी भी आप पर आ सकती है। गारंटर बनने से पहले यह मानकर चलिए कि ज़रूरत पड़ने पर वह पूरा लोन आपको चुकाना पड़ सकता है।',
+        ],
+        pEn: [
+          'Standing guarantor for a relative’s or friend’s loan often feels like a formality. But that loan appears in your credit report too, and if the main borrower misses instalments it affects your score as well, and the legal responsibility to pay can fall on you. Before becoming a guarantor, assume that you may have to repay the whole loan if it comes to that.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'getting-out-of-debt-trap',
+    sections: [
+      {
+        hHi: '“सेटलमेंट” बनाम पुनर्गठन',
+        hEn: '“Settlement” versus restructuring',
+        pHi: [
+          'जब किस्तें चुकाना असंभव लगने लगे, तो ऋणदाता दो तरह के रास्ते दे सकते हैं। पहला, “पुनर्गठन”: अवधि बढ़ाना, किस्त घटाना या कुछ समय की राहत देना, ताकि आप पूरा क़र्ज़ धीरे-धीरे चुका सकें। दूसरा, “सेटलमेंट”: बकाये से कम राशि लेकर खाता बंद करना। सेटलमेंट तुरंत राहत देता है, पर क्रेडिट रिपोर्ट में “सेटल्ड” दर्ज होता है, जो वर्षों तक नए लोन मिलने में बाधा बन सकता है।',
+          'इसलिए जहाँ संभव हो, पहले पुनर्गठन की बात कीजिए। सेटलमेंट तभी चुनिए जब पूरा चुकाना सचमुच असंभव हो, और उस स्थिति में हर शर्त लिखित में लीजिए, भुगतान के बाद “नो ड्यूज़” पत्र ज़रूर लीजिए, और भविष्य में संभव हो तो बची राशि चुकाकर खाते को “बंद” करवाने का विकल्प याद रखिए।',
+        ],
+        pEn: [
+          'When repaying instalments starts to feel impossible, lenders may offer two kinds of route. The first is “restructuring”: extending the term, reducing the instalment or granting a temporary breather, so that you can repay the whole debt gradually. The second is “settlement”: closing the account for less than the amount owed. Settlement brings immediate relief, but the credit report records the account as “settled”, which can block new loans for years.',
+          'So wherever possible, discuss restructuring first. Choose settlement only when full repayment is genuinely impossible, and in that case take every term in writing, always obtain a “no dues” letter after payment, and remember the option of later paying the remainder to have the account marked “closed”.',
+        ],
+      },
+      {
+        hHi: '“क़र्ज़ ख़त्म कराने” वाली एजेंसियों से सावधान',
+        hEn: 'Beware of “debt relief” agencies',
+        pHi: [
+          'क़र्ज़ में डूबे लोगों को कुछ एजेंसियाँ यह वादा करती हैं कि वे बैंक से बात करके क़र्ज़ आधा करवा देंगी, बस पहले एक शुल्क देना होगा, और तब तक किस्तें बंद कर दीजिए। इस सलाह पर चलने से खाते डिफ़ॉल्ट में जाते हैं, जुर्माना और ब्याज बढ़ता है, और कई बार एजेंसी शुल्क लेकर ग़ायब हो जाती है।',
+          'अपने ऋणदाता से सीधे बात करना लगभग हमेशा बेहतर है; इसके लिए किसी बिचौलिये की ज़रूरत नहीं। अगर सलाह चाहिए, तो कई बैंक और ग़ैर-लाभकारी संस्थाएँ मुफ़्त क्रेडिट परामर्श देती हैं। जो भी पहले शुल्क माँगे और किस्तें रोकने को कहे, उससे दूर रहिए।',
+        ],
+        pEn: [
+          'Some agencies promise people drowning in debt that they will negotiate with the bank and halve the debt, for a fee paid upfront, telling them to stop paying instalments meanwhile. Following that advice sends accounts into default, piles up penalties and interest, and sometimes the agency vanishes with the fee.',
+          'Talking to your lender directly is almost always better; no middleman is needed. If you want advice, several banks and non-profit organisations offer free credit counselling. Stay away from anyone who asks for a fee first and tells you to stop paying.',
+        ],
+      },
+      {
+        hHi: 'क़र्ज़ चुकाने के लिए नया क़र्ज़ नहीं',
+        hEn: 'No new debt to repay old debt',
+        pHi: [
+          'क़र्ज़ के जाल का सबसे ख़तरनाक चक्र यह है: एक किस्त चुकाने के लिए किसी ऐप से छोटा लोन, फिर उसे चुकाने के लिए दूसरे ऐप से, और कुछ ही महीनों में दर्जनों छोटे लोन, हर एक पर बहुत ऊँचा ब्याज। इस चक्र में घुसने के बजाय, जितनी जल्दी हो सके, अपने सभी ऋणदाताओं को स्थिति बताइए, ख़र्च घटाइए, और परिवार के साथ बैठकर योजना बनाइए। मदद माँगना हार नहीं, बाहर निकलने का पहला क़दम है।',
+        ],
+        pEn: [
+          'The most dangerous cycle in a debt trap goes like this: a small loan from an app to pay one instalment, then another app to repay that, and within months dozens of small loans, each at very high interest. Rather than entering that cycle, tell all your lenders about the situation as early as possible, cut spending, and sit with the family to make a plan. Asking for help is not defeat; it is the first step out.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'motor-insurance-basics',
+    sections: [
+      {
+        hHi: 'पॉलिसी गाड़ी में और फ़ोन में',
+        hEn: 'Keep the policy in the car and on the phone',
+        pHi: [
+          'पॉलिसी की एक प्रति गाड़ी में और एक डिजिटल प्रति फ़ोन या डिजिलॉकर में रखिए, ताकि जाँच या दुर्घटना के समय तुरंत दिखाई जा सके।',
+        ],
+        pEn: [
+          'Keep one copy of the policy in the vehicle and a digital copy on your phone or in DigiLocker, so it can be shown at once during a check or after an accident.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'insurance-claim-process-tips',
+    sections: [
+      {
+        hHi: 'पॉलिसी शब्दावली पहले से समझिए',
+        hEn: 'Understand the policy’s terms in advance',
+        pHi: [
+          'को-पेमेंट, सब-लिमिट, कटौती योग्य राशि और प्रतीक्षा अवधि जैसे शब्दों का अर्थ दावे से पहले, पॉलिसी लेते समय ही समझ लीजिए। दावे के दिन ये शब्द आश्चर्य बनकर नहीं आने चाहिए। पॉलिसी के साथ आने वाली “ग्राहक सूचना पत्रिका” इन्हें सरल भाषा में बताती है।',
+        ],
+        pEn: [
+          'Understand terms such as co-payment, sub-limit, deductible and waiting period when buying the policy, not at claim time. On the day of a claim these words should not arrive as surprises. The “customer information sheet” that comes with the policy explains them in plain language.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'credit-card-smart-use',
+    sections: [
+      {
+        hHi: 'ऑफ़र के लालच में ख़र्च नहीं',
+        hEn: 'No spending just for the offer',
+        pHi: [
+          'कैशबैक और रिवॉर्ड पॉइंट तभी फ़ायदा हैं जब ख़र्च वैसे भी होना था। केवल ऑफ़र पाने के लिए किया गया अतिरिक्त ख़र्च बचत नहीं, नुक़सान है। हर ख़रीद से पहले पूछिए: अगर यह ऑफ़र न होता, तो क्या मैं यह ख़रीदता?',
+        ],
+        pEn: [
+          'Cashback and reward points are a gain only when the spending was going to happen anyway. Extra spending done just to earn an offer is a loss, not a saving. Before every purchase ask: without this offer, would I buy it?',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'minimum-due-trap',
+    sections: [
+      {
+        hHi: 'एक पंक्ति याद रखिए',
+        hEn: 'Remember one line',
+        pHi: [
+          '“न्यूनतम देय” बैंक की सुविधा है, आपकी योजना नहीं। हर महीने पूरा बिल चुकाना ही एकमात्र सुरक्षित नियम है।',
+        ],
+        pEn: [
+          'The “minimum due” is the bank’s convenience, not your plan. Paying the full bill every month is the only safe rule.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'personal-loan-emi-basics',
+    sections: [
+      {
+        hHi: 'अंतिम बात',
+        hEn: 'A final point',
+        pHi: [
+          'EMI की तारीख़ वेतन के ठीक बाद रखिए, ताकि किस्त कभी न चूके।',
+        ],
+        pEn: [
+          'Set the EMI date just after payday, so that no instalment is ever missed.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'cibil-score-myths',
+    sections: [
+      {
+        hHi: 'मिथक: स्कोर हर ब्यूरो में एक जैसा होता है',
+        hEn: 'Myth: the score is the same at every bureau',
+        pHi: [
+          'चारों क्रेडिट ब्यूरो अपने-अपने मॉडल से स्कोर बनाते हैं, और हर ऋणदाता हर ब्यूरो को जानकारी नहीं भेजता। इसलिए एक ब्यूरो में 760 और दूसरे में 740 होना सामान्य है। चिंता अंतर पर नहीं, रिपोर्ट में दर्ज ग़लत जानकारी पर होनी चाहिए; उसे पकड़ने के लिए साल में हर ब्यूरो की मुफ़्त रिपोर्ट एक बार ज़रूर देखिए।',
+        ],
+        pEn: [
+          'The four credit bureaus each build scores with their own models, and not every lender reports to every bureau. So 760 at one bureau and 740 at another is normal. The concern should not be the difference but wrong information in a report; to catch it, look at each bureau’s free report once a year.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'getting-out-of-debt-trap',
+    sections: [
+      {
+        hHi: 'हर छोटी जीत गिनिए',
+        hEn: 'Count every small win',
+        pHi: [
+          'हर बंद हुए क़र्ज़ को एक काग़ज़ पर काटिए और दीवार पर लगाइए। लंबी लड़ाई में ये छोटी जीतें ही आगे बढ़ने की ताक़त देती हैं।',
+        ],
+        pEn: [
+          'Strike each cleared debt off a list pinned to the wall. In a long fight, these small wins are what give you the strength to keep going.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'upi-safe-habits',
+    sections: [
+      {
+        hHi: 'अपनी दैनिक सीमा ख़ुद तय कीजिए',
+        hEn: 'Set your own daily limit',
+        pHi: [
+          'ज़्यादातर बैंक और UPI ऐप आपको अपनी दैनिक लेन-देन सीमा बैंक की अधिकतम सीमा से कम रखने देते हैं। अगर आप आम तौर पर दिन में कुछ हज़ार रुपये से ज़्यादा UPI से नहीं भेजते, तो सीमा उतनी ही रखिए। ठगी की स्थिति में यह छोटी-सी सेटिंग नुक़सान को एक सीमित राशि तक रोक देती है।',
+          'बड़ा भुगतान करना हो, तो उस दिन सीमा थोड़ी देर के लिए बढ़ाइए और काम होने के बाद फिर घटा दीजिए। बुज़ुर्ग माता-पिता के फ़ोन पर यह व्यवस्था ख़ास तौर पर उपयोगी है।',
+        ],
+        pEn: [
+          'Most banks and UPI apps let you keep your daily transaction limit below the bank’s maximum. If you usually send no more than a few thousand rupees a day by UPI, set the limit at that. In a fraud, that small setting caps the damage at a limited sum.',
+          'When a large payment is needed, raise the limit for a short while that day and lower it again afterwards. The arrangement is especially useful on elderly parents’ phones.',
+        ],
+      },
+      {
+        hHi: 'छोटे भुगतानों के लिए UPI लाइट',
+        hEn: 'UPI Lite for small payments',
+        pHi: [
+          'UPI लाइट एक सुविधा है जिसमें फ़ोन के भीतर एक छोटा बैलेंस रखा जाता है, और उससे बहुत छोटे भुगतान बिना PIN डाले तेज़ी से हो जाते हैं। प्रति भुगतान और कुल बैलेंस, दोनों की सीमाएँ छोटी रखी गई हैं। इससे बैंक खाता रोज़ के छोटे लेन-देन से अलग रहता है, और फ़ोन खोने पर भी अधिकतम नुक़सान उस छोटे बैलेंस तक सीमित रहता है।',
+        ],
+        pEn: [
+          'UPI Lite is a facility that holds a small balance on the phone, from which very small payments are made quickly without entering a PIN. Both the per-payment limit and the total balance are kept small. It keeps the bank account apart from everyday small transactions, and if the phone is lost the maximum loss is limited to that small balance.',
+        ],
+      },
+      {
+        hHi: 'भुगतान से पहले नाम पढ़िए',
+        hEn: 'Read the name before paying',
+        pHi: [
+          'हर UPI भुगतान में PIN डालने से ठीक पहले स्क्रीन पर पाने वाले का नाम दिखता है। यह एक सेकंड का पल सबसे बड़ी सुरक्षा है: अगर नाम दुकान, व्यक्ति या कंपनी से मेल न खाए, या कोई अनजाना नाम हो, तो रुकिए। ग़लत UPI आईडी पर भेजा गया पैसा वापस पाना कठिन होता है, क्योंकि उसके लिए पाने वाले की सहमति चाहिए।',
+        ],
+        pEn: [
+          'In every UPI payment, the payee’s name appears on screen just before you enter your PIN. That one-second moment is the greatest safeguard: if the name does not match the shop, person or company, or is unfamiliar, stop. Money sent to the wrong UPI ID is hard to recover, because getting it back needs the recipient’s consent.',
+        ],
+      },
+      {
+        hHi: 'फ़ोन बदलें, तो UPI भी हटाइए',
+        hEn: 'When you change phones, remove UPI too',
+        pHi: [
+          'पुराना फ़ोन बेचने, बदलने या किसी को देने से पहले उसके सभी UPI और बैंकिंग ऐप से लॉग-आउट कीजिए, UPI पंजीकरण हटाइए, और फ़ोन को पूरी तरह रीसेट कीजिए। कई लोग केवल सिम निकाल लेते हैं और मान लेते हैं कि फ़ोन अब सुरक्षित है, जबकि ऐप और सहेजे गए डेटा भीतर रह जाते हैं।',
+        ],
+        pEn: [
+          'Before selling, replacing or giving away an old phone, log out of all its UPI and banking apps, remove the UPI registration, and fully reset the phone. Many people merely take out the SIM and assume the phone is now safe, while the apps and saved data remain inside.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'digital-payment-fraud-types',
+    sections: [
+      {
+        hHi: '“डिजिटल अरेस्ट” का झूठ',
+        hEn: 'The lie of “digital arrest”',
+        pHi: [
+          'हाल के वर्षों में एक डरावनी ठगी फैली है: वीडियो कॉल पर कोई व्यक्ति पुलिस, CBI या किसी जाँच एजेंसी का अधिकारी बनकर कहता है कि आपके नाम के किसी पार्सल में नशीले पदार्थ मिले हैं या आपका खाता किसी अपराध से जुड़ा है। फिर वह आपको “डिजिटल अरेस्ट” में बताकर घंटों कॉल पर रखता है, किसी से बात न करने को कहता है, और “जाँच” के नाम पर पैसे ट्रांसफ़र करवाता है।',
+          'साफ़ जान लीजिए: भारतीय क़ानून में “डिजिटल अरेस्ट” जैसी कोई चीज़ नहीं है, और कोई भी असली एजेंसी वीडियो कॉल पर गिरफ़्तारी या पैसे की माँग नहीं करती। ऐसी कॉल तुरंत काटिए, परिवार को बताइए, और 1930 या cybercrime.gov.in पर शिकायत कीजिए।',
+        ],
+        pEn: [
+          'A frightening fraud has spread in recent years: on a video call someone poses as an officer of the police, the CBI or another investigative agency and says a parcel in your name contained drugs or that your account is linked to a crime. They then declare you under “digital arrest”, keep you on the call for hours, tell you to speak to nobody, and have you transfer money in the name of “investigation”.',
+          'Know this plainly: there is no such thing as “digital arrest” in Indian law, and no genuine agency arrests people or demands money over a video call. Cut such a call at once, tell your family, and complain on 1930 or at cybercrime.gov.in.',
+        ],
+      },
+      {
+        hHi: 'रिश्तेदार की नक़ली आवाज़',
+        hEn: 'A relative’s fake voice',
+        pHi: [
+          'आवाज़ की नक़ल करने वाली तकनीक अब इतनी आसान हो गई है कि ठग किसी रिश्तेदार की आवाज़ में फ़ोन करके कह सकते हैं कि वे किसी मुसीबत में हैं और तुरंत पैसे चाहिए। ऐसी कॉल पर घबराइए मत; कॉल काटकर उसी रिश्तेदार को उसके जाने-पहचाने नंबर पर ख़ुद फ़ोन कीजिए। कई परिवार आपस में एक “कोड शब्द” तय कर लेते हैं, जिसे असली आपात स्थिति में ही बोला जाए।',
+        ],
+        pEn: [
+          'Voice-cloning technology has become so easy that fraudsters can call in a relative’s voice saying they are in trouble and need money at once. Do not panic at such a call; hang up and phone that relative yourself on their known number. Many families agree a “code word” among themselves, to be used only in a genuine emergency.',
+        ],
+      },
+      {
+        hHi: 'बिजली कटने वाला संदेश',
+        hEn: 'The power-disconnection message',
+        pHi: [
+          'एक आम संदेश आता है: “आपका पिछला बिल अपडेट नहीं हुआ है, आज रात बिजली काट दी जाएगी, इस नंबर पर तुरंत संपर्क करें।” संपर्क करने पर कोई ऐप डाउनलोड करवाया जाता है या छोटा भुगतान करवाया जाता है, और फिर खाते से बड़ी रक़म निकल जाती है। बिजली कंपनियाँ ऐसे निजी मोबाइल नंबरों से संदेश नहीं भेजतीं। बिल की स्थिति हमेशा कंपनी की आधिकारिक वेबसाइट या ऐप से ही जाँचिए।',
+        ],
+        pEn: [
+          'A common message reads: “Your last bill has not been updated, power will be disconnected tonight, call this number immediately.” On calling, you are made to download an app or make a small payment, and then a large sum leaves your account. Power companies do not send messages from such personal mobile numbers. Always check your bill status only on the company’s official website or app.',
+        ],
+      },
+      {
+        hHi: 'तत्काल डर, तत्काल शक',
+        hEn: 'Instant fear, instant doubt',
+        pHi: [
+          'इन सभी ठगियों में एक बात साझा है: आपको सोचने का समय नहीं दिया जाता। जितनी ज़्यादा जल्दी और डर पैदा किया जाए, उतना ज़्यादा शक कीजिए। असली संस्थाएँ आपको सोचने, परिवार से बात करने और ख़ुद जाँच करने का समय देती हैं।',
+        ],
+        pEn: [
+          'All these frauds share one thing: you are given no time to think. The more urgency and fear is created, the more suspicious you should be. Genuine institutions give you time to think, talk to your family and check for yourself.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'online-shopping-safety',
+    sections: [
+      {
+        hHi: 'ई-कॉमर्स नियमों में आपके अधिकार',
+        hEn: 'Your rights under the e-commerce rules',
+        pHi: [
+          'उपभोक्ता संरक्षण (ई-कॉमर्स) नियम, 2020 के तहत ऑनलाइन बाज़ारों को विक्रेता का नाम और पता, उत्पाद का मूल देश, वापसी और रिफ़ंड की नीति, और एक शिकायत अधिकारी का विवरण साफ़ दिखाना होता है। ख़रीदने से पहले ये जानकारियाँ देखिए; जो वेबसाइट इनमें से कुछ भी न दिखाए, उस पर भरोसा करना जोखिम भरा है।',
+          'इसके अलावा उपभोक्ता मामलों के विभाग ने 2023 में “डार्क पैटर्न”, यानी ग्राहक को चालाकी से भ्रमित करने वाले डिज़ाइन, जैसे झूठी जल्दबाज़ी (“केवल 2 बचे”), बिना पूछे टोकरी में जुड़ी चीज़ें, या आख़िरी पन्ने पर अचानक जुड़ने वाले शुल्क, के ख़िलाफ़ दिशानिर्देश जारी किए। ऐसा कुछ दिखे, तो उसकी शिकायत की जा सकती है।',
+        ],
+        pEn: [
+          'Under the Consumer Protection (E-Commerce) Rules, 2020, online marketplaces must clearly display the seller’s name and address, the product’s country of origin, the return and refund policy, and the details of a grievance officer. Check this information before buying; trusting a website that shows none of it is risky.',
+          'In addition, in 2023 the Department of Consumer Affairs issued guidelines against “dark patterns”, designs that cleverly mislead customers, such as false urgency (“only 2 left”), items added to the basket without asking, or charges that suddenly appear on the last page. If you see such tactics, they can be reported.',
+        ],
+      },
+      {
+        hHi: 'शिकायत कहाँ करें: 1915 और ई-दाख़िल',
+        hEn: 'Where to complain: 1915 and e-Daakhil',
+        pHi: [
+          'अगर विक्रेता और बाज़ार दोनों से शिकायत का हल न हो, तो सरकार की राष्ट्रीय उपभोक्ता हेल्पलाइन, 1915, पर संपर्क कीजिए, जो कई भाषाओं में मदद करती है और कई मामलों में कंपनी से सीधे बात करवाकर समाधान दिलाती है। उससे भी बात न बने, तो उपभोक्ता आयोग में शिकायत की जा सकती है, जिसके लिए “ई-दाख़िल” पोर्टल पर ऑनलाइन आवेदन का रास्ता है।',
+          'हर मामले में ऑर्डर की पुष्टि, बिल, विक्रेता से हुई बातचीत के स्क्रीनशॉट और भुगतान का प्रमाण सँभालकर रखिए। साफ़ दस्तावेज़ शिकायत की आधी लड़ाई जीत लेते हैं।',
+        ],
+        pEn: [
+          'If neither the seller nor the marketplace resolves your complaint, contact the government’s National Consumer Helpline, 1915, which helps in several languages and in many cases secures a resolution by taking the matter up with the company directly. If that fails too, a complaint can be filed with the consumer commission, for which the “e-Daakhil” portal offers an online route.',
+          'In every case keep the order confirmation, invoice, screenshots of conversations with the seller and proof of payment. Clear documents win half the battle of a complaint.',
+        ],
+      },
+      {
+        hHi: 'सोशल मीडिया की दुकानें',
+        hEn: 'Shops on social media',
+        pHi: [
+          'इंस्टाग्राम या मैसेजिंग ऐप पर चलने वाली छोटी दुकानें कई बार असली होती हैं, पर बहुत-सी ठगी भी यहीं से होती है: बेहद सस्ते ब्रांडेड सामान, “केवल पहले से भुगतान”, और भुगतान के बाद ब्लॉक। ऐसी दुकान से ख़रीदने से पहले उसकी पुरानी समीक्षाएँ, असली ग्राहकों की तस्वीरें, और संपर्क का पता जाँचिए, और जहाँ संभव हो, कैश ऑन डिलीवरी या किसी ऐसे भुगतान माध्यम का इस्तेमाल कीजिए जिसमें विवाद की सुविधा हो।',
+        ],
+        pEn: [
+          'Small shops run on Instagram or messaging apps are sometimes genuine, but a great deal of fraud starts there too: branded goods at absurdly low prices, “prepayment only”, and a block after payment. Before buying from such a shop, check its earlier reviews, photographs from real customers and a contact address, and where possible use cash on delivery or a payment method that allows disputes.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'mobile-banking-security',
+    sections: [
+      {
+        hHi: 'कार्ड के उपयोग को ऐप से नियंत्रित कीजिए',
+        hEn: 'Control card usage from the app',
+        pHi: [
+          'रिज़र्व बैंक के 2020 के निर्देशों के बाद ज़्यादातर बैंक अपने ऐप में कार्ड के अलग-अलग उपयोग, जैसे ऑनलाइन लेन-देन, अंतरराष्ट्रीय उपयोग और कॉन्टैक्टलेस भुगतान, को चालू-बंद करने और उनकी सीमाएँ तय करने की सुविधा देते हैं। नए कार्ड आम तौर पर केवल घरेलू उपयोग के लिए चालू होते हैं।',
+          'जिन सुविधाओं का आप इस्तेमाल नहीं करते, उन्हें बंद रखिए। उदाहरण के लिए, अगर आप विदेश नहीं जा रहे, तो अंतरराष्ट्रीय उपयोग बंद रखिए; अगर डेबिट कार्ड से ऑनलाइन ख़रीदारी नहीं करते, तो वह भी बंद। ज़रूरत के समय ऐप से कुछ सेकंड में चालू किया जा सकता है।',
+        ],
+        pEn: [
+          'Following the Reserve Bank’s 2020 directions, most banks let you switch individual card uses on and off in their app, such as online transactions, international use and contactless payments, and set limits for each. New cards are usually enabled for domestic use only.',
+          'Keep switched off the features you do not use. If you are not travelling abroad, keep international use off; if you do not shop online with your debit card, switch that off too. When needed, the app turns them on in seconds.',
+        ],
+      },
+      {
+        hHi: 'व्हाट्सऐप पर आई APK फ़ाइल',
+        hEn: 'An APK file arriving on WhatsApp',
+        pHi: [
+          'एक बढ़ती ठगी में बैंक, बिजली कंपनी या सरकारी योजना के नाम से व्हाट्सऐप पर एक “ऐप” की फ़ाइल भेजी जाती है, जिसका नाम अक्सर “KYC अपडेट” या “बिल भुगतान” जैसा होता है। इसे इंस्टॉल करते ही वह फ़ोन के संदेश पढ़ने लगता है, OTP चुरा लेता है, और खाते से पैसा निकाल लिया जाता है।',
+          'नियम सीधा है: कोई भी बैंकिंग या भुगतान ऐप केवल आधिकारिक ऐप स्टोर से, सही डेवलपर नाम देखकर, इंस्टॉल कीजिए। संदेश में आई किसी फ़ाइल को कभी इंस्टॉल मत कीजिए, चाहे भेजने वाला कोई भी हो। फ़ोन की सेटिंग में “अनजान स्रोतों से इंस्टॉल” की अनुमति बंद रखिए।',
+        ],
+        pEn: [
+          'A growing fraud sends an “app” file over WhatsApp in the name of a bank, power company or government scheme, often named something like “KYC update” or “bill payment”. Once installed it starts reading the phone’s messages, steals OTPs, and money is drained from the account.',
+          'The rule is simple: install any banking or payment app only from the official app store, after checking the developer’s name. Never install a file that arrives in a message, whoever sends it. Keep the “install from unknown sources” permission switched off in the phone’s settings.',
+        ],
+      },
+      {
+        hHi: 'ईमेल और SMS, दोनों पर अलर्ट',
+        hEn: 'Alerts on both email and SMS',
+        pHi: [
+          'बैंक में अपना मोबाइल नंबर और ईमेल, दोनों पंजीकृत कीजिए, और हर लेन-देन का अलर्ट दोनों पर चालू रखिए। अगर कभी फ़ोन खो जाए, सिम बंद हो जाए या कोई सिम स्वैप करे, तो ईमेल पर आया अलर्ट आपको समय रहते सचेत कर सकता है। संपर्क विवरण बदलें, तो बैंक में भी तुरंत अद्यतन कीजिए।',
+        ],
+        pEn: [
+          'Register both your mobile number and your email with the bank, and keep alerts for every transaction switched on for both. If your phone is ever lost, the SIM goes dead or someone swaps it, an email alert can warn you in time. When your contact details change, update them with the bank at once.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'compounding-start-early-hindi',
+    sections: [
+      {
+        hHi: 'चक्रवृद्धि को अपना काम करने दीजिए: ग्रोथ विकल्प',
+        hEn: 'Let compounding work: the growth option',
+        pHi: [
+          'चक्रवृद्धि तभी काम करती है जब कमाई फिर से निवेश हो। म्यूचुअल फ़ंड में “ग्रोथ” विकल्प में लाभ फ़ंड के भीतर ही जुड़ता रहता है, जबकि “भुगतान” (IDCW) विकल्प में समय-समय पर कुछ राशि आपको लौटा दी जाती है, जो अक्सर ख़र्च हो जाती है। लंबी अवधि के लक्ष्यों के लिए ग्रोथ विकल्प चक्रवृद्धि को बिना रुकावट चलने देता है।',
+          'यही सिद्धांत FD पर भी लागू होता है: “संचयी” FD में ब्याज मूलधन में जुड़ता जाता है, जबकि मासिक या तिमाही भुगतान वाली FD में ब्याज बाहर आ जाता है। अगर आपको नियमित आय की ज़रूरत नहीं, तो संचयी विकल्प चुनिए।',
+        ],
+        pEn: [
+          'Compounding works only when earnings are reinvested. In a mutual fund’s “growth” option the gains keep accumulating inside the fund, while in the “payout” (IDCW) option some money is returned to you from time to time, and it often gets spent. For long-term goals, the growth option lets compounding run uninterrupted.',
+          'The same principle applies to FDs: in a “cumulative” FD the interest keeps adding to the principal, while in an FD with monthly or quarterly payouts the interest leaves. If you do not need regular income, choose the cumulative option.',
+        ],
+      },
+      {
+        hHi: 'बीच के साल सबसे ज़्यादा मायने रखते हैं',
+        hEn: 'The middle years matter most',
+        pHi: [
+          'लोग अक्सर शुरुआत और अंत की बात करते हैं, पर चक्रवृद्धि की कहानी बीच के सालों में तय होती है: वह दौर जब राशि अभी बहुत बड़ी नहीं दिखती, बाज़ार कभी-कभी गिरता है, और बीच में पैसा निकालने के कारण आसानी से मिल जाते हैं। इन्हीं सालों में SIP बंद करना या कोष तोड़ना आगे की पूरी बढ़त को काट देता है।',
+          'इसलिए हर लंबे लक्ष्य के लिए एक अलग खाता या फ़ोलियो रखिए, उसका नाम लक्ष्य के नाम पर रखिए, और आपात ज़रूरतों के लिए अलग कोष बनाए रखिए, ताकि बीच के सालों में इस पैसे को छूने की ज़रूरत ही न पड़े।',
+        ],
+        pEn: [
+          'People often talk about the start and the end, but the story of compounding is decided in the middle years: the period when the amount does not yet look large, the market sometimes falls, and reasons to withdraw are easy to find. Stopping a SIP or breaking the fund in those years cuts off all the growth that would have followed.',
+          'So keep a separate account or folio for each long goal, name it after the goal, and maintain a separate fund for emergencies, so that this money never needs to be touched in the middle years.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'riders-in-insurance',
+    sections: [
+      {
+        hHi: 'गंभीर बीमारी राइडर: जीवित रहने की अवधि',
+        hEn: 'Critical illness riders: the survival period',
+        pHi: [
+          'गंभीर बीमारी राइडर तय बीमारियों में से किसी का निदान होने पर एकमुश्त राशि देता है, जो इलाज के ख़र्च से अलग, आय की कमी और दूसरे ख़र्चों में मदद करती है। लेकिन इसमें आम तौर पर दो शर्तें होती हैं: पॉलिसी शुरू होने के बाद एक प्रतीक्षा अवधि, जिसके दौरान हुए निदान पर दावा नहीं मिलता, और निदान के बाद एक “जीवित रहने की अवधि”, जिसके पूरे होने पर ही राशि मिलती है।',
+          'राइडर लेने से पहले देखिए कि उसमें कौन-सी बीमारियाँ शामिल हैं, हर बीमारी की परिभाषा कितनी सख़्त है, और दोनों अवधियाँ कितनी हैं। दो राइडरों की तुलना केवल प्रीमियम से नहीं, इन्हीं शर्तों से कीजिए।',
+        ],
+        pEn: [
+          'A critical illness rider pays a lump sum on diagnosis of one of a listed set of illnesses, helping with lost income and other costs separate from treatment bills. But it usually carries two conditions: a waiting period after the policy starts, during which a diagnosis does not qualify, and a “survival period” after diagnosis, at the end of which the amount is paid.',
+          'Before taking the rider, check which illnesses are included, how strict the definition of each is, and how long both periods are. Compare two riders on these conditions, not on premium alone.',
+        ],
+      },
+      {
+        hHi: 'राइडर मूल पॉलिसी के साथ ही ख़त्म होता है',
+        hEn: 'A rider ends with the base policy',
+        pHi: [
+          'राइडर अपनी मूल पॉलिसी से बँधा होता है। अगर मूल पॉलिसी का प्रीमियम न चुकाने से वह बंद हो जाए, तो राइडर भी ख़त्म हो जाता है। कई राइडर मूल पॉलिसी से पहले, किसी तय उम्र पर, ख़त्म हो जाते हैं। इसलिए पॉलिसी दस्तावेज़ में हर राइडर की समाप्ति की उम्र या तारीख़ अलग से देखिए, ताकि आपको पता हो कि किस उम्र के बाद वह सुरक्षा नहीं रहेगी।',
+        ],
+        pEn: [
+          'A rider is tied to its base policy. If the base policy lapses because its premium is not paid, the rider ends too. Many riders also end before the base policy, at a set age. So check each rider’s expiry age or date separately in the policy document, so that you know after what age that protection will no longer be there.',
+        ],
+      },
+      {
+        hHi: 'राइडर के प्रीमियम पर नियामक की सीमा',
+        hEn: 'The regulator’s limit on rider premiums',
+        pHi: [
+          'बीमा नियामक ने राइडरों के प्रीमियम पर मूल पॉलिसी के प्रीमियम की तुलना में सीमाएँ तय की हैं, ताकि राइडर मूल बीमा से बड़ा न हो जाए। यह नियम ग्राहक की सुरक्षा के लिए है। अगर किसी प्रस्ताव में राइडरों का कुल प्रीमियम बहुत भारी लगे, तो पूछिए कि हर राइडर का अलग-अलग प्रीमियम कितना है, और हर एक को उसकी ज़रूरत के आधार पर अलग से परखिए।',
+        ],
+        pEn: [
+          'The insurance regulator has set limits on rider premiums relative to the base policy’s premium, so that riders do not outgrow the core cover. The rule exists to protect customers. If the total rider premium in a proposal feels heavy, ask for the premium of each rider separately, and judge each one on its own need.',
+        ],
+      },
+      {
+        hHi: 'दावे के दस्तावेज़ अलग हो सकते हैं',
+        hEn: 'Claim documents can differ',
+        pHi: [
+          'राइडर के दावे के लिए अक्सर मूल दावे से अलग दस्तावेज़ चाहिए होते हैं: गंभीर बीमारी के लिए विशेषज्ञ डॉक्टर की रिपोर्ट और जाँच के नतीजे, दुर्घटना के लिए पुलिस रिपोर्ट या अस्पताल के काग़ज़। परिवार को बताकर रखिए कि आपकी पॉलिसी में कौन-से राइडर हैं, ताकि ज़रूरत के समय कोई राइडर दावे से छूट न जाए।',
+        ],
+        pEn: [
+          'A rider claim often needs documents different from the base claim: a specialist’s report and test results for a critical illness, a police report or hospital papers for an accident. Tell your family which riders your policy carries, so that no rider goes unclaimed when the time comes.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'emergency-fund-where-to-keep',
+    sections: [
+      {
+        hHi: 'लिक्विड फ़ंड और तत्काल निकासी',
+        hEn: 'Liquid funds and instant redemption',
+        pHi: [
+          'आपात कोष का एक हिस्सा लिक्विड फ़ंड में रखा जा सकता है, जो बहुत छोटी अवधि के सुरक्षित साधनों में निवेश करते हैं और आम तौर पर अगले कार्य-दिवस तक पैसा लौटा देते हैं। कई फ़ंड “तत्काल निकासी” की सुविधा भी देते हैं, जिसमें नियमों के तहत एक सीमित राशि कुछ ही मिनटों में बैंक खाते में आ सकती है।',
+          'लिक्विड फ़ंड बैंक जमा की तरह बीमित नहीं हैं, और बहुत कम मामलों में उनका मूल्य थोड़ा घट भी सकता है। इसलिए आपात कोष का पहला हिस्सा, कुछ हफ़्तों का ख़र्च, बचत खाते में रखिए, और बाक़ी को लिक्विड फ़ंड या स्वीप-इन FD में।',
+        ],
+        pEn: [
+          'Part of an emergency fund can be kept in a liquid fund, which invests in very short-term safe instruments and usually returns money by the next working day. Many funds also offer “instant redemption”, under which a limited amount can reach your bank account within minutes, as per the rules.',
+          'Liquid funds are not insured like bank deposits, and in rare cases their value can dip slightly. So keep the first layer of the emergency fund, a few weeks of spending, in a savings account, and the rest in a liquid fund or a sweep-in FD.',
+        ],
+      },
+      {
+        hHi: 'परिवार भी कोष तक पहुँच सके',
+        hEn: 'Make sure the family can reach the fund',
+        pHi: [
+          'आपात स्थिति कई बार उसी व्यक्ति के साथ होती है जिसके नाम पर कोष है: अस्पताल में भर्ती, यात्रा में फँसना या कोई दुर्घटना। अगर उस समय कोई और पैसा निकाल ही न सके, तो कोष का उद्देश्य अधूरा रह जाता है। इसलिए आपात कोष का कम से कम एक हिस्सा संयुक्त खाते में, या जीवनसाथी के नाम पर भी, रखिए, और भरोसेमंद सदस्य को यह जानकारी दीजिए कि पैसा कहाँ है और कैसे निकलेगा।',
+          'नामांकन हर खाते और फ़ंड में दर्ज हो, यह भी पक्का कीजिए। यह छोटा-सा काम संकट के समय परिवार को बड़ी परेशानी से बचाता है।',
+        ],
+        pEn: [
+          'An emergency often befalls the very person in whose name the fund is held: a hospital admission, being stranded while travelling, or an accident. If nobody else can withdraw the money then, the fund’s purpose is only half served. So keep at least part of the emergency fund in a joint account, or in the spouse’s name too, and tell a trusted member where the money is and how to withdraw it.',
+          'Make sure a nomination is registered on every account and fund as well. That small task spares the family great trouble in a crisis.',
+        ],
+      },
+      {
+        hHi: 'घर में थोड़ी नक़दी',
+        hEn: 'A little cash at home',
+        pHi: [
+          'डिजिटल भुगतान के दौर में भी कुछ स्थितियों में नक़द ही काम आता है: लंबी बिजली कटौती, नेटवर्क बंद होना, या किसी ऐसी जगह पर ज़रूरत जहाँ डिजिटल भुगतान न चले। घर में कुछ दिनों के ज़रूरी ख़र्च जितनी नक़दी, सुरक्षित जगह पर, रखना समझदारी है। इससे ज़्यादा नक़दी घर में रखने से चोरी का जोखिम बढ़ता है और वह पैसा कोई ब्याज भी नहीं कमाता।',
+        ],
+        pEn: [
+          'Even in an age of digital payments, cash is the only thing that works in some situations: a long power cut, a network outage, or a need somewhere digital payment does not work. Keeping cash for a few days’ essential spending at home, in a safe place, is sensible. Keeping more than that raises the risk of theft and earns no interest either.',
+        ],
+      },
+      {
+        hHi: 'भरोसेमंद बैंक, सीमा के भीतर',
+        hEn: 'A trustworthy bank, within the limit',
+        pHi: [
+          'आपात कोष के लिए बैंक चुनते समय ऊँचे ब्याज से ज़्यादा भरोसा और पहुँच देखिए: अच्छी ऐप, आसपास शाखा या ATM, और 24 घंटे की निकासी की सुविधा। बड़ी राशि हो, तो उसे दो बैंकों में बाँटिए, ताकि किसी एक बैंक की तकनीकी परेशानी या किसी असामान्य स्थिति में भी आपके पास पैसा पहुँचने का दूसरा रास्ता रहे।',
+        ],
+        pEn: [
+          'When choosing a bank for the emergency fund, look at trust and access more than a high rate: a good app, a branch or ATM nearby, and round-the-clock withdrawals. If the sum is large, split it between two banks, so that even if one bank has a technical problem or something unusual happens, you still have a second route to your money.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'advance-tax-basics',
+    sections: [
+      {
+        hHi: 'कब लागू नहीं होता',
+        hEn: 'When it does not apply',
+        pHi: [
+          'अग्रिम कर तभी चुकाना होता है जब TDS घटाने के बाद पूरे साल की अनुमानित कर देनदारी एक तय सीमा, ₹10,000, या उससे ज़्यादा हो। जिन वेतनभोगियों का पूरा कर नियोक्ता TDS के रूप में काट लेता है और जिनकी दूसरी आय बहुत कम है, उन पर आम तौर पर यह लागू नहीं होता।',
+          'साठ साल या उससे अधिक उम्र के निवासी वरिष्ठ नागरिकों को, जिनकी व्यापार या पेशे से कोई आय नहीं है, अग्रिम कर से छूट है; वे अपना कर रिटर्न भरने से पहले स्व-मूल्यांकन कर के रूप में एक बार में चुका सकते हैं।',
+        ],
+        pEn: [
+          'Advance tax is payable only when the estimated tax liability for the year, after deducting TDS, is ₹10,000 or more. Salaried people whose whole tax is deducted by the employer as TDS and who have very little other income are usually not affected.',
+          'Resident senior citizens aged sixty or over with no income from business or profession are exempt from advance tax; they can pay their tax in one go as self-assessment tax before filing their return.',
+        ],
+      },
+      {
+        hHi: 'साल के बीच में आया पूँजीगत लाभ',
+        hEn: 'Capital gains arising mid-year',
+        pHi: [
+          'कई लोगों का अनुमान साल की शुरुआत में ठीक होता है, पर बीच में शेयर, म्यूचुअल फ़ंड या ज़मीन की बिक्री से अचानक लाभ हो जाता है, जिसका पहले अनुमान लगाना संभव नहीं था। नियमों के अनुसार ऐसे लाभ पर कर उसके बाद की बची हुई किस्तों में चुकाया जा सकता है, और अगर समय पर चुका दिया जाए, तो पिछली किस्तों में कमी के लिए ब्याज नहीं लगता।',
+          'इसलिए किसी बड़ी बिक्री के तुरंत बाद अगली किस्त की तारीख़ देखिए और उस लाभ पर कर का अनुमान लगाकर उसमें जोड़ दीजिए।',
+        ],
+        pEn: [
+          'Many people estimate correctly at the start of the year, but then a sale of shares, mutual funds or land produces a sudden gain that could not have been foreseen. Under the rules, tax on such a gain can be paid in the remaining instalments after it arises, and if paid on time, no interest is charged for the shortfall in earlier instalments.',
+          'So right after any large sale, look at the next instalment date and add an estimate of the tax on that gain to it.',
+        ],
+      },
+      {
+        hHi: 'अनुमानित कराधान वाले व्यापारी और पेशेवर',
+        hEn: 'Traders and professionals under presumptive taxation',
+        pHi: [
+          'जो छोटे व्यापारी और पेशेवर “अनुमानित कराधान” की योजनाओं के तहत आय दिखाते हैं, उनके लिए नियम सरल है: पूरा अग्रिम कर एक ही किस्त में, 15 मार्च तक, चुकाया जा सकता है। यह सुविधा छोटे करदाताओं का बोझ कम करती है, पर तारीख़ चूकने पर ब्याज लगता है, इसलिए मार्च की शुरुआत में ही हिसाब कर लीजिए।',
+        ],
+        pEn: [
+          'For small traders and professionals who declare income under the “presumptive taxation” schemes, the rule is simpler: the whole advance tax can be paid in a single instalment by 15 March. The facility eases the burden on small taxpayers, but missing the date brings interest, so do the reckoning at the start of March.',
+        ],
+      },
+      {
+        hHi: 'भुगतान कैसे करें और रसीद',
+        hEn: 'How to pay, and the receipt',
+        pHi: [
+          'अग्रिम कर आयकर विभाग के ई-फ़ाइलिंग पोर्टल की “ई-पे टैक्स” सुविधा से नेट बैंकिंग, UPI या डेबिट कार्ड जैसे तरीक़ों से चुकाया जा सकता है। भुगतान करते समय कर का प्रकार “अग्रिम कर” और सही आकलन वर्ष चुनना बहुत ज़रूरी है; ग़लत चुनाव से भुगतान दूसरी जगह दर्ज हो जाता है और बाद में सुधार की परेशानी होती है।',
+          'हर भुगतान की रसीद, जिसमें चालान पहचान संख्या होती है, अपनी कर-फ़ाइल में रखिए, और कुछ दिनों बाद फ़ॉर्म 26AS में देखिए कि भुगतान दर्ज हुआ या नहीं।',
+        ],
+        pEn: [
+          'Advance tax can be paid through the “e-Pay Tax” facility on the Income Tax Department’s e-filing portal, using net banking, UPI or a debit card. When paying, selecting “advance tax” as the type and the correct assessment year is essential; a wrong choice records the payment elsewhere and correcting it later is a nuisance.',
+          'Keep the receipt for every payment, with its challan identification number, in your tax file, and a few days later check in Form 26AS that the payment has been recorded.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-not-endowment-plans',
+    sections: [
+      {
+        hHi: 'बोनस: घोषित, गारंटीड नहीं',
+        hEn: 'Bonuses: declared, not guaranteed',
+        pHi: [
+          'पारंपरिक “पार्टिसिपेटिंग” पॉलिसियों में रिटर्न का बड़ा हिस्सा बोनस से आता है, जो बीमा कंपनी हर साल अपने प्रदर्शन के आधार पर घोषित करती है, और परिपक्वता पर कभी-कभी एक “अंतिम बोनस” भी। बिक्री के समय दिखाए गए आँकड़े अक्सर बोनस की किसी मान ली गई दर पर आधारित होते हैं, जो भविष्य में कम भी हो सकती है।',
+          'इसलिए बेनिफ़िट इलस्ट्रेशन में “गारंटीड” और “नॉन-गारंटीड” हिस्सों को अलग-अलग पढ़िए। फ़ैसला केवल गारंटीड हिस्से को देखकर कीजिए, और बाक़ी को संभावित अतिरिक्त लाभ मानिए, वादा नहीं।',
+        ],
+        pEn: [
+          'In traditional “participating” policies a large part of the return comes from bonuses, which the insurer declares each year based on its performance, and sometimes a “terminal bonus” at maturity. The figures shown at the time of sale are often based on an assumed bonus rate that may turn out lower in future.',
+          'So read the “guaranteed” and “non-guaranteed” portions of the benefit illustration separately. Decide by looking only at the guaranteed portion, and treat the rest as a possible extra, not a promise.',
+        ],
+      },
+      {
+        hHi: 'असली रिटर्न की गणना: IRR',
+        hEn: 'Working out the real return: IRR',
+        pHi: [
+          'किसी बचत-आधारित पॉलिसी का असली रिटर्न समझने का सबसे अच्छा तरीक़ा “आंतरिक प्रतिफल दर” (IRR) है: हर साल चुकाया गया प्रीमियम और अंत में मिलने वाली राशि लेकर यह निकालना कि पैसा सालाना कितनी दर से बढ़ा। स्प्रेडशीट के IRR फ़ंक्शन से यह कुछ मिनटों में हो जाता है, और कई ऑनलाइन कैलकुलेटर भी यह करते हैं।',
+          'अक्सर यह दर बैंक FD या PPF जैसी सुरक्षित योजनाओं के आसपास या उनसे कम निकलती है, और उसके साथ बीमा कवर भी अपेक्षाकृत छोटा होता है। यह गणना ख़ुद कीजिए, या एजेंट से लिखित में माँगिए; जो उत्पाद अपनी IRR बताने से कतराए, उस पर सावधान रहिए।',
+        ],
+        pEn: [
+          'The best way to understand the real return of a savings-linked policy is the “internal rate of return” (IRR): taking the premium paid each year and the amount received at the end, and working out the annual rate at which the money grew. A spreadsheet’s IRR function does it in minutes, and several online calculators do too.',
+          'The rate often comes out around or below safe options such as bank FDs or PPF, and the insurance cover that comes with it is relatively small. Do the calculation yourself, or ask the agent for it in writing; be wary of any product that hesitates to state its IRR.',
+        ],
+      },
+      {
+        hHi: 'समर्पण मूल्य के नियम बदले हैं',
+        hEn: 'The rules on surrender value have changed',
+        pHi: [
+          'बीमा नियामक ने हाल के वर्षों में नियम बदले हैं ताकि पॉलिसी बीच में छोड़ने वालों को पहले से बेहतर समर्पण मूल्य मिल सके, ख़ासकर नई पॉलिसियों में। फिर भी शुरुआती वर्षों में छोड़ने पर चुकाए गए प्रीमियम का बड़ा हिस्सा वापस नहीं आता। किसी पॉलिसी को रखने या छोड़ने का फ़ैसला करने से पहले बीमा कंपनी से उस दिन का समर्पण मूल्य और पेड-अप मूल्य, दोनों लिखित में माँगिए।',
+        ],
+        pEn: [
+          'In recent years the insurance regulator has changed the rules so that people leaving a policy midway receive a better surrender value than before, especially on new policies. Even so, leaving in the early years means a large part of the premiums paid does not come back. Before deciding whether to keep or leave a policy, ask the insurer in writing for both the current surrender value and the paid-up value.',
+        ],
+      },
+      {
+        hHi: 'बेचने वाले का कमीशन',
+        hEn: 'The seller’s commission',
+        pHi: [
+          'पारंपरिक बचत-आधारित पॉलिसियों में बेचने वाले का कमीशन, ख़ासकर पहले साल, टर्म बीमा की तुलना में काफ़ी ज़्यादा होता है। इसका अर्थ यह नहीं कि हर एजेंट की सलाह ग़लत है, पर यह समझना ज़रूरी है कि सलाह के पीछे किस तरह का प्रोत्साहन हो सकता है। स्वतंत्र राय के लिए किसी पंजीकृत, शुल्क-आधारित सलाहकार से बात करना उपयोगी है।',
+        ],
+        pEn: [
+          'In traditional savings-linked policies the seller’s commission, especially in the first year, is considerably higher than for term insurance. That does not mean every agent’s advice is wrong, but it is important to understand what incentive may lie behind the advice. For an independent view, it helps to speak to a registered, fee-only adviser.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'upi-safe-habits',
+    sections: [
+      {
+        hHi: 'महीने में एक बार लेन-देन इतिहास',
+        hEn: 'The transaction history, once a month',
+        pHi: [
+          'महीने में एक बार अपने UPI ऐप का पूरा लेन-देन इतिहास और बैंक विवरण देखिए। कोई अनजाना भुगतान, कोई ऐसा ऑटोपे जो आपने सेट नहीं किया, या किसी अनजान व्यापारी को छोटी-छोटी रक़में दिखें, तो तुरंत बैंक को सूचित कीजिए। कई ठगियाँ छोटी रक़मों से शुरू होती हैं, यह जाँचने के लिए कि खाता कोई देख रहा है या नहीं।',
+        ],
+        pEn: [
+          'Once a month, look through your UPI app’s full transaction history and your bank statement. If you see an unknown payment, an autopay you never set up, or small sums to an unfamiliar merchant, inform the bank at once. Many frauds begin with small amounts, to test whether anyone is watching the account.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'digital-payment-fraud-types',
+    sections: [
+      {
+        hHi: 'शिकायत में देर नहीं',
+        hEn: 'No delay in complaining',
+        pHi: [
+          'ठगी होते ही, शर्म या संकोच छोड़कर, उसी घंटे 1930 पर फ़ोन कीजिए। जितनी जल्दी शिकायत होती है, बैंक के स्तर पर पैसा रोके जाने की संभावना उतनी ज़्यादा होती है।',
+        ],
+        pEn: [
+          'The moment a fraud happens, set aside embarrassment and call 1930 within the hour. The sooner the complaint is made, the better the chance of the money being held at the bank.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'online-shopping-safety',
+    sections: [
+      {
+        hHi: 'डिलीवरी पर “OTP” की माँग',
+        hEn: 'An “OTP” request at delivery',
+        pHi: [
+          'कई बाज़ार डिलीवरी की पुष्टि के लिए OTP माँगते हैं, जो सामान्य है। लेकिन अगर कोई कॉल पर “डिलीवरी बदलने” या “रिफ़ंड” के लिए OTP माँगे, तो वह भुगतान का OTP हो सकता है। OTP बताने से पहले संदेश को पूरा पढ़िए कि वह किस काम के लिए है।',
+        ],
+        pEn: [
+          'Many marketplaces ask for an OTP to confirm delivery, which is normal. But if someone on a call asks for an OTP to “change delivery” or for a “refund”, it may be a payment OTP. Before sharing any OTP, read the whole message to see what it is for.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'mobile-banking-security',
+    sections: [
+      {
+        hHi: 'फ़ोन का सॉफ़्टवेयर अद्यतन रखिए',
+        hEn: 'Keep the phone’s software updated',
+        pHi: [
+          'फ़ोन और बैंकिंग ऐप के अपडेट केवल नई सुविधाएँ नहीं, सुरक्षा की कमियों को भी बंद करते हैं। पुराने, अपडेट न होने वाले फ़ोन पर बैंकिंग करना जोखिम बढ़ाता है। फ़ोन की स्वचालित अपडेट सुविधा चालू रखिए, बैंक ऐप का नया संस्करण आते ही उसे अपडेट कीजिए, और अगर फ़ोन को सालों से सुरक्षा अपडेट नहीं मिले, तो बैंकिंग के लिए किसी नए, सुरक्षित फ़ोन पर विचार कीजिए।',
+          'फ़ोन को “रूट” या “जेलब्रेक” करने से उसकी अंदरूनी सुरक्षा कमज़ोर होती है, और कई बैंक ऐप ऐसे फ़ोन पर चलते भी नहीं। बैंकिंग वाले फ़ोन के साथ ऐसे प्रयोग मत कीजिए।',
+        ],
+        pEn: [
+          'Phone and banking app updates do not only add features; they also close security gaps. Banking on an old phone that no longer receives updates raises the risk. Keep automatic updates switched on, update the bank app as soon as a new version arrives, and if the phone has not received security updates for years, consider a newer, secure phone for banking.',
+          '“Rooting” or “jailbreaking” a phone weakens its internal security, and many bank apps will not even run on such phones. Do not experiment in this way with the phone you bank on.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'riders-in-insurance',
+    sections: [
+      {
+        hHi: 'प्रीमियम छूट राइडर: छोटा ख़र्च, बड़ी राहत',
+        hEn: 'The waiver of premium rider: small cost, big relief',
+        pHi: [
+          'कुछ पॉलिसियों में “प्रीमियम छूट” राइडर मिलता है: अगर बीमित व्यक्ति स्थायी रूप से विकलांग हो जाए या कुछ मामलों में गंभीर बीमारी हो, तो आगे के प्रीमियम माफ़ हो जाते हैं और पॉलिसी चालू रहती है। बच्चों के लिए ली गई योजनाओं में, जहाँ माता-पिता प्रीमियम चुकाते हैं, यह राइडर ख़ास तौर पर उपयोगी है।',
+          'इस राइडर की परिभाषाएँ भी ध्यान से पढ़िए: “विकलांगता” का क्या अर्थ है, और किन बीमारियों पर छूट मिलती है।',
+        ],
+        pEn: [
+          'Some policies offer a “waiver of premium” rider: if the insured becomes permanently disabled, or in some cases suffers a critical illness, future premiums are waived and the policy stays in force. In plans taken for children, where parents pay the premium, this rider is especially useful.',
+          'Read this rider’s definitions carefully too: what “disability” means, and which illnesses trigger the waiver.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'emergency-fund-where-to-keep',
+    sections: [
+      {
+        hHi: 'इसे नज़र से दूर रखिए',
+        hEn: 'Keep it out of sight',
+        pHi: [
+          'आपात कोष वाले खाते को रोज़ के ऐप के होम पेज पर मत रखिए और उससे डेबिट कार्ड मत जोड़िए। जो पैसा रोज़ दिखता नहीं, उसे छोटी-मोटी चाहतों पर ख़र्च करने का मन भी कम होता है।',
+        ],
+        pEn: [
+          'Do not keep the emergency fund account on your everyday app’s home screen, and do not link a debit card to it. Money you do not see every day is far less tempting to spend on small wants.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'advance-tax-basics',
+    sections: [
+      {
+        hHi: 'फ़्रीलांसर और किराये की आय वाले',
+        hEn: 'Freelancers and those with rental income',
+        pHi: [
+          'जिनकी आय का बड़ा हिस्सा फ़्रीलांस काम, सलाह या किराये से आता है, उन पर अक्सर TDS पूरा नहीं कटता, और वही लोग अग्रिम कर सबसे ज़्यादा भूलते हैं। एक सरल आदत है: हर भुगतान मिलते ही उसका एक तय हिस्सा, अनुमानित कर दर के हिसाब से, एक अलग “कर खाते” में डाल देना। किस्त की तारीख़ आने पर पैसा तैयार रहता है, और साल के अंत में अचानक बड़ा कर और ब्याज चुकाने का झटका नहीं लगता।',
+        ],
+        pEn: [
+          'People whose income comes largely from freelance work, consulting or rent often do not have full TDS deducted, and they are the ones who most often forget advance tax. A simple habit helps: as each payment arrives, move a fixed share of it, based on the estimated tax rate, into a separate “tax account”. When an instalment falls due the money is ready, and there is no sudden shock of a large tax bill plus interest at the year’s end.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-not-endowment-plans',
+    sections: [
+      {
+        hHi: 'फ़ैसले से पहले एक रात',
+        hEn: 'One night before deciding',
+        pHi: [
+          'किसी भी लंबी अवधि वाली बीमा-बचत योजना पर उसी बैठक में हस्ताक्षर मत कीजिए जिसमें वह प्रस्तुत की गई। काग़ज़ घर लाइए, बेनिफ़िट इलस्ट्रेशन में गारंटीड राशि और IRR देखिए, परिवार के साथ चर्चा कीजिए, और अगले दिन फ़ैसला कीजिए। बीस साल की प्रतिबद्धता के लिए एक रात का इंतज़ार बहुत छोटी क़ीमत है।',
+        ],
+        pEn: [
+          'Never sign up for a long-term insurance-savings plan in the same meeting in which it is presented. Take the papers home, look at the guaranteed amount and the IRR in the benefit illustration, discuss it with the family, and decide the next day. For a twenty-year commitment, one night’s wait is a very small price.',
+        ],
+      },
+    ],
+  },
+  {
+    slug: 'why-not-endowment-plans',
+    sections: [
+      {
+        hHi: 'एक पंक्ति का सार',
+        hEn: 'The point in one line',
+        pHi: [
+          'बीमा परिवार की सुरक्षा के लिए लीजिए, और निवेश संपत्ति बनाने के लिए; दोनों को एक उत्पाद में बाँधने से अक्सर दोनों कमज़ोर पड़ते हैं।',
+        ],
+        pEn: [
+          'Buy insurance to protect the family and invest to build wealth; tying the two into one product often weakens both.',
+        ],
+      },
+    ],
+  },
 ];
 
 export function applyExpansions(all: Article[]): void {
