@@ -35,18 +35,18 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'hi_IN'
   },
-  other: { 'google-adsense-account': 'ca-pub-5944786950535069' }
+  other: { 'google-adsense-account': 'ca-pub-2493615451319531' }
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="hi" className={`${deva.variable} ${inter.variable}`}>
       <head>
-        {/* Google AdSense — the one loader + account meta, on every page. */}
-        <meta name="google-adsense-account" content="ca-pub-5944786950535069" />
+        {/* Google AdSense (owner, 20 Oct 2026: pub-2493615451319531) — the one loader + account meta, on every page. */}
+        <meta name="google-adsense-account" content="ca-pub-2493615451319531" />
         <script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5944786950535069"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2493615451319531"
           crossOrigin="anonymous"
         />
         <script
