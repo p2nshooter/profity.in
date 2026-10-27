@@ -24,11 +24,13 @@ export const metadata: Metadata = {
     template: '%s · Profity.in'
   },
   description:
-    'निवेश, बचत, टैक्स, बीमा और डिजिटल पैसे पर गहरे और ईमानदार लेख — हिन्दी और अंग्रेज़ी में, मुफ़्त, बिना रजिस्ट्रेशन। Honest personal-finance guides for India, in Hindi and English.',
+    'निवेश, बचत, टैक्स, बीमा और डिजिटल पैसे पर ईमानदार लेख — हिन्दी और अंग्रेज़ी में, मुफ़्त। Honest personal-finance guides for India, in Hindi and English.',
   alternates: { canonical: '/' },
   // Own brand favicon — overrides the leftover Sedo parking favicon that a
   // browser may still show for a freshly-migrated domain.
-  icons: { icon: '/icon.svg?v=2', shortcut: '/icon.svg?v=2', apple: '/icon.svg?v=2' },
+  // apple-icon.png, opengraph-image.png and twitter-image.png sit in app/ (file conventions).
+  icons: { icon: '/icon.svg?v=2', shortcut: '/icon.svg?v=2' },
+  twitter: { card: 'summary_large_image' },
   robots: { index: true, follow: true },
   openGraph: {
     siteName: 'Profity.in',
